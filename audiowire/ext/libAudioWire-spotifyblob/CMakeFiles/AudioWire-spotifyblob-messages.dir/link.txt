@@ -1,0 +1,2 @@
+/usr/bin/ar cr libAudioWire-spotifyblob-messages.a  CMakeFiles/AudioWire-spotifyblob-messages.dir/spotifymessages.pb.cc.o
+/usr/bin/ranlib libAudioWire-spotifyblob-messages.a

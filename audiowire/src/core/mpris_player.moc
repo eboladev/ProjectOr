@@ -1,0 +1,200 @@
+/****************************************************************************
+** Meta object code from reading C++ file 'mpris_player.h'
+**
+** Created: Tue Apr 23 15:27:58 2013
+**      by: The Qt Meta Object Compiler version 63 (Qt 4.8.3)
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#include "mpris_player.h"
+#if !defined(Q_MOC_OUTPUT_REVISION)
+#error "The header file 'mpris_player.h' doesn't include <QObject>."
+#elif Q_MOC_OUTPUT_REVISION != 63
+#error "This file was generated using the moc from 4.8.3. It"
+#error "cannot be used with the include files from this version of Qt."
+#error "(The moc has changed too much.)"
+#endif
+
+QT_BEGIN_MOC_NAMESPACE
+static const uint qt_meta_data_MprisPlayer[] = {
+
+ // content:
+       6,       // revision
+       0,       // classname
+       2,   14, // classinfo
+      20,   18, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       3,       // signalCount
+
+ // classinfo: key, value
+      40,   12,
+    1730,   56,
+
+ // signals: signature, parameters, type, tag, flags
+    1755, 1751, 1750, 1750, 0x05,
+    1771, 1751, 1750, 1750, 0x05,
+    1796, 1751, 1750, 1750, 0x05,
+
+ // slots: signature, parameters, type, tag, flags
+    1825, 1750, 1821, 1750, 0x0a,
+    1847, 1750, 1835, 1750, 0x0a,
+    1872, 1750, 1861, 1750, 0x0a,
+    1884, 1750, 1750, 1750, 0x0a,
+    1891, 1750, 1750, 1750, 0x0a,
+    1898, 1750, 1750, 1750, 0x0a,
+    1906, 1750, 1750, 1750, 0x0a,
+    1913, 1750, 1821, 1750, 0x0a,
+    1927, 1751, 1750, 1750, 0x0a,
+    1944, 1750, 1750, 1750, 0x0a,
+    1951, 1751, 1750, 1750, 0x0a,
+    1964, 1750, 1750, 1750, 0x0a,
+    1974, 1750, 1750, 1750, 0x0a,
+    1981, 1751, 1750, 1750, 0x0a,
+    1997, 1750, 1821, 1750, 0x0a,
+    2009, 1751, 1750, 1750, 0x0a,
+    2024, 1751, 1750, 1750, 0x0a,
+
+       0        // eod
+};
+
+static const char qt_meta_stringdata_MprisPlayer[] = {
+    "MprisPlayer\0org.freedesktop.MediaPlayer\0"
+    "D-Bus Interface\0"
+    "  <interface name=\"org.freedesktop.MediaPlayer\">\n    <method name=\""
+    "Pause\"/>\n    <method name=\"Stop\"/>\n    <method name=\"Play\"/>\n "
+    "   <method name=\"Prev\"/>\n    <method name=\"Next\"/>\n    <method n"
+    "ame=\"Repeat\">\n      <arg direction=\"in\" type=\"b\"/>\n    </metho"
+    "d>\n    <method name=\"GetStatus\">\n      <arg direction=\"out\" type"
+    "=\"(iiii)\"/>\n      <annotation value=\"DBusStatus\" name=\"com.troll"
+    "tech.QtDBus.QtTypeName.Out0\"/>\n    </method>\n    <method name=\"Vol"
+    "umeSet\">\n      <arg direction=\"in\" type=\"i\"/>\n    </method>\n  "
+    "  <method name=\"VolumeGet\">\n      <arg direction=\"out\" type=\"i\""
+    "/>\n    </method>\n    <method name=\"PositionSet\">\n      <arg direc"
+    "tion=\"in\" type=\"i\"/>\n    </method>\n    <method name=\"PositionGe"
+    "t\">\n      <arg direction=\"out\" type=\"i\"/>\n    </method>\n    <m"
+    "ethod name=\"GetMetadata\">\n      <arg direction=\"out\" type=\"a{sv}"
+    "\"/>\n      <annotation value=\"QVariantMap\" name=\"com.trolltech.QtD"
+    "Bus.QtTypeName.Out0\"/>\n    </method>\n    <method name=\"GetCaps\">\n"
+    "      <arg direction=\"out\" type=\"i\"/>\n    </method>\n    <signal "
+    "name=\"TrackChange\">\n      <arg type=\"a{sv}\"/>\n      <annotation "
+    "value=\"QVariantMap\" name=\"com.trolltech.QtDBus.QtTypeName.In0\"/>\n"
+    "    </signal>\n    <signal name=\"StatusChange\">\n      <arg type=\"("
+    "iiii)\"/>\n      <annotation value=\"DBusStatus\" name=\"com.trolltech"
+    ".QtDBus.QtTypeName.In0\"/>\n    </signal>\n    <signal name=\"CapsChan"
+    "ge\">\n      <arg type=\"i\"/>\n    </signal>\n    <!-- NB: Amarok ext"
+    "ensions to the mpris spec -->\n    <method name=\"VolumeUp\">\n      <"
+    "arg direction=\"in\" type=\"i\"/>\n    </method>\n    <method name=\"V"
+    "olumeDown\">\n      <arg direction=\"in\" type=\"i\"/>\n    </method>\n"
+    "    <method name=\"Mute\"/>\n    <method name=\"ShowOSD\"/>\n  </inter"
+    "face>\n\0"
+    "D-Bus Introspection\0\0in0\0CapsChange(int)\0"
+    "StatusChange(DBusStatus)\0"
+    "TrackChange(QVariantMap)\0int\0GetCaps()\0"
+    "QVariantMap\0GetMetadata()\0DBusStatus\0"
+    "GetStatus()\0Mute()\0Next()\0Pause()\0"
+    "Play()\0PositionGet()\0PositionSet(int)\0"
+    "Prev()\0Repeat(bool)\0ShowOSD()\0Stop()\0"
+    "VolumeDown(int)\0VolumeGet()\0VolumeSet(int)\0"
+    "VolumeUp(int)\0"
+};
+
+void MprisPlayer::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        Q_ASSERT(staticMetaObject.cast(_o));
+        MprisPlayer *_t = static_cast<MprisPlayer *>(_o);
+        switch (_id) {
+        case 0: _t->CapsChange((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 1: _t->StatusChange((*reinterpret_cast< DBusStatus(*)>(_a[1]))); break;
+        case 2: _t->TrackChange((*reinterpret_cast< const QVariantMap(*)>(_a[1]))); break;
+        case 3: { int _r = _t->GetCaps();
+            if (_a[0]) *reinterpret_cast< int*>(_a[0]) = _r; }  break;
+        case 4: { QVariantMap _r = _t->GetMetadata();
+            if (_a[0]) *reinterpret_cast< QVariantMap*>(_a[0]) = _r; }  break;
+        case 5: { DBusStatus _r = _t->GetStatus();
+            if (_a[0]) *reinterpret_cast< DBusStatus*>(_a[0]) = _r; }  break;
+        case 6: _t->Mute(); break;
+        case 7: _t->Next(); break;
+        case 8: _t->Pause(); break;
+        case 9: _t->Play(); break;
+        case 10: { int _r = _t->PositionGet();
+            if (_a[0]) *reinterpret_cast< int*>(_a[0]) = _r; }  break;
+        case 11: _t->PositionSet((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 12: _t->Prev(); break;
+        case 13: _t->Repeat((*reinterpret_cast< bool(*)>(_a[1]))); break;
+        case 14: _t->ShowOSD(); break;
+        case 15: _t->Stop(); break;
+        case 16: _t->VolumeDown((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 17: { int _r = _t->VolumeGet();
+            if (_a[0]) *reinterpret_cast< int*>(_a[0]) = _r; }  break;
+        case 18: _t->VolumeSet((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 19: _t->VolumeUp((*reinterpret_cast< int(*)>(_a[1]))); break;
+        default: ;
+        }
+    }
+}
+
+const QMetaObjectExtraData MprisPlayer::staticMetaObjectExtraData = {
+    0,  qt_static_metacall 
+};
+
+const QMetaObject MprisPlayer::staticMetaObject = {
+    { &QDBusAbstractAdaptor::staticMetaObject, qt_meta_stringdata_MprisPlayer,
+      qt_meta_data_MprisPlayer, &staticMetaObjectExtraData }
+};
+
+#ifdef Q_NO_DATA_RELOCATION
+const QMetaObject &MprisPlayer::getStaticMetaObject() { return staticMetaObject; }
+#endif //Q_NO_DATA_RELOCATION
+
+const QMetaObject *MprisPlayer::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->metaObject : &staticMetaObject;
+}
+
+void *MprisPlayer::qt_metacast(const char *_clname)
+{
+    if (!_clname) return 0;
+    if (!strcmp(_clname, qt_meta_stringdata_MprisPlayer))
+        return static_cast<void*>(const_cast< MprisPlayer*>(this));
+    return QDBusAbstractAdaptor::qt_metacast(_clname);
+}
+
+int MprisPlayer::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QDBusAbstractAdaptor::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        if (_id < 20)
+            qt_static_metacall(this, _c, _id, _a);
+        _id -= 20;
+    }
+    return _id;
+}
+
+// SIGNAL 0
+void MprisPlayer::CapsChange(int _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 0, _a);
+}
+
+// SIGNAL 1
+void MprisPlayer::StatusChange(DBusStatus _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 1, _a);
+}
+
+// SIGNAL 2
+void MprisPlayer::TrackChange(const QVariantMap & _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 2, _a);
+}
+QT_END_MOC_NAMESPACE

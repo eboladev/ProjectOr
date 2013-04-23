@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibAudioWire-tagreader.a  CMakeFiles/libAudioWire-tagreader.dir/tagreadermessages.pb.cc.o
+/usr/bin/ranlib liblibAudioWire-tagreader.a

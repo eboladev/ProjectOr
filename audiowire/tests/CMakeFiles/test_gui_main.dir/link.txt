@@ -1,0 +1,2 @@
+/usr/bin/ar cr libtest_gui_main.a  CMakeFiles/test_gui_main.dir/qrc_testdata.cxx.o CMakeFiles/test_gui_main.dir/main.cpp.o
+/usr/bin/ranlib libtest_gui_main.a

@@ -1,0 +1,137 @@
+/********************************************************************************
+** Form generated from reading UI file 'equalizer.ui'
+**
+** Created: Tue Apr 23 15:28:24 2013
+**      by: Qt User Interface Compiler version 4.8.3
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_EQUALIZER_H
+#define UI_EQUALIZER_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QCheckBox>
+#include <QtGui/QComboBox>
+#include <QtGui/QDialog>
+#include <QtGui/QFrame>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QHeaderView>
+#include <QtGui/QLabel>
+#include <QtGui/QToolButton>
+#include <QtGui/QVBoxLayout>
+#include <QtGui/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_Equalizer
+{
+public:
+    QVBoxLayout *verticalLayout;
+    QHBoxLayout *horizontalLayout;
+    QLabel *label;
+    QComboBox *preset;
+    QToolButton *preset_save;
+    QToolButton *preset_del;
+    QFrame *line;
+    QCheckBox *enable;
+    QWidget *slider_container;
+    QHBoxLayout *horizontalLayout_2;
+
+    void setupUi(QDialog *Equalizer)
+    {
+        if (Equalizer->objectName().isEmpty())
+            Equalizer->setObjectName(QString::fromUtf8("Equalizer"));
+        Equalizer->resize(435, 265);
+        QIcon icon;
+        icon.addFile(QString::fromUtf8(":/icon.png"), QSize(), QIcon::Normal, QIcon::Off);
+        Equalizer->setWindowIcon(icon);
+        verticalLayout = new QVBoxLayout(Equalizer);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+        horizontalLayout = new QHBoxLayout();
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        label = new QLabel(Equalizer);
+        label->setObjectName(QString::fromUtf8("label"));
+
+        horizontalLayout->addWidget(label);
+
+        preset = new QComboBox(Equalizer);
+        preset->setObjectName(QString::fromUtf8("preset"));
+        QSizePolicy sizePolicy(QSizePolicy::Expanding, QSizePolicy::Fixed);
+        sizePolicy.setHorizontalStretch(0);
+        sizePolicy.setVerticalStretch(0);
+        sizePolicy.setHeightForWidth(preset->sizePolicy().hasHeightForWidth());
+        preset->setSizePolicy(sizePolicy);
+
+        horizontalLayout->addWidget(preset);
+
+        preset_save = new QToolButton(Equalizer);
+        preset_save->setObjectName(QString::fromUtf8("preset_save"));
+
+        horizontalLayout->addWidget(preset_save);
+
+        preset_del = new QToolButton(Equalizer);
+        preset_del->setObjectName(QString::fromUtf8("preset_del"));
+
+        horizontalLayout->addWidget(preset_del);
+
+
+        verticalLayout->addLayout(horizontalLayout);
+
+        line = new QFrame(Equalizer);
+        line->setObjectName(QString::fromUtf8("line"));
+        line->setFrameShape(QFrame::HLine);
+        line->setFrameShadow(QFrame::Sunken);
+
+        verticalLayout->addWidget(line);
+
+        enable = new QCheckBox(Equalizer);
+        enable->setObjectName(QString::fromUtf8("enable"));
+
+        verticalLayout->addWidget(enable);
+
+        slider_container = new QWidget(Equalizer);
+        slider_container->setObjectName(QString::fromUtf8("slider_container"));
+        slider_container->setEnabled(false);
+        QSizePolicy sizePolicy1(QSizePolicy::Preferred, QSizePolicy::Expanding);
+        sizePolicy1.setHorizontalStretch(0);
+        sizePolicy1.setVerticalStretch(0);
+        sizePolicy1.setHeightForWidth(slider_container->sizePolicy().hasHeightForWidth());
+        slider_container->setSizePolicy(sizePolicy1);
+        horizontalLayout_2 = new QHBoxLayout(slider_container);
+        horizontalLayout_2->setObjectName(QString::fromUtf8("horizontalLayout_2"));
+
+        verticalLayout->addWidget(slider_container);
+
+        QWidget::setTabOrder(preset, preset_save);
+
+        retranslateUi(Equalizer);
+
+        QMetaObject::connectSlotsByName(Equalizer);
+    } // setupUi
+
+    void retranslateUi(QDialog *Equalizer)
+    {
+        Equalizer->setWindowTitle(QApplication::translate("Equalizer", "Equalizer", 0, QApplication::UnicodeUTF8));
+        label->setText(QApplication::translate("Equalizer", "Preset:", 0, QApplication::UnicodeUTF8));
+#ifndef QT_NO_TOOLTIP
+        preset_save->setToolTip(QApplication::translate("Equalizer", "Save preset", 0, QApplication::UnicodeUTF8));
+#endif // QT_NO_TOOLTIP
+#ifndef QT_NO_TOOLTIP
+        preset_del->setToolTip(QApplication::translate("Equalizer", "Delete preset", 0, QApplication::UnicodeUTF8));
+#endif // QT_NO_TOOLTIP
+        enable->setText(QApplication::translate("Equalizer", "Enable equalizer", 0, QApplication::UnicodeUTF8));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class Equalizer: public Ui_Equalizer {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_EQUALIZER_H

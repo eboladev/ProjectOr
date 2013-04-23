@@ -1,0 +1,111 @@
+/********************************************************************************
+** Form generated from reading UI file 'songkickconcertwidget.ui'
+**
+** Created: Tue Apr 23 15:28:23 2013
+**      by: Qt User Interface Compiler version 4.8.3
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_SONGKICKCONCERTWIDGET_H
+#define UI_SONGKICKCONCERTWIDGET_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QHeaderView>
+#include <QtGui/QLabel>
+#include <QtGui/QSpacerItem>
+#include <QtGui/QVBoxLayout>
+#include <QtGui/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_SongKickConcertWidget
+{
+public:
+    QHBoxLayout *horizontalLayout;
+    QVBoxLayout *verticalLayout;
+    QLabel *title;
+    QLabel *date;
+    QLabel *location;
+    QSpacerItem *verticalSpacer;
+    QLabel *map;
+
+    void setupUi(QWidget *SongKickConcertWidget)
+    {
+        if (SongKickConcertWidget->objectName().isEmpty())
+            SongKickConcertWidget->setObjectName(QString::fromUtf8("SongKickConcertWidget"));
+        SongKickConcertWidget->resize(571, 195);
+        SongKickConcertWidget->setStyleSheet(QString::fromUtf8("#location, #date {\n"
+"color: #666;\n"
+"}\n"
+""));
+        horizontalLayout = new QHBoxLayout(SongKickConcertWidget);
+        horizontalLayout->setContentsMargins(0, 0, 0, 0);
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        verticalLayout = new QVBoxLayout();
+        verticalLayout->setSpacing(0);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+        title = new QLabel(SongKickConcertWidget);
+        title->setObjectName(QString::fromUtf8("title"));
+        title->setWordWrap(true);
+        title->setOpenExternalLinks(true);
+        title->setTextInteractionFlags(Qt::LinksAccessibleByKeyboard|Qt::LinksAccessibleByMouse|Qt::TextBrowserInteraction|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse);
+
+        verticalLayout->addWidget(title);
+
+        date = new QLabel(SongKickConcertWidget);
+        date->setObjectName(QString::fromUtf8("date"));
+        date->setWordWrap(true);
+        date->setTextInteractionFlags(Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse);
+
+        verticalLayout->addWidget(date);
+
+        location = new QLabel(SongKickConcertWidget);
+        location->setObjectName(QString::fromUtf8("location"));
+        location->setWordWrap(true);
+        location->setTextInteractionFlags(Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse);
+
+        verticalLayout->addWidget(location);
+
+        verticalSpacer = new QSpacerItem(0, 0, QSizePolicy::Minimum, QSizePolicy::MinimumExpanding);
+
+        verticalLayout->addItem(verticalSpacer);
+
+
+        horizontalLayout->addLayout(verticalLayout);
+
+        map = new QLabel(SongKickConcertWidget);
+        map->setObjectName(QString::fromUtf8("map"));
+        QSizePolicy sizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
+        sizePolicy.setHorizontalStretch(0);
+        sizePolicy.setVerticalStretch(0);
+        sizePolicy.setHeightForWidth(map->sizePolicy().hasHeightForWidth());
+        map->setSizePolicy(sizePolicy);
+        map->setCursor(QCursor(Qt::PointingHandCursor));
+
+        horizontalLayout->addWidget(map);
+
+
+        retranslateUi(SongKickConcertWidget);
+
+        QMetaObject::connectSlotsByName(SongKickConcertWidget);
+    } // setupUi
+
+    void retranslateUi(QWidget *SongKickConcertWidget)
+    {
+        SongKickConcertWidget->setWindowTitle(QApplication::translate("SongKickConcertWidget", "Form", 0, QApplication::UnicodeUTF8));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class SongKickConcertWidget: public Ui_SongKickConcertWidget {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_SONGKICKCONCERTWIDGET_H

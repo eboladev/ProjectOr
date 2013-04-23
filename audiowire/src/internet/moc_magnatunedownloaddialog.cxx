@@ -1,0 +1,129 @@
+/****************************************************************************
+** Meta object code from reading C++ file 'magnatunedownloaddialog.h'
+**
+** Created: Tue Apr 23 15:28:06 2013
+**      by: The Qt Meta Object Compiler version 63 (Qt 4.8.3)
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#include "magnatunedownloaddialog.h"
+#if !defined(Q_MOC_OUTPUT_REVISION)
+#error "The header file 'magnatunedownloaddialog.h' doesn't include <QObject>."
+#elif Q_MOC_OUTPUT_REVISION != 63
+#error "This file was generated using the moc from 4.8.3. It"
+#error "cannot be used with the include files from this version of Qt."
+#error "(The moc has changed too much.)"
+#endif
+
+QT_BEGIN_MOC_NAMESPACE
+static const uint qt_meta_data_MagnatuneDownloadDialog[] = {
+
+ // content:
+       6,       // revision
+       0,       // classname
+       0,    0, // classinfo
+      11,   14, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       1,       // signalCount
+
+ // signals: signature, parameters, type, tag, flags
+      32,   25,   24,   24, 0x05,
+
+ // slots: signature, parameters, type, tag, flags
+      54,   24,   24,   24, 0x0a,
+      63,   24,   24,   24, 0x08,
+      72,   24,   24,   24, 0x08,
+      87,   24,   24,   24, 0x08,
+     122,   24,   24,   24, 0x08,
+     156,  141,   24,   24, 0x08,
+     188,   24,   24,   24, 0x08,
+     208,   24,   24,   24, 0x08,
+     235,  227,   24,   24, 0x08,
+     260,  254,   24,   24, 0x08,
+
+       0        // eod
+};
+
+static const char qt_meta_stringdata_MagnatuneDownloadDialog[] = {
+    "MagnatuneDownloadDialog\0\0albums\0"
+    "Finished(QStringList)\0accept()\0Browse()\0"
+    "DownloadNext()\0Error(QNetworkReply::NetworkError)\0"
+    "MetadataFinished()\0received,total\0"
+    "DownloadProgress(qint64,qint64)\0"
+    "DownloadReadyRead()\0DownloadFinished()\0"
+    "message\0ShowError(QString)\0error\0"
+    "AllFinished(bool)\0"
+};
+
+void MagnatuneDownloadDialog::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        Q_ASSERT(staticMetaObject.cast(_o));
+        MagnatuneDownloadDialog *_t = static_cast<MagnatuneDownloadDialog *>(_o);
+        switch (_id) {
+        case 0: _t->Finished((*reinterpret_cast< const QStringList(*)>(_a[1]))); break;
+        case 1: _t->accept(); break;
+        case 2: _t->Browse(); break;
+        case 3: _t->DownloadNext(); break;
+        case 4: _t->Error((*reinterpret_cast< QNetworkReply::NetworkError(*)>(_a[1]))); break;
+        case 5: _t->MetadataFinished(); break;
+        case 6: _t->DownloadProgress((*reinterpret_cast< qint64(*)>(_a[1])),(*reinterpret_cast< qint64(*)>(_a[2]))); break;
+        case 7: _t->DownloadReadyRead(); break;
+        case 8: _t->DownloadFinished(); break;
+        case 9: _t->ShowError((*reinterpret_cast< const QString(*)>(_a[1]))); break;
+        case 10: _t->AllFinished((*reinterpret_cast< bool(*)>(_a[1]))); break;
+        default: ;
+        }
+    }
+}
+
+const QMetaObjectExtraData MagnatuneDownloadDialog::staticMetaObjectExtraData = {
+    0,  qt_static_metacall 
+};
+
+const QMetaObject MagnatuneDownloadDialog::staticMetaObject = {
+    { &QDialog::staticMetaObject, qt_meta_stringdata_MagnatuneDownloadDialog,
+      qt_meta_data_MagnatuneDownloadDialog, &staticMetaObjectExtraData }
+};
+
+#ifdef Q_NO_DATA_RELOCATION
+const QMetaObject &MagnatuneDownloadDialog::getStaticMetaObject() { return staticMetaObject; }
+#endif //Q_NO_DATA_RELOCATION
+
+const QMetaObject *MagnatuneDownloadDialog::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->metaObject : &staticMetaObject;
+}
+
+void *MagnatuneDownloadDialog::qt_metacast(const char *_clname)
+{
+    if (!_clname) return 0;
+    if (!strcmp(_clname, qt_meta_stringdata_MagnatuneDownloadDialog))
+        return static_cast<void*>(const_cast< MagnatuneDownloadDialog*>(this));
+    return QDialog::qt_metacast(_clname);
+}
+
+int MagnatuneDownloadDialog::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QDialog::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        if (_id < 11)
+            qt_static_metacall(this, _c, _id, _a);
+        _id -= 11;
+    }
+    return _id;
+}
+
+// SIGNAL 0
+void MagnatuneDownloadDialog::Finished(const QStringList & _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 0, _a);
+}
+QT_END_MOC_NAMESPACE

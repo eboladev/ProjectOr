@@ -1,0 +1,138 @@
+/********************************************************************************
+** Form generated from reading UI file 'wiimoteshortcutgrabber.ui'
+**
+** Created: Tue Apr 23 15:28:24 2013
+**      by: Qt User Interface Compiler version 4.8.3
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_WIIMOTESHORTCUTGRABBER_H
+#define UI_WIIMOTESHORTCUTGRABBER_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QCheckBox>
+#include <QtGui/QComboBox>
+#include <QtGui/QDialog>
+#include <QtGui/QDialogButtonBox>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QHeaderView>
+#include <QtGui/QLabel>
+#include <QtGui/QVBoxLayout>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_WiimoteShortcutGrabber
+{
+public:
+    QVBoxLayout *verticalLayout;
+    QHBoxLayout *horizontalLayout;
+    QLabel *label;
+    QComboBox *comboBox;
+    QLabel *combo;
+    QCheckBox *remember_shifts;
+    QHBoxLayout *horizontalLayout_2;
+    QLabel *keep_label;
+    QDialogButtonBox *buttonBox;
+
+    void setupUi(QDialog *WiimoteShortcutGrabber)
+    {
+        if (WiimoteShortcutGrabber->objectName().isEmpty())
+            WiimoteShortcutGrabber->setObjectName(QString::fromUtf8("WiimoteShortcutGrabber"));
+        WiimoteShortcutGrabber->resize(418, 160);
+        QIcon icon;
+        icon.addFile(QString::fromUtf8(":/icons/32x32/wiimotedev.png"), QSize(), QIcon::Normal, QIcon::Off);
+        WiimoteShortcutGrabber->setWindowIcon(icon);
+        verticalLayout = new QVBoxLayout(WiimoteShortcutGrabber);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+        horizontalLayout = new QHBoxLayout();
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        label = new QLabel(WiimoteShortcutGrabber);
+        label->setObjectName(QString::fromUtf8("label"));
+        QSizePolicy sizePolicy(QSizePolicy::Preferred, QSizePolicy::Maximum);
+        sizePolicy.setHorizontalStretch(0);
+        sizePolicy.setVerticalStretch(0);
+        sizePolicy.setHeightForWidth(label->sizePolicy().hasHeightForWidth());
+        label->setSizePolicy(sizePolicy);
+        label->setAlignment(Qt::AlignCenter);
+
+        horizontalLayout->addWidget(label);
+
+        comboBox = new QComboBox(WiimoteShortcutGrabber);
+        comboBox->setObjectName(QString::fromUtf8("comboBox"));
+        QSizePolicy sizePolicy1(QSizePolicy::MinimumExpanding, QSizePolicy::Maximum);
+        sizePolicy1.setHorizontalStretch(0);
+        sizePolicy1.setVerticalStretch(0);
+        sizePolicy1.setHeightForWidth(comboBox->sizePolicy().hasHeightForWidth());
+        comboBox->setSizePolicy(sizePolicy1);
+
+        horizontalLayout->addWidget(comboBox);
+
+
+        verticalLayout->addLayout(horizontalLayout);
+
+        combo = new QLabel(WiimoteShortcutGrabber);
+        combo->setObjectName(QString::fromUtf8("combo"));
+        QSizePolicy sizePolicy2(QSizePolicy::Preferred, QSizePolicy::Expanding);
+        sizePolicy2.setHorizontalStretch(0);
+        sizePolicy2.setVerticalStretch(0);
+        sizePolicy2.setHeightForWidth(combo->sizePolicy().hasHeightForWidth());
+        combo->setSizePolicy(sizePolicy2);
+        combo->setMinimumSize(QSize(0, 40));
+        combo->setTextFormat(Qt::PlainText);
+        combo->setAlignment(Qt::AlignCenter);
+        combo->setWordWrap(true);
+
+        verticalLayout->addWidget(combo);
+
+        remember_shifts = new QCheckBox(WiimoteShortcutGrabber);
+        remember_shifts->setObjectName(QString::fromUtf8("remember_shifts"));
+        remember_shifts->setChecked(true);
+
+        verticalLayout->addWidget(remember_shifts);
+
+        horizontalLayout_2 = new QHBoxLayout();
+        horizontalLayout_2->setObjectName(QString::fromUtf8("horizontalLayout_2"));
+        horizontalLayout_2->setContentsMargins(-1, -1, -1, 0);
+        keep_label = new QLabel(WiimoteShortcutGrabber);
+        keep_label->setObjectName(QString::fromUtf8("keep_label"));
+
+        horizontalLayout_2->addWidget(keep_label);
+
+        buttonBox = new QDialogButtonBox(WiimoteShortcutGrabber);
+        buttonBox->setObjectName(QString::fromUtf8("buttonBox"));
+        buttonBox->setOrientation(Qt::Horizontal);
+        buttonBox->setStandardButtons(QDialogButtonBox::Cancel);
+
+        horizontalLayout_2->addWidget(buttonBox);
+
+
+        verticalLayout->addLayout(horizontalLayout_2);
+
+
+        retranslateUi(WiimoteShortcutGrabber);
+
+        QMetaObject::connectSlotsByName(WiimoteShortcutGrabber);
+    } // setupUi
+
+    void retranslateUi(QDialog *WiimoteShortcutGrabber)
+    {
+        WiimoteShortcutGrabber->setWindowTitle(QApplication::translate("WiimoteShortcutGrabber", "Add wiimotedev action", 0, QApplication::UnicodeUTF8));
+        label->setText(QApplication::translate("WiimoteShortcutGrabber", "Press a button combination to use for", 0, QApplication::UnicodeUTF8));
+        combo->setText(QApplication::translate("WiimoteShortcutGrabber", "Push Wiiremote button", 0, QApplication::UnicodeUTF8));
+        remember_shifts->setText(QApplication::translate("WiimoteShortcutGrabber", "Remember Wii remote swing", 0, QApplication::UnicodeUTF8));
+        keep_label->setText(QApplication::translate("WiimoteShortcutGrabber", "Keep buttons for %1 seconds...", 0, QApplication::UnicodeUTF8));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class WiimoteShortcutGrabber: public Ui_WiimoteShortcutGrabber {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_WIIMOTESHORTCUTGRABBER_H

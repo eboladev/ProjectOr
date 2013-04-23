@@ -1,0 +1,225 @@
+/****************************************************************************
+** Meta object code from reading C++ file 'playlistview.h'
+**
+** Created: Tue Apr 23 15:28:09 2013
+**      by: The Qt Meta Object Compiler version 63 (Qt 4.8.3)
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#include "playlistview.h"
+#if !defined(Q_MOC_OUTPUT_REVISION)
+#error "The header file 'playlistview.h' doesn't include <QObject>."
+#elif Q_MOC_OUTPUT_REVISION != 63
+#error "This file was generated using the moc from 4.8.3. It"
+#error "cannot be used with the include files from this version of Qt."
+#error "(The moc has changed too much.)"
+#endif
+
+QT_BEGIN_MOC_NAMESPACE
+static const uint qt_meta_data_PlaylistView[] = {
+
+ // content:
+       6,       // revision
+       0,       // classname
+       0,    0, // classinfo
+      30,   14, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       7,       // signalCount
+
+ // signals: signature, parameters, type, tag, flags
+      20,   14,   13,   13, 0x05,
+      42,   13,   13,   13, 0x05,
+      71,   54,   13,   13, 0x05,
+     108,  104,   13,   13, 0x05,
+     129,  123,   13,   13, 0x05,
+     161,   13,   13,   13, 0x05,
+     199,  189,   13,   13, 0x05,
+
+ // slots: signature, parameters, type, tag, flags
+     242,   13,   13,   13, 0x0a,
+     259,   13,   13,   13, 0x0a,
+     273,   13,   13,   13, 0x0a,
+     288,   13,   13,   13, 0x0a,
+     318,   13,   13,   13, 0x0a,
+     354,  342,   13,   13, 0x0a,
+     419,  411,   13,   13, 0x0a,
+     462,  444,   13,   13, 0x0a,
+     500,   13,   13,   13, 0x0a,
+     552,  529,   13,   13, 0x0a,
+     592,   13,   13,   13, 0x0a,
+     608,   13,   13,   13, 0x08,
+     623,   13,   13,   13, 0x08,
+     638,   13,   13,   13, 0x08,
+     661,   13,   13,   13, 0x08,
+     688,   13,   13,   13, 0x08,
+     706,   13,   13,   13, 0x08,
+     738,   13,   13,   13, 0x08,
+     758,   13,   13,   13, 0x08,
+     781,  773,   13,   13, 0x08,
+     812,  802,   13,   13, 0x08,
+     846,   13,   13,   13, 0x08,
+     869,  863,   13,   13, 0x08,
+
+       0        // eod
+};
+
+static const char qt_meta_stringdata_PlaylistView[] = {
+    "PlaylistView\0\0index\0PlayItem(QModelIndex)\0"
+    "PlayPause()\0global_pos,index\0"
+    "RightClicked(QPoint,QModelIndex)\0gap\0"
+    "SeekTrack(int)\0event\0"
+    "FocusOnFilterSignal(QKeyEvent*)\0"
+    "BackgroundPropertyChanged()\0alignment\0"
+    "ColumnAlignmentChanged(ColumnAlignmentMap)\0"
+    "ReloadSettings()\0StopGlowing()\0"
+    "StartGlowing()\0JumpToCurrentlyPlayingTrack()\0"
+    "JumpToLastPlayedTrack()\0editor,hint\0"
+    "closeEditor(QWidget*,QAbstractItemDelegate::EndEditHint)\0"
+    "dynamic\0DynamicModeChanged(bool)\0"
+    "section,alignment\0"
+    "SetColumnAlignment(int,Qt::Alignment)\0"
+    "CopyCurrentSongToClipboard()\0"
+    "new_song,uri,cover_art\0"
+    "CurrentSongChanged(Song,QString,QImage)\0"
+    "PlayerStopped()\0LoadGeometry()\0"
+    "SaveGeometry()\0GlowIntensityChanged()\0"
+    "InhibitAutoscrollTimeout()\0MaybeAutoscroll()\0"
+    "InvalidateCachedCurrentPixmap()\0"
+    "PlaylistDestroyed()\0SaveSettings()\0"
+    "stretch\0StretchChanged(bool)\0index,pos\0"
+    "RatingHoverIn(QModelIndex,QPoint)\0"
+    "RatingHoverOut()\0value\0"
+    "FadePreviousBackgroundImage(qreal)\0"
+};
+
+void PlaylistView::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        Q_ASSERT(staticMetaObject.cast(_o));
+        PlaylistView *_t = static_cast<PlaylistView *>(_o);
+        switch (_id) {
+        case 0: _t->PlayItem((*reinterpret_cast< const QModelIndex(*)>(_a[1]))); break;
+        case 1: _t->PlayPause(); break;
+        case 2: _t->RightClicked((*reinterpret_cast< const QPoint(*)>(_a[1])),(*reinterpret_cast< const QModelIndex(*)>(_a[2]))); break;
+        case 3: _t->SeekTrack((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 4: _t->FocusOnFilterSignal((*reinterpret_cast< QKeyEvent*(*)>(_a[1]))); break;
+        case 5: _t->BackgroundPropertyChanged(); break;
+        case 6: _t->ColumnAlignmentChanged((*reinterpret_cast< const ColumnAlignmentMap(*)>(_a[1]))); break;
+        case 7: _t->ReloadSettings(); break;
+        case 8: _t->StopGlowing(); break;
+        case 9: _t->StartGlowing(); break;
+        case 10: _t->JumpToCurrentlyPlayingTrack(); break;
+        case 11: _t->JumpToLastPlayedTrack(); break;
+        case 12: _t->closeEditor((*reinterpret_cast< QWidget*(*)>(_a[1])),(*reinterpret_cast< QAbstractItemDelegate::EndEditHint(*)>(_a[2]))); break;
+        case 13: _t->DynamicModeChanged((*reinterpret_cast< bool(*)>(_a[1]))); break;
+        case 14: _t->SetColumnAlignment((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< Qt::Alignment(*)>(_a[2]))); break;
+        case 15: _t->CopyCurrentSongToClipboard(); break;
+        case 16: _t->CurrentSongChanged((*reinterpret_cast< const Song(*)>(_a[1])),(*reinterpret_cast< const QString(*)>(_a[2])),(*reinterpret_cast< const QImage(*)>(_a[3]))); break;
+        case 17: _t->PlayerStopped(); break;
+        case 18: _t->LoadGeometry(); break;
+        case 19: _t->SaveGeometry(); break;
+        case 20: _t->GlowIntensityChanged(); break;
+        case 21: _t->InhibitAutoscrollTimeout(); break;
+        case 22: _t->MaybeAutoscroll(); break;
+        case 23: _t->InvalidateCachedCurrentPixmap(); break;
+        case 24: _t->PlaylistDestroyed(); break;
+        case 25: _t->SaveSettings(); break;
+        case 26: _t->StretchChanged((*reinterpret_cast< bool(*)>(_a[1]))); break;
+        case 27: _t->RatingHoverIn((*reinterpret_cast< const QModelIndex(*)>(_a[1])),(*reinterpret_cast< const QPoint(*)>(_a[2]))); break;
+        case 28: _t->RatingHoverOut(); break;
+        case 29: _t->FadePreviousBackgroundImage((*reinterpret_cast< qreal(*)>(_a[1]))); break;
+        default: ;
+        }
+    }
+}
+
+const QMetaObjectExtraData PlaylistView::staticMetaObjectExtraData = {
+    0,  qt_static_metacall 
+};
+
+const QMetaObject PlaylistView::staticMetaObject = {
+    { &QTreeView::staticMetaObject, qt_meta_stringdata_PlaylistView,
+      qt_meta_data_PlaylistView, &staticMetaObjectExtraData }
+};
+
+#ifdef Q_NO_DATA_RELOCATION
+const QMetaObject &PlaylistView::getStaticMetaObject() { return staticMetaObject; }
+#endif //Q_NO_DATA_RELOCATION
+
+const QMetaObject *PlaylistView::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->metaObject : &staticMetaObject;
+}
+
+void *PlaylistView::qt_metacast(const char *_clname)
+{
+    if (!_clname) return 0;
+    if (!strcmp(_clname, qt_meta_stringdata_PlaylistView))
+        return static_cast<void*>(const_cast< PlaylistView*>(this));
+    return QTreeView::qt_metacast(_clname);
+}
+
+int PlaylistView::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QTreeView::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        if (_id < 30)
+            qt_static_metacall(this, _c, _id, _a);
+        _id -= 30;
+    }
+    return _id;
+}
+
+// SIGNAL 0
+void PlaylistView::PlayItem(const QModelIndex & _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 0, _a);
+}
+
+// SIGNAL 1
+void PlaylistView::PlayPause()
+{
+    QMetaObject::activate(this, &staticMetaObject, 1, 0);
+}
+
+// SIGNAL 2
+void PlaylistView::RightClicked(const QPoint & _t1, const QModelIndex & _t2)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)), const_cast<void*>(reinterpret_cast<const void*>(&_t2)) };
+    QMetaObject::activate(this, &staticMetaObject, 2, _a);
+}
+
+// SIGNAL 3
+void PlaylistView::SeekTrack(int _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 3, _a);
+}
+
+// SIGNAL 4
+void PlaylistView::FocusOnFilterSignal(QKeyEvent * _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 4, _a);
+}
+
+// SIGNAL 5
+void PlaylistView::BackgroundPropertyChanged()
+{
+    QMetaObject::activate(this, &staticMetaObject, 5, 0);
+}
+
+// SIGNAL 6
+void PlaylistView::ColumnAlignmentChanged(const ColumnAlignmentMap & _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 6, _a);
+}
+QT_END_MOC_NAMESPACE

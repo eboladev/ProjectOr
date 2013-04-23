@@ -1,0 +1,109 @@
+/********************************************************************************
+** Form generated from reading UI file 'osdpretty.ui'
+**
+** Created: Tue Apr 23 15:28:24 2013
+**      by: Qt User Interface Compiler version 4.8.3
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_OSDPRETTY_H
+#define UI_OSDPRETTY_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QHeaderView>
+#include <QtGui/QLabel>
+#include <QtGui/QSpacerItem>
+#include <QtGui/QVBoxLayout>
+#include <QtGui/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_OSDPretty
+{
+public:
+    QHBoxLayout *horizontalLayout;
+    QLabel *icon;
+    QVBoxLayout *verticalLayout;
+    QLabel *summary;
+    QLabel *message;
+    QSpacerItem *verticalSpacer;
+
+    void setupUi(QWidget *OSDPretty)
+    {
+        if (OSDPretty->objectName().isEmpty())
+            OSDPretty->setObjectName(QString::fromUtf8("OSDPretty"));
+        OSDPretty->resize(396, 80);
+        OSDPretty->setStyleSheet(QString::fromUtf8("OSDPretty {\n"
+"  background-color: transparent;\n"
+"}\n"
+"\n"
+"#summary {\n"
+"  font-weight: bold;\n"
+"  font-size: larger;\n"
+"}\n"
+""));
+        horizontalLayout = new QHBoxLayout(OSDPretty);
+        horizontalLayout->setSpacing(12);
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        icon = new QLabel(OSDPretty);
+        icon->setObjectName(QString::fromUtf8("icon"));
+
+        horizontalLayout->addWidget(icon);
+
+        verticalLayout = new QVBoxLayout();
+        verticalLayout->setSpacing(4);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+        summary = new QLabel(OSDPretty);
+        summary->setObjectName(QString::fromUtf8("summary"));
+        QSizePolicy sizePolicy(QSizePolicy::Expanding, QSizePolicy::Preferred);
+        sizePolicy.setHorizontalStretch(0);
+        sizePolicy.setVerticalStretch(0);
+        sizePolicy.setHeightForWidth(summary->sizePolicy().hasHeightForWidth());
+        summary->setSizePolicy(sizePolicy);
+        summary->setMinimumSize(QSize(300, 0));
+        summary->setMaximumSize(QSize(400, 16777215));
+        summary->setWordWrap(true);
+
+        verticalLayout->addWidget(summary);
+
+        message = new QLabel(OSDPretty);
+        message->setObjectName(QString::fromUtf8("message"));
+        sizePolicy.setHeightForWidth(message->sizePolicy().hasHeightForWidth());
+        message->setSizePolicy(sizePolicy);
+        message->setMaximumSize(QSize(400, 16777215));
+        message->setWordWrap(true);
+
+        verticalLayout->addWidget(message);
+
+        verticalSpacer = new QSpacerItem(0, 0, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout->addItem(verticalSpacer);
+
+
+        horizontalLayout->addLayout(verticalLayout);
+
+
+        retranslateUi(OSDPretty);
+
+        QMetaObject::connectSlotsByName(OSDPretty);
+    } // setupUi
+
+    void retranslateUi(QWidget *OSDPretty)
+    {
+        Q_UNUSED(OSDPretty);
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class OSDPretty: public Ui_OSDPretty {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_OSDPRETTY_H
