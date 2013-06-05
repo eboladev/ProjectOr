@@ -1,2 +1,0 @@
-/usr/bin/ar cr libgstafcsrc.a  CMakeFiles/gstafcsrc.dir/gstafcsrc.c.o
-/usr/bin/ranlib libgstafcsrc.a

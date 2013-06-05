@@ -1,2 +1,0 @@
-/usr/bin/ar cr libsha2.a  CMakeFiles/sha2.dir/sha2.c.o
-/usr/bin/ranlib libsha2.a

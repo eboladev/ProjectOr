@@ -1,2 +1,0 @@
-/usr/bin/ar cr libQocoa.a  CMakeFiles/Qocoa.dir/qsearchfield_nonmac.cpp.o CMakeFiles/Qocoa.dir/qbutton_nonmac.cpp.o CMakeFiles/Qocoa.dir/qprogressindicatorspinning_nonmac.cpp.o CMakeFiles/Qocoa.dir/moc_qsearchfield.cxx.o CMakeFiles/Qocoa.dir/moc_qbutton.cxx.o CMakeFiles/Qocoa.dir/moc_qprogressindicatorspinning.cxx.o CMakeFiles/Qocoa.dir/qrc_qprogressindicatorspinning_nonmac.cxx.o
-/usr/bin/ranlib libQocoa.a

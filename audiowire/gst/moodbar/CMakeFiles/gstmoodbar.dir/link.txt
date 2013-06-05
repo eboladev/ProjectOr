@@ -1,2 +1,0 @@
-/usr/bin/ar cr libgstmoodbar.a  CMakeFiles/gstmoodbar.dir/gstfftwspectrum.c.o CMakeFiles/gstmoodbar.dir/gstmoodbar.c.o CMakeFiles/gstmoodbar.dir/spectrum.c.o
-/usr/bin/ranlib libgstmoodbar.a

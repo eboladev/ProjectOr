@@ -1,2 +1,0 @@
-/usr/bin/ar cr libgmock.a  CMakeFiles/gmock.dir/__/3rdparty/gmock/src/gmock-cardinalities.cc.o CMakeFiles/gmock.dir/__/3rdparty/gmock/src/gmock.cc.o CMakeFiles/gmock.dir/__/3rdparty/gmock/src/gmock-internal-utils.cc.o CMakeFiles/gmock.dir/__/3rdparty/gmock/src/gmock-matchers.cc.o CMakeFiles/gmock.dir/__/3rdparty/gmock/src/gmock-printers.cc.o CMakeFiles/gmock.dir/__/3rdparty/gmock/src/gmock-spec-builders.cc.o
-/usr/bin/ranlib libgmock.a

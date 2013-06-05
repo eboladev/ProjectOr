@@ -1,1 +1,0 @@
-/usr/bin/c++   -Woverloaded-virtual -Wall -Wno-sign-compare     CMakeFiles/ultimate_lyrics_parser.dir/main.cpp.o  -o ultimate_lyrics_parser -rdynamic -lQtOpenGL -lQtWebKit -lQtXmlPatterns -lQtGui -lQtDBus -lQtXml -lQtSql -lQtNetwork -lQtCore 
