@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/moodbar
+END
+moodbarcontroller.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarcontroller.h
+END
+moodbaritemdelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbaritemdelegate.cpp
+END
+moodbaritemdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbaritemdelegate.h
+END
+moc_moodbarcontroller.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/moodbar/moc_moodbarcontroller.cxx
+END
+moodbarproxystyle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarproxystyle.cpp
+END
+moodbarpipeline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarpipeline.cpp
+END
+moodbarrenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarrenderer.cpp
+END
+moodbarloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarloader.cpp
+END
+moodbarproxystyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarproxystyle.h
+END
+moc_moodbaritemdelegate.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/moodbar/moc_moodbaritemdelegate.cxx
+END
+moodbarpipeline.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarpipeline.h
+END
+moodbarloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarloader.h
+END
+moodbarrenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarrenderer.h
+END
+moc_moodbarproxystyle.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/moodbar/moc_moodbarproxystyle.cxx
+END
+moodbarcontroller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/moodbar/moodbarcontroller.cpp
+END
+moc_moodbarpipeline.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/moodbar/moc_moodbarpipeline.cxx
+END
+moc_moodbarloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/moodbar/moc_moodbarloader.cxx
+END

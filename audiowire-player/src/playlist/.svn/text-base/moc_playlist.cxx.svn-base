@@ -1,0 +1,288 @@
+/****************************************************************************
+** Meta object code from reading C++ file 'playlist.h'
+**
+** Created: Wed Feb 20 06:21:48 2013
+**      by: The Qt Meta Object Compiler version 63 (Qt 4.8.1)
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#include "playlist.h"
+#if !defined(Q_MOC_OUTPUT_REVISION)
+#error "The header file 'playlist.h' doesn't include <QObject>."
+#elif Q_MOC_OUTPUT_REVISION != 63
+#error "This file was generated using the moc from 4.8.1. It"
+#error "cannot be used with the include files from this version of Qt."
+#error "(The moc has changed too much.)"
+#endif
+
+QT_BEGIN_MOC_NAMESPACE
+static const uint qt_meta_data_SongInsertVetoListener[] = {
+
+ // content:
+       6,       // revision
+       0,       // classname
+       0,    0, // classinfo
+       0,    0, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       0,       // signalCount
+
+       0        // eod
+};
+
+static const char qt_meta_stringdata_SongInsertVetoListener[] = {
+    "SongInsertVetoListener\0"
+};
+
+void SongInsertVetoListener::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    Q_UNUSED(_o);
+    Q_UNUSED(_id);
+    Q_UNUSED(_c);
+    Q_UNUSED(_a);
+}
+
+const QMetaObjectExtraData SongInsertVetoListener::staticMetaObjectExtraData = {
+    0,  qt_static_metacall 
+};
+
+const QMetaObject SongInsertVetoListener::staticMetaObject = {
+    { &QObject::staticMetaObject, qt_meta_stringdata_SongInsertVetoListener,
+      qt_meta_data_SongInsertVetoListener, &staticMetaObjectExtraData }
+};
+
+#ifdef Q_NO_DATA_RELOCATION
+const QMetaObject &SongInsertVetoListener::getStaticMetaObject() { return staticMetaObject; }
+#endif //Q_NO_DATA_RELOCATION
+
+const QMetaObject *SongInsertVetoListener::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->metaObject : &staticMetaObject;
+}
+
+void *SongInsertVetoListener::qt_metacast(const char *_clname)
+{
+    if (!_clname) return 0;
+    if (!strcmp(_clname, qt_meta_stringdata_SongInsertVetoListener))
+        return static_cast<void*>(const_cast< SongInsertVetoListener*>(this));
+    return QObject::qt_metacast(_clname);
+}
+
+int SongInsertVetoListener::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QObject::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    return _id;
+}
+static const uint qt_meta_data_Playlist[] = {
+
+ // content:
+       6,       // revision
+       0,       // classname
+       0,    0, // classinfo
+      32,   14, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       7,       // signalCount
+
+ // signals: signature, parameters, type, tag, flags
+      10,    9,    9,    9, 0x05,
+      37,   28,    9,    9, 0x05,
+      68,   62,    9,    9, 0x05,
+      97,   62,    9,    9, 0x05,
+     124,    9,    9,    9, 0x05,
+     150,  142,    9,    9, 0x05,
+     183,  175,    9,    9, 0x05,
+
+ // slots: signature, parameters, type, tag, flags
+     208,   62,    9,    9, 0x0a,
+     229,    9,    9,    9, 0x0a,
+     238,    9,    9,    9, 0x0a,
+     248,    9,    9,    9, 0x0a,
+     264,  258,    9,    9, 0x0a,
+     284,    9,    9,    9, 0x0a,
+     315,  306,    9,    9, 0x0a,
+     349,  344,    9,    9, 0x0a,
+     384,  378,    9,    9, 0x0a,
+     406,    9,    9,    9, 0x0a,
+     414,    9,    9,    9, 0x0a,
+     437,    9,    9,    9, 0x0a,
+     452,  447,    9,    9, 0x0a,
+     502,    9,    9,    9, 0x0a,
+     526,    9,    9,    9, 0x0a,
+     554,    9,    9,    9, 0x0a,
+     589,  579,    9,    9, 0x0a,
+     639,  628,    9,    9, 0x08,
+     684,    9,    9,    9, 0x08,
+     701,  628,    9,    9, 0x08,
+     737,    9,    9,    9, 0x08,
+     770,  758,    9,    9, 0x08,
+     826,    9,    9,    9, 0x08,
+     847,    9,    9,    9, 0x08,
+     861,    9,    9,    9, 0x08,
+
+       0        // eod
+};
+
+static const char qt_meta_stringdata_Playlist[] = {
+    "Playlist\0\0RestoreFinished()\0metadata\0"
+    "CurrentSongChanged(Song)\0index\0"
+    "EditingFinished(QModelIndex)\0"
+    "PlayRequested(QModelIndex)\0PlaylistChanged()\0"
+    "dynamic\0DynamicModeChanged(bool)\0"
+    "message\0LoadTracksError(QString)\0"
+    "set_current_row(int)\0Paused()\0Playing()\0"
+    "Stopped()\0value\0IgnoreSorting(bool)\0"
+    "ClearStreamMetadata()\0url,song\0"
+    "SetStreamMetadata(QUrl,Song)\0item\0"
+    "ItemChanged(PlaylistItemPtr)\0songs\0"
+    "UpdateItems(SongList)\0Clear()\0"
+    "RemoveDuplicateSongs()\0Shuffle()\0mode\0"
+    "ShuffleModeChanged(PlaylistSequence::ShuffleMode)\0"
+    "ExpandDynamicPlaylist()\0"
+    "RepopulateDynamicPlaylist()\0"
+    "TurnOffDynamicPlaylist()\0alignment\0"
+    "SetColumnAlignment(ColumnAlignmentMap)\0"
+    ",begin,end\0TracksAboutToBeDequeued(QModelIndex,int,int)\0"
+    "TracksDequeued()\0TracksEnqueued(QModelIndex,int,int)\0"
+    "QueueLayoutChanged()\0reply,index\0"
+    "SongSaveComplete(TagReaderReply*,QPersistentModelIndex)\0"
+    "ItemReloadComplete()\0ItemsLoaded()\0"
+    "SongInsertVetoListenerDestroyed()\0"
+};
+
+void Playlist::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        Q_ASSERT(staticMetaObject.cast(_o));
+        Playlist *_t = static_cast<Playlist *>(_o);
+        switch (_id) {
+        case 0: _t->RestoreFinished(); break;
+        case 1: _t->CurrentSongChanged((*reinterpret_cast< const Song(*)>(_a[1]))); break;
+        case 2: _t->EditingFinished((*reinterpret_cast< const QModelIndex(*)>(_a[1]))); break;
+        case 3: _t->PlayRequested((*reinterpret_cast< const QModelIndex(*)>(_a[1]))); break;
+        case 4: _t->PlaylistChanged(); break;
+        case 5: _t->DynamicModeChanged((*reinterpret_cast< bool(*)>(_a[1]))); break;
+        case 6: _t->LoadTracksError((*reinterpret_cast< const QString(*)>(_a[1]))); break;
+        case 7: _t->set_current_row((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 8: _t->Paused(); break;
+        case 9: _t->Playing(); break;
+        case 10: _t->Stopped(); break;
+        case 11: _t->IgnoreSorting((*reinterpret_cast< bool(*)>(_a[1]))); break;
+        case 12: _t->ClearStreamMetadata(); break;
+        case 13: _t->SetStreamMetadata((*reinterpret_cast< const QUrl(*)>(_a[1])),(*reinterpret_cast< const Song(*)>(_a[2]))); break;
+        case 14: _t->ItemChanged((*reinterpret_cast< PlaylistItemPtr(*)>(_a[1]))); break;
+        case 15: _t->UpdateItems((*reinterpret_cast< const SongList(*)>(_a[1]))); break;
+        case 16: _t->Clear(); break;
+        case 17: _t->RemoveDuplicateSongs(); break;
+        case 18: _t->Shuffle(); break;
+        case 19: _t->ShuffleModeChanged((*reinterpret_cast< PlaylistSequence::ShuffleMode(*)>(_a[1]))); break;
+        case 20: _t->ExpandDynamicPlaylist(); break;
+        case 21: _t->RepopulateDynamicPlaylist(); break;
+        case 22: _t->TurnOffDynamicPlaylist(); break;
+        case 23: _t->SetColumnAlignment((*reinterpret_cast< const ColumnAlignmentMap(*)>(_a[1]))); break;
+        case 24: _t->TracksAboutToBeDequeued((*reinterpret_cast< const QModelIndex(*)>(_a[1])),(*reinterpret_cast< int(*)>(_a[2])),(*reinterpret_cast< int(*)>(_a[3]))); break;
+        case 25: _t->TracksDequeued(); break;
+        case 26: _t->TracksEnqueued((*reinterpret_cast< const QModelIndex(*)>(_a[1])),(*reinterpret_cast< int(*)>(_a[2])),(*reinterpret_cast< int(*)>(_a[3]))); break;
+        case 27: _t->QueueLayoutChanged(); break;
+        case 28: _t->SongSaveComplete((*reinterpret_cast< TagReaderReply*(*)>(_a[1])),(*reinterpret_cast< const QPersistentModelIndex(*)>(_a[2]))); break;
+        case 29: _t->ItemReloadComplete(); break;
+        case 30: _t->ItemsLoaded(); break;
+        case 31: _t->SongInsertVetoListenerDestroyed(); break;
+        default: ;
+        }
+    }
+}
+
+const QMetaObjectExtraData Playlist::staticMetaObjectExtraData = {
+    0,  qt_static_metacall 
+};
+
+const QMetaObject Playlist::staticMetaObject = {
+    { &QAbstractListModel::staticMetaObject, qt_meta_stringdata_Playlist,
+      qt_meta_data_Playlist, &staticMetaObjectExtraData }
+};
+
+#ifdef Q_NO_DATA_RELOCATION
+const QMetaObject &Playlist::getStaticMetaObject() { return staticMetaObject; }
+#endif //Q_NO_DATA_RELOCATION
+
+const QMetaObject *Playlist::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->metaObject : &staticMetaObject;
+}
+
+void *Playlist::qt_metacast(const char *_clname)
+{
+    if (!_clname) return 0;
+    if (!strcmp(_clname, qt_meta_stringdata_Playlist))
+        return static_cast<void*>(const_cast< Playlist*>(this));
+    return QAbstractListModel::qt_metacast(_clname);
+}
+
+int Playlist::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QAbstractListModel::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        if (_id < 32)
+            qt_static_metacall(this, _c, _id, _a);
+        _id -= 32;
+    }
+    return _id;
+}
+
+// SIGNAL 0
+void Playlist::RestoreFinished()
+{
+    QMetaObject::activate(this, &staticMetaObject, 0, 0);
+}
+
+// SIGNAL 1
+void Playlist::CurrentSongChanged(const Song & _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 1, _a);
+}
+
+// SIGNAL 2
+void Playlist::EditingFinished(const QModelIndex & _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 2, _a);
+}
+
+// SIGNAL 3
+void Playlist::PlayRequested(const QModelIndex & _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 3, _a);
+}
+
+// SIGNAL 4
+void Playlist::PlaylistChanged()
+{
+    QMetaObject::activate(this, &staticMetaObject, 4, 0);
+}
+
+// SIGNAL 5
+void Playlist::DynamicModeChanged(bool _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 5, _a);
+}
+
+// SIGNAL 6
+void Playlist::LoadTracksError(const QString & _t1)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)) };
+    QMetaObject::activate(this, &staticMetaObject, 6, _a);
+}
+QT_END_MOC_NAMESPACE

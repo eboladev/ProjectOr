@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/cmake/modules
+END
+FindTaglib.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/cmake/modules/FindTaglib.cmake
+END
+FindFFmpeg.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/cmake/modules/FindFFmpeg.cmake
+END
+FindGTest.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/cmake/modules/FindGTest.cmake
+END

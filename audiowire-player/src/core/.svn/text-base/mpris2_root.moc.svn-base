@@ -1,0 +1,163 @@
+/****************************************************************************
+** Meta object code from reading C++ file 'mpris2_root.h'
+**
+** Created: Wed Feb 20 06:21:37 2013
+**      by: The Qt Meta Object Compiler version 63 (Qt 4.8.1)
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#include "mpris2_root.h"
+#if !defined(Q_MOC_OUTPUT_REVISION)
+#error "The header file 'mpris2_root.h' doesn't include <QObject>."
+#elif Q_MOC_OUTPUT_REVISION != 63
+#error "This file was generated using the moc from 4.8.1. It"
+#error "cannot be used with the include files from this version of Qt."
+#error "(The moc has changed too much.)"
+#endif
+
+QT_BEGIN_MOC_NAMESPACE
+static const uint qt_meta_data_Mpris2Root[] = {
+
+ // content:
+       6,       // revision
+       0,       // classname
+       2,   14, // classinfo
+       2,   18, // methods
+       9,   28, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       0,       // signalCount
+
+ // classinfo: key, value
+      34,   11,
+     703,   50,
+
+ // slots: signature, parameters, type, tag, flags
+     724,  723,  723,  723, 0x0a,
+     731,  723,  723,  723, 0x0a,
+
+ // properties: name, type, flags
+     744,  739, 0x01095001,
+     752,  739, 0x01095001,
+     761,  739, 0x01095001,
+     786,  778, 0x0a095001,
+     799,  739, 0x01095103,
+     810,  739, 0x01095001,
+     823,  778, 0x0a095001,
+     844,  832, 0x0b095001,
+     863,  832, 0x0b095001,
+
+       0        // eod
+};
+
+static const char qt_meta_stringdata_Mpris2Root[] = {
+    "Mpris2Root\0org.mpris.MediaPlayer2\0"
+    "D-Bus Interface\0"
+    "  <interface name=\"org.mpris.MediaPlayer2\">\n    <method name=\"Rais"
+    "e\"/>\n    <method name=\"Quit\"/>\n    <property access=\"read\" type"
+    "=\"b\" name=\"CanQuit\"/>\n    <property access=\"read\" type=\"b\" na"
+    "me=\"CanRaise\"/>\n    <property access=\"read\" type=\"b\" name=\"Has"
+    "TrackList\"/>\n    <property access=\"read\" type=\"s\" name=\"Identit"
+    "y\"/>\n    <property access=\"read\" type=\"s\" name=\"DesktopEntry\"/"
+    ">\n    <property access=\"read\" type=\"as\" name=\"SupportedUriScheme"
+    "s\"/>\n    <property access=\"read\" type=\"as\" name=\"SupportedMimeT"
+    "ypes\"/>\n    <property access=\"readwrite\" type=\"b\" name=\"Fullscr"
+    "een\"/>\n    <property access=\"read\" type=\"b\" name=\"CanSetFullscr"
+    "een\"/>\n  </interface>\n\0"
+    "D-Bus Introspection\0\0Quit()\0Raise()\0"
+    "bool\0CanQuit\0CanRaise\0CanSetFullscreen\0"
+    "QString\0DesktopEntry\0Fullscreen\0"
+    "HasTrackList\0Identity\0QStringList\0"
+    "SupportedMimeTypes\0SupportedUriSchemes\0"
+};
+
+void Mpris2Root::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        Q_ASSERT(staticMetaObject.cast(_o));
+        Mpris2Root *_t = static_cast<Mpris2Root *>(_o);
+        switch (_id) {
+        case 0: _t->Quit(); break;
+        case 1: _t->Raise(); break;
+        default: ;
+        }
+    }
+    Q_UNUSED(_a);
+}
+
+const QMetaObjectExtraData Mpris2Root::staticMetaObjectExtraData = {
+    0,  qt_static_metacall 
+};
+
+const QMetaObject Mpris2Root::staticMetaObject = {
+    { &QDBusAbstractAdaptor::staticMetaObject, qt_meta_stringdata_Mpris2Root,
+      qt_meta_data_Mpris2Root, &staticMetaObjectExtraData }
+};
+
+#ifdef Q_NO_DATA_RELOCATION
+const QMetaObject &Mpris2Root::getStaticMetaObject() { return staticMetaObject; }
+#endif //Q_NO_DATA_RELOCATION
+
+const QMetaObject *Mpris2Root::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->metaObject : &staticMetaObject;
+}
+
+void *Mpris2Root::qt_metacast(const char *_clname)
+{
+    if (!_clname) return 0;
+    if (!strcmp(_clname, qt_meta_stringdata_Mpris2Root))
+        return static_cast<void*>(const_cast< Mpris2Root*>(this));
+    return QDBusAbstractAdaptor::qt_metacast(_clname);
+}
+
+int Mpris2Root::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QDBusAbstractAdaptor::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        if (_id < 2)
+            qt_static_metacall(this, _c, _id, _a);
+        _id -= 2;
+    }
+#ifndef QT_NO_PROPERTIES
+      else if (_c == QMetaObject::ReadProperty) {
+        void *_v = _a[0];
+        switch (_id) {
+        case 0: *reinterpret_cast< bool*>(_v) = canQuit(); break;
+        case 1: *reinterpret_cast< bool*>(_v) = canRaise(); break;
+        case 2: *reinterpret_cast< bool*>(_v) = canSetFullscreen(); break;
+        case 3: *reinterpret_cast< QString*>(_v) = desktopEntry(); break;
+        case 4: *reinterpret_cast< bool*>(_v) = fullscreen(); break;
+        case 5: *reinterpret_cast< bool*>(_v) = hasTrackList(); break;
+        case 6: *reinterpret_cast< QString*>(_v) = identity(); break;
+        case 7: *reinterpret_cast< QStringList*>(_v) = supportedMimeTypes(); break;
+        case 8: *reinterpret_cast< QStringList*>(_v) = supportedUriSchemes(); break;
+        }
+        _id -= 9;
+    } else if (_c == QMetaObject::WriteProperty) {
+        void *_v = _a[0];
+        switch (_id) {
+        case 4: setFullscreen(*reinterpret_cast< bool*>(_v)); break;
+        }
+        _id -= 9;
+    } else if (_c == QMetaObject::ResetProperty) {
+        _id -= 9;
+    } else if (_c == QMetaObject::QueryPropertyDesignable) {
+        _id -= 9;
+    } else if (_c == QMetaObject::QueryPropertyScriptable) {
+        _id -= 9;
+    } else if (_c == QMetaObject::QueryPropertyStored) {
+        _id -= 9;
+    } else if (_c == QMetaObject::QueryPropertyEditable) {
+        _id -= 9;
+    } else if (_c == QMetaObject::QueryPropertyUser) {
+        _id -= 9;
+    }
+#endif // QT_NO_PROPERTIES
+    return _id;
+}
+QT_END_MOC_NAMESPACE

@@ -1,0 +1,94 @@
+/********************************************************************************
+** Form generated from reading UI file 'transcoderoptionsflac.ui'
+**
+** Created: Wed Feb 20 06:22:04 2013
+**      by: Qt User Interface Compiler version 4.8.1
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_TRANSCODEROPTIONSFLAC_H
+#define UI_TRANSCODEROPTIONSFLAC_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QFormLayout>
+#include <QtGui/QHBoxLayout>
+#include <QtGui/QHeaderView>
+#include <QtGui/QLabel>
+#include <QtGui/QSlider>
+#include <QtGui/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_TranscoderOptionsFlac
+{
+public:
+    QFormLayout *formLayout;
+    QLabel *label;
+    QHBoxLayout *horizontalLayout;
+    QLabel *label_2;
+    QSlider *quality;
+    QLabel *label_3;
+
+    void setupUi(QWidget *TranscoderOptionsFlac)
+    {
+        if (TranscoderOptionsFlac->objectName().isEmpty())
+            TranscoderOptionsFlac->setObjectName(QString::fromUtf8("TranscoderOptionsFlac"));
+        TranscoderOptionsFlac->resize(400, 102);
+        formLayout = new QFormLayout(TranscoderOptionsFlac);
+        formLayout->setObjectName(QString::fromUtf8("formLayout"));
+        label = new QLabel(TranscoderOptionsFlac);
+        label->setObjectName(QString::fromUtf8("label"));
+
+        formLayout->setWidget(0, QFormLayout::LabelRole, label);
+
+        horizontalLayout = new QHBoxLayout();
+        horizontalLayout->setObjectName(QString::fromUtf8("horizontalLayout"));
+        label_2 = new QLabel(TranscoderOptionsFlac);
+        label_2->setObjectName(QString::fromUtf8("label_2"));
+
+        horizontalLayout->addWidget(label_2);
+
+        quality = new QSlider(TranscoderOptionsFlac);
+        quality->setObjectName(QString::fromUtf8("quality"));
+        quality->setMaximum(9);
+        quality->setValue(5);
+        quality->setOrientation(Qt::Horizontal);
+        quality->setTickPosition(QSlider::TicksBelow);
+
+        horizontalLayout->addWidget(quality);
+
+        label_3 = new QLabel(TranscoderOptionsFlac);
+        label_3->setObjectName(QString::fromUtf8("label_3"));
+
+        horizontalLayout->addWidget(label_3);
+
+
+        formLayout->setLayout(0, QFormLayout::FieldRole, horizontalLayout);
+
+
+        retranslateUi(TranscoderOptionsFlac);
+
+        QMetaObject::connectSlotsByName(TranscoderOptionsFlac);
+    } // setupUi
+
+    void retranslateUi(QWidget *TranscoderOptionsFlac)
+    {
+        TranscoderOptionsFlac->setWindowTitle(QApplication::translate("TranscoderOptionsFlac", "Form", 0, QApplication::UnicodeUTF8));
+        label->setText(QApplication::translate("TranscoderOptionsFlac", "Quality", 0, QApplication::UnicodeUTF8));
+        label_2->setText(QApplication::translate("TranscoderOptionsFlac", "Fast", 0, QApplication::UnicodeUTF8));
+        label_3->setText(QApplication::translate("TranscoderOptionsFlac", "Best", 0, QApplication::UnicodeUTF8));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class TranscoderOptionsFlac: public Ui_TranscoderOptionsFlac {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_TRANSCODEROPTIONSFLAC_H

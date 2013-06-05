@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/linux/minidump_writer
+END
+minidump_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/linux/minidump_writer/minidump_writer.h
+END
+directory_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/linux/minidump_writer/directory_reader.h
+END
+line_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/linux/minidump_writer/line_reader.h
+END
+linux_dumper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/linux/minidump_writer/linux_dumper.cc
+END
+linux_dumper.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/linux/minidump_writer/linux_dumper.h
+END
+minidump_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/linux/minidump_writer/minidump_writer.cc
+END
+minidump_extension_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/linux/minidump_writer/minidump_extension_linux.h
+END

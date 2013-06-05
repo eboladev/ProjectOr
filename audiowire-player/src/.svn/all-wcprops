@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/2014/audiowire/!svn/ver/37/Perso/Player/src
+END
+ui_transcoderoptionsflac.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcoderoptionsflac.h
+END
+ui_groovesharksettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_groovesharksettingspage.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/config.h
+END
+ui_errordialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_errordialog.h
+END
+ui_querysortpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_querysortpage.h
+END
+ui_about.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_about.h
+END
+ui_deviceproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_deviceproperties.h
+END
+ui_albumcoversearcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_albumcoversearcher.h
+END
+ui_mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_mainwindow.h
+END
+ui_globalshortcutgrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_globalshortcutgrabber.h
+END
+ui_addpodcastbyurl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_addpodcastbyurl.h
+END
+ui_addpodcastdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_addpodcastdialog.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/version.h
+END
+ui_playlistsequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_playlistsequence.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/CMakeLists.txt
+END
+ui_songkickconcertwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_songkickconcertwidget.h
+END
+ui_suggestionwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_suggestionwidget.h
+END
+ui_wizardfinishpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_wizardfinishpage.h
+END
+ui_wiimoteshortcutgrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_wiimoteshortcutgrabber.h
+END
+ui_searchtermwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_searchtermwidget.h
+END
+ui_equalizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_equalizer.h
+END
+ui_transcodedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcodedialog.h
+END
+ui_behavioursettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_behavioursettingspage.h
+END
+ui_playlistcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_playlistcontainer.h
+END
+ui_trackslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_trackslider.h
+END
+ui_lastfmstationdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_lastfmstationdialog.h
+END
+ui_networkproxysettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_networkproxysettingspage.h
+END
+ui_spotifysettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_spotifysettingspage.h
+END
+ui_appearancesettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_appearancesettingspage.h
+END
+ui_podcastinfowidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_podcastinfowidget.h
+END
+ui_transcoderoptionsaac.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcoderoptionsaac.h
+END
+ui_internetviewcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_internetviewcontainer.h
+END
+ui_magnatunedownloaddialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_magnatunedownloaddialog.h
+END
+ui_notificationssettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_notificationssettingspage.h
+END
+ui_querysearchpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_querysearchpage.h
+END
+ui_trackselectiondialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_trackselectiondialog.h
+END
+qrc_data.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/qrc_data.cxx
+END
+ui_songinfosettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_songinfosettingspage.h
+END
+ui_transcoderoptionsmp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcoderoptionsmp3.h
+END
+ui_organiseerrordialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_organiseerrordialog.h
+END
+ui_console.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_console.h
+END
+ui_equalizerslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_equalizerslider.h
+END
+qrc_translations.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/37/Perso/Player/src/qrc_translations.cxx
+END
+ui_transcoderoptionsvorbis.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcoderoptionsvorbis.h
+END
+ui_searchpreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_searchpreview.h
+END
+ui_fileview.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_fileview.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/config.h.in
+END
+ui_libraryfilterwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_libraryfilterwidget.h
+END
+ui_queuemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_queuemanager.h
+END
+ui_settingsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_settingsdialog.h
+END
+ui_globalsearchview.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_globalsearchview.h
+END
+ui_searchboxwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_searchboxwidget.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/main.cpp
+END
+ui_transcodersettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcodersettingspage.h
+END
+pot.temp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/pot.temp
+END
+ui_googledrivesettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_googledrivesettingspage.h
+END
+ui_transcoderoptionswma.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcoderoptionswma.h
+END
+ui_dynamicplaylistcontrols.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_dynamicplaylistcontrols.h
+END
+ui_itunessearchpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_itunessearchpage.h
+END
+ui_visualisationselector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_visualisationselector.h
+END
+ui_wiimotesettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_wiimotesettingspage.h
+END
+ui_backgroundstreamssettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_backgroundstreamssettingspage.h
+END
+ui_visualisationoverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_visualisationoverlay.h
+END
+ui_globalshortcutssettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_globalshortcutssettingspage.h
+END
+version.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/version.h.in
+END
+ui_libraryviewcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_libraryviewcontainer.h
+END
+ui_transcodelogdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcodelogdialog.h
+END
+ui_playbacksettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_playbacksettingspage.h
+END
+ui_digitallyimportedsettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_digitallyimportedsettingspage.h
+END
+ui_coverfromurldialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_coverfromurldialog.h
+END
+ui_groupbydialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_groupbydialog.h
+END
+ui_gpoddersearchpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_gpoddersearchpage.h
+END
+ui_podcastsettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_podcastsettingspage.h
+END
+ui_loginstatewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_loginstatewidget.h
+END
+ui_librarysettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_librarysettingspage.h
+END
+ui_addstreamdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_addstreamdialog.h
+END
+ui_transcoderoptionsspeex.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcoderoptionsspeex.h
+END
+ui_icecastfilterwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_icecastfilterwidget.h
+END
+ui_organisedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_organisedialog.h
+END
+ui_searchproviderstatuswidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_searchproviderstatuswidget.h
+END
+ui_albumcovermanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_albumcovermanager.h
+END
+ui_magnatunesettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_magnatunesettingspage.h
+END
+ui_osdpretty.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_osdpretty.h
+END
+ui_coversearchstatisticsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_coversearchstatisticsdialog.h
+END
+ui_playlistlistcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_playlistlistcontainer.h
+END
+ui_transcoderoptionsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_transcoderoptionsdialog.h
+END
+ui_edittagdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_edittagdialog.h
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/cmake_install.cmake
+END
+ui_globalsearchsettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_globalsearchsettingspage.h
+END
+ui_lastfmsettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui_lastfmsettingspage.h
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common
+END
+minidump_exception_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_exception_win32.h
+END
+minidump_cpu_amd64.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_cpu_amd64.h
+END
+minidump_cpu_ppc64.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_cpu_ppc64.h
+END
+minidump_cpu_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_cpu_arm.h
+END
+minidump_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_format.h
+END
+minidump_cpu_ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_cpu_ppc.h
+END
+minidump_exception_solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_exception_solaris.h
+END
+minidump_size.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_size.h
+END
+breakpad_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/breakpad_types.h
+END
+minidump_cpu_x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_cpu_x86.h
+END
+minidump_exception_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_exception_linux.h
+END
+minidump_exception_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_exception_mac.h
+END
+minidump_cpu_sparc.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/google_breakpad/common/minidump_cpu_sparc.h
+END

@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist
+END
+playlistfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistfilter.h
+END
+songmimedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/songmimedata.h
+END
+songloaderinserter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/songloaderinserter.h
+END
+playlistlistmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistlistmodel.cpp
+END
+moc_playlistlistcontainer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistlistcontainer.cxx
+END
+playlistdelegates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistdelegates.cpp
+END
+moc_playlistfilter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistfilter.cxx
+END
+moc_playlistbackend.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistbackend.cxx
+END
+playlistitemmimedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistitemmimedata.h
+END
+moc_songloaderinserter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_songloaderinserter.cxx
+END
+moc_playlistheader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistheader.cxx
+END
+playlistview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistview.cpp
+END
+playlistmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistmanager.cpp
+END
+dynamicplaylistcontrols.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/dynamicplaylistcontrols.h
+END
+playlistlistcontainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistlistcontainer.cpp
+END
+moc_dynamicplaylistcontrols.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_dynamicplaylistcontrols.cxx
+END
+playlistbackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistbackend.cpp
+END
+playlistcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistcontainer.h
+END
+queuemanager.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/queuemanager.ui
+END
+playlistundocommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistundocommands.h
+END
+moc_playlistcontainer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistcontainer.cxx
+END
+playlistdelegates.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistdelegates.h
+END
+dynamicplaylistcontrols.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/dynamicplaylistcontrols.ui
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/queue.h
+END
+playlistfilterparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistfilterparser.h
+END
+dynamicplaylistcontrols.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/dynamicplaylistcontrols.cpp
+END
+playlistsequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistsequence.h
+END
+playlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlist.cpp
+END
+moc_queue.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_queue.cxx
+END
+playlistcontainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistcontainer.cpp
+END
+songplaylistitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/songplaylistitem.cpp
+END
+moc_playlistview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistview.cxx
+END
+playlisttabbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlisttabbar.cpp
+END
+playlistbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistbackend.h
+END
+queuemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/queuemanager.cpp
+END
+playlistheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistheader.h
+END
+queue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/queue.cpp
+END
+playlistfilterparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistfilterparser.cpp
+END
+playlistitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistitem.h
+END
+playlistsequence.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistsequence.ui
+END
+moc_songmimedata.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_songmimedata.cxx
+END
+playlistsequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistsequence.cpp
+END
+playlistlistcontainer.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistlistcontainer.ui
+END
+moc_playlistitemmimedata.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistitemmimedata.cxx
+END
+playlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlist.h
+END
+playlistfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistfilter.cpp
+END
+songloaderinserter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/songloaderinserter.cpp
+END
+playlistheader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistheader.cpp
+END
+songplaylistitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/songplaylistitem.h
+END
+moc_playlist.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlist.cxx
+END
+playlistitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistitem.cpp
+END
+playlisttabbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlisttabbar.h
+END
+playlistlistmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistlistmodel.h
+END
+queuemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/queuemanager.h
+END
+moc_playlisttabbar.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlisttabbar.cxx
+END
+moc_playlistlistmodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistlistmodel.cxx
+END
+moc_queuemanager.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_queuemanager.cxx
+END
+moc_playlistdelegates.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistdelegates.cxx
+END
+playlistcontainer.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistcontainer.ui
+END
+playlistview.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistview.h
+END
+playlistmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistmanager.h
+END
+playlistlistcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistlistcontainer.h
+END
+moc_playlistsequence.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistsequence.cxx
+END
+playlistundocommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/playlist/playlistundocommands.cpp
+END
+moc_playlistmanager.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/playlist/moc_playlistmanager.cxx
+END

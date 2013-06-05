@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libprojectm/Renderer
+END
+Waveform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Waveform.cpp
+END
+PerlinNoise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/PerlinNoise.cpp
+END
+MilkdropWaveform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/MilkdropWaveform.cpp
+END
+RenderItemMergeFunction.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/RenderItemMergeFunction.hpp
+END
+Waveform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Waveform.hpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libprojectm/Renderer/Makefile
+END
+PerlinNoise.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/PerlinNoise.hpp
+END
+MilkdropWaveform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/MilkdropWaveform.hpp
+END
+UserTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/UserTexture.cpp
+END
+RenderItemMatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/RenderItemMatcher.cpp
+END
+Renderable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Renderable.cpp
+END
+UserTexture.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/UserTexture.hpp
+END
+PerPixelMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/PerPixelMesh.cpp
+END
+Pipeline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Pipeline.cpp
+END
+VideoEcho.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/VideoEcho.cpp
+END
+Shader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Shader.cpp
+END
+Renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Renderer.cpp
+END
+FBO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/FBO.cpp
+END
+RenderItemMatcher.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/RenderItemMatcher.hpp
+END
+Renderable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Renderable.hpp
+END
+Pipeline.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Pipeline.hpp
+END
+PerPixelMesh.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/PerPixelMesh.hpp
+END
+VideoEcho.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/VideoEcho.hpp
+END
+Shader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Shader.hpp
+END
+FBO.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/FBO.hpp
+END
+blur.cg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/blur.cg
+END
+Renderer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Renderer.hpp
+END
+Transformation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Transformation.hpp
+END
+RenderItemDistanceMetric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/RenderItemDistanceMetric.cpp
+END
+RenderItemDistanceMetric.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/RenderItemDistanceMetric.hpp
+END
+projectM.cg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/projectM.cg
+END
+TextureManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/TextureManager.cpp
+END
+ShaderEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/ShaderEngine.cpp
+END
+TextureManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/TextureManager.hpp
+END
+ShaderEngine.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/ShaderEngine.hpp
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libprojectm/Renderer/cmake_install.cmake
+END
+BeatDetect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/BeatDetect.cpp
+END
+Filters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Filters.cpp
+END
+BeatDetect.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/BeatDetect.hpp
+END
+PipelineContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/PipelineContext.cpp
+END
+Filters.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/Filters.hpp
+END
+PipelineContext.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/Renderer/PipelineContext.hpp
+END

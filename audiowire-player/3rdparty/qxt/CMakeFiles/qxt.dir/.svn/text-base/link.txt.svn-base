@@ -1,0 +1,2 @@
+/usr/bin/ar cr libqxt.a  CMakeFiles/qxt.dir/qxtglobal.cpp.o CMakeFiles/qxt.dir/qxtglobalshortcut.cpp.o CMakeFiles/qxt.dir/qxtglobalshortcut_x11.cpp.o CMakeFiles/qxt.dir/moc_qxtglobalshortcut.cxx.o
+/usr/bin/ranlib libqxt.a

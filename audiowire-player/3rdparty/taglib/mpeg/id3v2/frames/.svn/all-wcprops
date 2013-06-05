@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames
+END
+generalencapsulatedobjectframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/generalencapsulatedobjectframe.h
+END
+textidentificationframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/textidentificationframe.h
+END
+relativevolumeframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/relativevolumeframe.cpp
+END
+unknownframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/unknownframe.h
+END
+relativevolumeframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/relativevolumeframe.h
+END
+unsynchronizedlyricsframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/unsynchronizedlyricsframe.cpp
+END
+attachedpictureframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/attachedpictureframe.cpp
+END
+uniquefileidentifierframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/uniquefileidentifierframe.cpp
+END
+privateframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/privateframe.cpp
+END
+unsynchronizedlyricsframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/unsynchronizedlyricsframe.h
+END
+ownershipframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/ownershipframe.cpp
+END
+attachedpictureframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/attachedpictureframe.h
+END
+uniquefileidentifierframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/uniquefileidentifierframe.h
+END
+privateframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/privateframe.h
+END
+urllinkframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/urllinkframe.cpp
+END
+ownershipframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/ownershipframe.h
+END
+commentsframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/commentsframe.cpp
+END
+urllinkframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/urllinkframe.h
+END
+popularimeterframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/popularimeterframe.cpp
+END
+commentsframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/commentsframe.h
+END
+popularimeterframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/popularimeterframe.h
+END
+generalencapsulatedobjectframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/generalencapsulatedobjectframe.cpp
+END
+textidentificationframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/textidentificationframe.cpp
+END
+unknownframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/unknownframe.cpp
+END

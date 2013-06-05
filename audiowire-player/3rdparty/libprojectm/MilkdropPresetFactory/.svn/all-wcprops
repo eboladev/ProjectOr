@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory
+END
+Param.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Param.cpp
+END
+CustomShape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/CustomShape.hpp
+END
+MilkdropPreset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/MilkdropPreset.cpp
+END
+PerPointEqn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/PerPointEqn.cpp
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/cmake_install.cmake
+END
+Param.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Param.hpp
+END
+BuiltinFuncs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/BuiltinFuncs.cpp
+END
+PerFrameEqn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/PerFrameEqn.cpp
+END
+InitCond.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/InitCond.cpp
+END
+MilkdropPreset.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/MilkdropPreset.hpp
+END
+PerPointEqn.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/PerPointEqn.hpp
+END
+BuiltinFuncs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/BuiltinFuncs.hpp
+END
+PerFrameEqn.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/PerFrameEqn.hpp
+END
+InitCond.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/InitCond.hpp
+END
+Expr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Expr.cpp
+END
+Expr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Expr.hpp
+END
+Eval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Eval.cpp
+END
+Func.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Func.cpp
+END
+Parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Parser.cpp
+END
+MilkdropPresetFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/MilkdropPresetFactory.cpp
+END
+Eval.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Eval.hpp
+END
+PerPixelEqn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/PerPixelEqn.cpp
+END
+InitCondUtils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/InitCondUtils.hpp
+END
+CustomWave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/CustomWave.cpp
+END
+IdlePreset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/IdlePreset.cpp
+END
+Func.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Func.hpp
+END
+Parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Parser.hpp
+END
+MilkdropPresetFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/MilkdropPresetFactory.hpp
+END
+PerPixelEqn.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/PerPixelEqn.hpp
+END
+CustomWave.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/CustomWave.hpp
+END
+IdlePreset.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/IdlePreset.hpp
+END
+PresetFrameIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/PresetFrameIO.cpp
+END
+BuiltinParams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/BuiltinParams.cpp
+END
+PresetFrameIO.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/PresetFrameIO.hpp
+END
+BuiltinParams.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/BuiltinParams.hpp
+END
+CValue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/CValue.hpp
+END
+ParamUtils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/ParamUtils.hpp
+END
+CustomShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/CustomShape.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/Makefile
+END

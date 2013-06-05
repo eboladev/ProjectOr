@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape
+END
+apefooter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apefooter.h
+END
+apeitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apeitem.h
+END
+apefile.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apefile.h
+END
+ape-tag-format.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/ape-tag-format.txt
+END
+apetag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apetag.cpp
+END
+apeproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apeproperties.cpp
+END
+apefooter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apefooter.cpp
+END
+apeitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apeitem.cpp
+END
+apefile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apefile.cpp
+END
+apetag.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apetag.h
+END
+apeproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/ape/apeproperties.h
+END

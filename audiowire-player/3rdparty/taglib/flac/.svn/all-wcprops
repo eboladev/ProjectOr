@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac
+END
+flacmetadatablock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacmetadatablock.cpp
+END
+flacpicture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacpicture.cpp
+END
+flacunknownmetadatablock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacunknownmetadatablock.cpp
+END
+flacproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacproperties.cpp
+END
+flacfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacfile.cpp
+END
+flacmetadatablock.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacmetadatablock.h
+END
+flacpicture.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacpicture.h
+END
+flacunknownmetadatablock.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacunknownmetadatablock.h
+END
+flacproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacproperties.h
+END
+flacfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/flac/flacfile.h
+END

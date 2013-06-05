@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest
+END
+Playlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/Playlist.h
+END
+CatalogSong.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/CatalogSong.h
+END
+CatalogArtist.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/CatalogArtist.h
+END
+Track.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/Track.h
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/Config.h
+END
+Song.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/Song.h
+END
+Artist.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/Artist.h
+END
+echonest_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/echonest_export.h
+END
+Catalog.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/Catalog.h
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/Util.h
+END
+AudioSummary.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/AudioSummary.h
+END
+TypeInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/TypeInformation.h
+END
+CatalogItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/CatalogItem.h
+END
+ArtistTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/ArtistTypes.h
+END
+CatalogUpdateEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libechonest/echonest/CatalogUpdateEntry.h
+END

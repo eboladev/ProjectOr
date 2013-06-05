@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests
+END
+minidump_generator_test_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/minidump_generator_test_helper.cc
+END
+minidump_generator_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/minidump_generator_test.cc
+END
+SimpleStringDictionaryTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/SimpleStringDictionaryTest.h
+END
+testlogging.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/testlogging.h
+END
+BreakpadFramework_Test.mm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/BreakpadFramework_Test.mm
+END
+SimpleStringDictionaryTest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/SimpleStringDictionaryTest.mm
+END
+exception_handler_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/exception_handler_test.cc
+END
+spawn_child_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/spawn_child_process.h
+END
+auto_tempdir.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/auto_tempdir.h
+END
+crash_generation_server_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/tests/crash_generation_server_test.cc
+END

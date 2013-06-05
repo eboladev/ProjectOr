@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo
+END
+lastfmtrackinfoprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/lastfmtrackinfoprovider.h
+END
+moc_songkickconcertwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_songkickconcertwidget.cxx
+END
+collapsibleinfopane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/collapsibleinfopane.cpp
+END
+moc_ultimatelyricsreader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_ultimatelyricsreader.cxx
+END
+songplaystats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songplaystats.cpp
+END
+artistinfoview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/artistinfoview.cpp
+END
+songinfoview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfoview.cpp
+END
+collapsibleinfoheader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/collapsibleinfoheader.cpp
+END
+songkickconcerts.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songkickconcerts.h
+END
+moc_lastfmtrackinfoprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_lastfmtrackinfoprovider.cxx
+END
+songinfobase.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfobase.h
+END
+songinfotextview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfotextview.cpp
+END
+songinfofetcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfofetcher.cpp
+END
+tagwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/tagwidget.h
+END
+echonestbiographies.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/echonestbiographies.cpp
+END
+moc_songkickconcerts.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_songkickconcerts.cxx
+END
+songkickconcertwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songkickconcertwidget.cpp
+END
+ultimatelyricsprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/ultimatelyricsprovider.h
+END
+moc_songinfobase.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_songinfobase.cxx
+END
+songinfosettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfosettingspage.ui
+END
+echonesttags.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/echonesttags.h
+END
+moc_tagwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_tagwidget.cxx
+END
+ultimatelyricsreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/ultimatelyricsreader.cpp
+END
+lastfmtrackinfoprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/lastfmtrackinfoprovider.cpp
+END
+songinfoprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfoprovider.h
+END
+echonestimages.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/echonestimages.h
+END
+moc_ultimatelyricsprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_ultimatelyricsprovider.cxx
+END
+moc_echonesttags.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_echonesttags.cxx
+END
+songinfosettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfosettingspage.h
+END
+echonestsimilarartists.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/echonestsimilarartists.h
+END
+songkickconcerts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songkickconcerts.cpp
+END
+moc_songinfoprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_songinfoprovider.cxx
+END
+moc_echonestimages.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_echonestimages.cxx
+END
+songinfobase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfobase.cpp
+END
+moc_songinfosettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_songinfosettingspage.cxx
+END
+collapsibleinfopane.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/collapsibleinfopane.h
+END
+tagwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/tagwidget.cpp
+END
+songplaystats.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songplaystats.h
+END
+moc_echonestsimilarartists.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_echonestsimilarartists.cxx
+END
+artistinfoview.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/artistinfoview.h
+END
+songinfoview.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfoview.h
+END
+collapsibleinfoheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/collapsibleinfoheader.h
+END
+songkickconcertwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songkickconcertwidget.ui
+END
+ultimatelyricsprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/ultimatelyricsprovider.cpp
+END
+moc_collapsibleinfopane.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_collapsibleinfopane.cxx
+END
+echonesttags.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/echonesttags.cpp
+END
+songinfotextview.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfotextview.h
+END
+songinfofetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfofetcher.h
+END
+moc_songplaystats.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_songplaystats.cxx
+END
+echonestbiographies.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/echonestbiographies.h
+END
+moc_songinfoview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_songinfoview.cxx
+END
+moc_artistinfoview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_artistinfoview.cxx
+END
+moc_collapsibleinfoheader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_collapsibleinfoheader.cxx
+END
+songinfoprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfoprovider.cpp
+END
+echonestimages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/echonestimages.cpp
+END
+songkickconcertwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songkickconcertwidget.h
+END
+moc_songinfotextview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_songinfotextview.cxx
+END
+songinfosettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/songinfosettingspage.cpp
+END
+moc_songinfofetcher.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_songinfofetcher.cxx
+END
+ultimatelyricsreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/ultimatelyricsreader.h
+END
+moc_echonestbiographies.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/songinfo/moc_echonestbiographies.cxx
+END
+echonestsimilarartists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/songinfo/echonestsimilarartists.cpp
+END

@@ -1,0 +1,613 @@
+/****************************************************************************
+** Meta object code from reading C++ file 'udisksdevice.h'
+**
+** Created: Wed Feb 20 06:21:38 2013
+**      by: The Qt Meta Object Compiler version 63 (Qt 4.8.1)
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#include "udisksdevice.h"
+#if !defined(Q_MOC_OUTPUT_REVISION)
+#error "The header file 'udisksdevice.h' doesn't include <QObject>."
+#elif Q_MOC_OUTPUT_REVISION != 63
+#error "This file was generated using the moc from 4.8.1. It"
+#error "cannot be used with the include files from this version of Qt."
+#error "(The moc has changed too much.)"
+#endif
+
+QT_BEGIN_MOC_NAMESPACE
+static const uint qt_meta_data_OrgFreedesktopUDisksDeviceInterface[] = {
+
+ // content:
+       6,       // revision
+       0,       // classname
+       0,    0, // classinfo
+      33,   14, // methods
+     132,  179, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       2,       // signalCount
+
+ // signals: signature, parameters, type, tag, flags
+      37,   36,   36,   36, 0x05,
+     125,   47,   36,   36, 0x05,
+
+ // slots: signature, parameters, type, tag, flags
+     200,  187,  167,   36, 0x0a,
+     259,  251,  167,   36, 0x0a,
+     382,  355,  297,   36, 0x0a,
+     515,  440,  415,   36, 0x0a,
+     576,  251,  167,   36, 0x0a,
+     601,  251,  167,   36, 0x0a,
+     652,  251,  625,   36, 0x0a,
+     685,   36,  167,   36, 0x0a,
+     726,  702,  625,   36, 0x0a,
+     774,  767,  167,   36, 0x0a,
+     805,  767,  167,   36, 0x0a,
+     864,  251,  840,   36, 0x0a,
+     908,  893,  167,   36, 0x0a,
+     978,   36,  946,   36, 0x0a,
+    1028, 1004,  625,   36, 0x0a,
+    1075, 1065,  167,   36, 0x0a,
+    1103,  251,  167,   36, 0x0a,
+    1134,   36,  167,   36, 0x0a,
+    1146,  251,  167,   36, 0x0a,
+    1193, 1175,  167,   36, 0x0a,
+    1268,  251, 1238,   36, 0x0a,
+    1313, 1294,  167,   36, 0x0a,
+    1363, 1175,  167,   36, 0x0a,
+    1415,  251,  167,   36, 0x0a,
+    1474, 1440,  167,   36, 0x0a,
+    1512,  251,  167,   36, 0x0a,
+    1588, 1569, 1534,   36, 0x0a,
+    1674, 1620, 1534,   36, 0x0a,
+    1773,  251,  167,   36, 0x0a,
+    1819, 1802,  167,   36, 0x0a,
+    1879, 1864,  167,   36, 0x0a,
+
+ // properties: name, type, flags
+    1932, 1921, 0x05095001,
+    1948, 1921, 0x05095001,
+    1976, 1968, 0x0a095001,
+    1999, 1987, 0x0b095001,
+    2014, 1987, 0x0b095001,
+    2031, 1968, 0x0a095001,
+    2059, 2054, 0x01095001,
+    2073, 2054, 0x01095001,
+    2091, 2054, 0x01095001,
+    2118, 2054, 0x01095001,
+    2136, 2054, 0x01095001,
+    2156, 2054, 0x01095001,
+    2176, 2054, 0x01095001,
+    2192, 2054, 0x01095001,
+    2217, 2054, 0x01095001,
+    2230, 2054, 0x01095001,
+    2252, 2054, 0x01095001,
+    2275, 2054, 0x01095001,
+    2303, 2054, 0x01095001,
+    2343, 2054, 0x01095001,
+    2381, 2054, 0x01095001,
+    2417, 2054, 0x01095001,
+    2433, 2054, 0x01095001,
+    2453, 2054, 0x01095001,
+    2471, 2054, 0x01095001,
+    2494, 2054, 0x01095001,
+    2511, 2054, 0x01095001,
+    2529, 2054, 0x01095001,
+    2562, 2552, 0x04095001,
+    2574, 1921, 0x05095001,
+    2599, 2552, 0x04095001,
+    2611, 1987, 0x0b095001,
+    2633, 2628, 0x03095001,
+    2652, 2054, 0x01095001,
+    2675, 1968, 0x0a095001,
+    2702, 1968, 0x0a095001,
+    2725, 2054, 0x01095001,
+    2752, 1921, 0x05095001,
+    2779, 2763, 0x00095009,
+    2803, 2792, 0x0c095001,
+    2821, 2054, 0x01095001,
+    2846, 1968, 0x0a095001,
+    2866, 1921, 0x05095001,
+    2893, 2054, 0x01095001,
+    2908, 2054, 0x01095001,
+    2925, 1968, 0x0a095001,
+    2950, 1921, 0x05095001,
+    2971, 2054, 0x01095001,
+    2993, 2054, 0x01095001,
+    3011, 1968, 0x0a095001,
+    3022, 1987, 0x0b095001,
+    3046, 1968, 0x0a095001,
+    3080, 3057, 0x00095009,
+    3091, 1968, 0x0a095001,
+    3105, 2628, 0x03095001,
+    3123, 1968, 0x0a095001,
+    3135, 3057, 0x00095009,
+    3155, 1968, 0x0a095001,
+    3167, 1968, 0x0a095001,
+    3183, 1968, 0x0a095001,
+    3192, 1968, 0x0a095001,
+    3200, 1968, 0x0a095001,
+    3207, 1968, 0x0a095001,
+    3215, 1968, 0x0a095001,
+    3222, 1968, 0x0a095001,
+    3232, 1968, 0x0a095001,
+    3238, 2054, 0x01095001,
+    3252, 2628, 0x03095001,
+    3270, 2054, 0x01095001,
+    3294, 3287, 0x06095001,
+    3308, 2763, 0x00095009,
+    3333, 1968, 0x0a095001,
+    3347, 1968, 0x0a095001,
+    3367, 3057, 0x00095009,
+    3383, 1968, 0x0a095001,
+    3401, 1968, 0x0a095001,
+    3422, 1968, 0x0a095001,
+    3443, 1968, 0x0a095001,
+    3459, 1968, 0x0a095001,
+    3475, 1921, 0x05095001,
+    3502, 1987, 0x0b095001,
+    3533, 1968, 0x0a095001,
+    3554, 1987, 0x0b095001,
+    3586, 1921, 0x05095001,
+    3617, 1921, 0x05095001,
+    3638, 1921, 0x05095001,
+    3670, 1968, 0x0a095001,
+    3691, 2628, 0x03095001,
+    3719, 1968, 0x0a095001,
+    3735, 2763, 0x00095009,
+    3758, 1968, 0x0a095001,
+    3783, 1968, 0x0a095001,
+    3805, 1968, 0x0a095001,
+    3830, 3826, 0x02095001,
+    3861, 3826, 0x02095001,
+    3886, 1987, 0x0b095001,
+    3908, 1968, 0x0a095001,
+    3929, 1968, 0x0a095001,
+    3953, 1968, 0x0a095001,
+    3969, 2054, 0x01095001,
+    3987, 1968, 0x0a095001,
+    4000, 1968, 0x0a095001,
+    4012, 3826, 0x02095001,
+    4034, 3057, 0x00095009,
+    4048, 1968, 0x0a095001,
+    4061, 1968, 0x0a095001,
+    4079, 3287, 0x06095001,
+    4101, 1921, 0x05095001,
+    4118, 1968, 0x0a095001,
+    4130, 1968, 0x0a095001,
+    4145, 2763, 0x00095009,
+    4164, 2628, 0x03095001,
+    4191, 2763, 0x00095009,
+    4202, 1968, 0x0a095001,
+    4213, 2054, 0x01095001,
+    4237, 2054, 0x01095001,
+    4256, 2054, 0x01095001,
+    4276, 2628, 0x03095001,
+    4302, 2628, 0x03095001,
+    4325, 2628, 0x03095001,
+    4346, 1921, 0x05095001,
+    4371, 1987, 0x0b095001,
+    4386, 1968, 0x0a095001,
+    4401, 3826, 0x02095001,
+    4417, 1921, 0x05095001,
+    4433, 1968, 0x0a095001,
+    4449, 1921, 0x05095001,
+    4463, 2763, 0x00095009,
+    4478, 3826, 0x02095001,
+    4498, 1968, 0x0a095001,
+    4519, 1968, 0x0a095001,
+    4533, 1968, 0x0a095001,
+
+       0        // eod
+};
+
+static const char qt_meta_stringdata_OrgFreedesktopUDisksDeviceInterface[] = {
+    "OrgFreedesktopUDisksDeviceInterface\0"
+    "\0Changed()\0"
+    "job_in_progress,job_is_cancellable,job_id,job_initiated_by_uid,job_per"
+    "centage\0"
+    "JobChanged(bool,bool,QString,uint,double)\0"
+    "QDBusPendingReply<>\0test,options\0"
+    "DriveAtaSmartInitiateSelftest(QString,QStringList)\0"
+    "options\0DriveAtaSmartRefreshData(QStringList)\0"
+    "QDBusPendingReply<QVariantList,QVariantList,QVariantList>\0"
+    "do_write_benchmark,options\0"
+    "DriveBenchmark(bool,QStringList)\0"
+    "QDBusReply<QVariantList>\0"
+    "do_write_benchmark,options,write_transfer_rate_results,access_time_res"
+    "ults\0"
+    "DriveBenchmark(bool,QStringList,QVariantList&,QVariantList&)\0"
+    "DriveDetach(QStringList)\0"
+    "DriveEject(QStringList)\0"
+    "QDBusPendingReply<QString>\0"
+    "DriveInhibitPolling(QStringList)\0"
+    "DrivePollMedia()\0timeout_seconds,options\0"
+    "DriveSetSpindownTimeout(int,QStringList)\0"
+    "cookie\0DriveUninhibitPolling(QString)\0"
+    "DriveUnsetSpindownTimeout(QString)\0"
+    "QDBusPendingReply<bool>\0"
+    "FilesystemCheck(QStringList)\0"
+    "fstype,options\0FilesystemCreate(QString,QStringList)\0"
+    "QDBusPendingReply<QVariantList>\0"
+    "FilesystemListOpenFiles()\0"
+    "filesystem_type,options\0"
+    "FilesystemMount(QString,QStringList)\0"
+    "new_label\0FilesystemSetLabel(QString)\0"
+    "FilesystemUnmount(QStringList)\0"
+    "JobCancel()\0LinuxLvm2LVStop(QStringList)\0"
+    "component,options\0"
+    "LinuxMdAddSpare(QDBusObjectPath,QStringList)\0"
+    "QDBusPendingReply<qulonglong>\0"
+    "LinuxMdCheck(QStringList)\0components,options\0"
+    "LinuxMdExpand(QList<QDBusObjectPath>,QStringList)\0"
+    "LinuxMdRemoveComponent(QDBusObjectPath,QStringList)\0"
+    "LinuxMdStop(QStringList)\0"
+    "current_passphrase,new_passphrase\0"
+    "LuksChangePassphrase(QString,QString)\0"
+    "LuksLock(QStringList)\0"
+    "QDBusPendingReply<QDBusObjectPath>\0"
+    "passphrase,options\0LuksUnlock(QString,QStringList)\0"
+    "offset,size,type,label,flags,options,fstype,fsoptions\0"
+    "PartitionCreate(qulonglong,qulonglong,QString,QString,QStringList,QStr"
+    "ingList,QString,QStringList)\0"
+    "PartitionDelete(QStringList)\0"
+    "type,label,flags\0"
+    "PartitionModify(QString,QString,QStringList)\0"
+    "scheme,options\0PartitionTableCreate(QString,QStringList)\0"
+    "qulonglong\0DeviceBlockSize\0"
+    "DeviceDetectionTime\0QString\0DeviceFile\0"
+    "QStringList\0DeviceFileById\0DeviceFileByPath\0"
+    "DeviceFilePresentation\0bool\0DeviceIsDrive\0"
+    "DeviceIsLinuxDmmp\0DeviceIsLinuxDmmpComponent\0"
+    "DeviceIsLinuxLoop\0DeviceIsLinuxLvm2LV\0"
+    "DeviceIsLinuxLvm2PV\0DeviceIsLinuxMd\0"
+    "DeviceIsLinuxMdComponent\0DeviceIsLuks\0"
+    "DeviceIsLuksCleartext\0DeviceIsMediaAvailable\0"
+    "DeviceIsMediaChangeDetected\0"
+    "DeviceIsMediaChangeDetectionInhibitable\0"
+    "DeviceIsMediaChangeDetectionInhibited\0"
+    "DeviceIsMediaChangeDetectionPolling\0"
+    "DeviceIsMounted\0DeviceIsOpticalDisc\0"
+    "DeviceIsPartition\0DeviceIsPartitionTable\0"
+    "DeviceIsReadOnly\0DeviceIsRemovable\0"
+    "DeviceIsSystemInternal\0qlonglong\0"
+    "DeviceMajor\0DeviceMediaDetectionTime\0"
+    "DeviceMinor\0DeviceMountPaths\0uint\0"
+    "DeviceMountedByUid\0DevicePresentationHide\0"
+    "DevicePresentationIconName\0"
+    "DevicePresentationName\0"
+    "DevicePresentationNopolicy\0DeviceSize\0"
+    "QDBusObjectPath\0DriveAdapter\0QByteArray\0"
+    "DriveAtaSmartBlob\0DriveAtaSmartIsAvailable\0"
+    "DriveAtaSmartStatus\0DriveAtaSmartTimeCollected\0"
+    "DriveCanDetach\0DriveCanSpindown\0"
+    "DriveConnectionInterface\0DriveConnectionSpeed\0"
+    "DriveIsMediaEjectable\0DriveIsRotational\0"
+    "DriveMedia\0DriveMediaCompatibility\0"
+    "DriveModel\0QList<QDBusObjectPath>\0"
+    "DrivePorts\0DriveRevision\0DriveRotationRate\0"
+    "DriveSerial\0DriveSimilarDevices\0"
+    "DriveVendor\0DriveWriteCache\0DriveWwn\0"
+    "IdLabel\0IdType\0IdUsage\0IdUuid\0IdVersion\0"
+    "JobId\0JobInProgress\0JobInitiatedByUid\0"
+    "JobIsCancellable\0double\0JobPercentage\0"
+    "LinuxDmmpComponentHolder\0LinuxDmmpName\0"
+    "LinuxDmmpParameters\0LinuxDmmpSlaves\0"
+    "LinuxLoopFilename\0LinuxLvm2LVGroupName\0"
+    "LinuxLvm2LVGroupUuid\0LinuxLvm2LVName\0"
+    "LinuxLvm2LVUuid\0LinuxLvm2PVGroupExtentSize\0"
+    "LinuxLvm2PVGroupLogicalVolumes\0"
+    "LinuxLvm2PVGroupName\0"
+    "LinuxLvm2PVGroupPhysicalVolumes\0"
+    "LinuxLvm2PVGroupSequenceNumber\0"
+    "LinuxLvm2PVGroupSize\0"
+    "LinuxLvm2PVGroupUnallocatedSize\0"
+    "LinuxLvm2PVGroupUuid\0LinuxLvm2PVNumMetadataAreas\0"
+    "LinuxLvm2PVUuid\0LinuxMdComponentHolder\0"
+    "LinuxMdComponentHomeHost\0LinuxMdComponentLevel\0"
+    "LinuxMdComponentName\0int\0"
+    "LinuxMdComponentNumRaidDevices\0"
+    "LinuxMdComponentPosition\0LinuxMdComponentState\0"
+    "LinuxMdComponentUuid\0LinuxMdComponentVersion\0"
+    "LinuxMdHomeHost\0LinuxMdIsDegraded\0"
+    "LinuxMdLevel\0LinuxMdName\0LinuxMdNumRaidDevices\0"
+    "LinuxMdSlaves\0LinuxMdState\0LinuxMdSyncAction\0"
+    "LinuxMdSyncPercentage\0LinuxMdSyncSpeed\0"
+    "LinuxMdUuid\0LinuxMdVersion\0"
+    "LuksCleartextSlave\0LuksCleartextUnlockedByUid\0"
+    "LuksHolder\0NativePath\0OpticalDiscIsAppendable\0"
+    "OpticalDiscIsBlank\0OpticalDiscIsClosed\0"
+    "OpticalDiscNumAudioTracks\0"
+    "OpticalDiscNumSessions\0OpticalDiscNumTracks\0"
+    "PartitionAlignmentOffset\0PartitionFlags\0"
+    "PartitionLabel\0PartitionNumber\0"
+    "PartitionOffset\0PartitionScheme\0"
+    "PartitionSize\0PartitionSlave\0"
+    "PartitionTableCount\0PartitionTableScheme\0"
+    "PartitionType\0PartitionUuid\0"
+};
+
+void OrgFreedesktopUDisksDeviceInterface::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        Q_ASSERT(staticMetaObject.cast(_o));
+        OrgFreedesktopUDisksDeviceInterface *_t = static_cast<OrgFreedesktopUDisksDeviceInterface *>(_o);
+        switch (_id) {
+        case 0: _t->Changed(); break;
+        case 1: _t->JobChanged((*reinterpret_cast< bool(*)>(_a[1])),(*reinterpret_cast< bool(*)>(_a[2])),(*reinterpret_cast< const QString(*)>(_a[3])),(*reinterpret_cast< uint(*)>(_a[4])),(*reinterpret_cast< double(*)>(_a[5]))); break;
+        case 2: { QDBusPendingReply<> _r = _t->DriveAtaSmartInitiateSelftest((*reinterpret_cast< const QString(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 3: { QDBusPendingReply<> _r = _t->DriveAtaSmartRefreshData((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 4: { QDBusPendingReply<QVariantList,QVariantList,QVariantList> _r = _t->DriveBenchmark((*reinterpret_cast< bool(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<QVariantList,QVariantList,QVariantList>*>(_a[0]) = _r; }  break;
+        case 5: { QDBusReply<QVariantList> _r = _t->DriveBenchmark((*reinterpret_cast< bool(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])),(*reinterpret_cast< QVariantList(*)>(_a[3])),(*reinterpret_cast< QVariantList(*)>(_a[4])));
+            if (_a[0]) *reinterpret_cast< QDBusReply<QVariantList>*>(_a[0]) = _r; }  break;
+        case 6: { QDBusPendingReply<> _r = _t->DriveDetach((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 7: { QDBusPendingReply<> _r = _t->DriveEject((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 8: { QDBusPendingReply<QString> _r = _t->DriveInhibitPolling((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<QString>*>(_a[0]) = _r; }  break;
+        case 9: { QDBusPendingReply<> _r = _t->DrivePollMedia();
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 10: { QDBusPendingReply<QString> _r = _t->DriveSetSpindownTimeout((*reinterpret_cast< int(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<QString>*>(_a[0]) = _r; }  break;
+        case 11: { QDBusPendingReply<> _r = _t->DriveUninhibitPolling((*reinterpret_cast< const QString(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 12: { QDBusPendingReply<> _r = _t->DriveUnsetSpindownTimeout((*reinterpret_cast< const QString(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 13: { QDBusPendingReply<bool> _r = _t->FilesystemCheck((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<bool>*>(_a[0]) = _r; }  break;
+        case 14: { QDBusPendingReply<> _r = _t->FilesystemCreate((*reinterpret_cast< const QString(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 15: { QDBusPendingReply<QVariantList> _r = _t->FilesystemListOpenFiles();
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<QVariantList>*>(_a[0]) = _r; }  break;
+        case 16: { QDBusPendingReply<QString> _r = _t->FilesystemMount((*reinterpret_cast< const QString(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<QString>*>(_a[0]) = _r; }  break;
+        case 17: { QDBusPendingReply<> _r = _t->FilesystemSetLabel((*reinterpret_cast< const QString(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 18: { QDBusPendingReply<> _r = _t->FilesystemUnmount((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 19: { QDBusPendingReply<> _r = _t->JobCancel();
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 20: { QDBusPendingReply<> _r = _t->LinuxLvm2LVStop((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 21: { QDBusPendingReply<> _r = _t->LinuxMdAddSpare((*reinterpret_cast< const QDBusObjectPath(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 22: { QDBusPendingReply<qulonglong> _r = _t->LinuxMdCheck((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<qulonglong>*>(_a[0]) = _r; }  break;
+        case 23: { QDBusPendingReply<> _r = _t->LinuxMdExpand((*reinterpret_cast< const QList<QDBusObjectPath>(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 24: { QDBusPendingReply<> _r = _t->LinuxMdRemoveComponent((*reinterpret_cast< const QDBusObjectPath(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 25: { QDBusPendingReply<> _r = _t->LinuxMdStop((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 26: { QDBusPendingReply<> _r = _t->LuksChangePassphrase((*reinterpret_cast< const QString(*)>(_a[1])),(*reinterpret_cast< const QString(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 27: { QDBusPendingReply<> _r = _t->LuksLock((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 28: { QDBusPendingReply<QDBusObjectPath> _r = _t->LuksUnlock((*reinterpret_cast< const QString(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<QDBusObjectPath>*>(_a[0]) = _r; }  break;
+        case 29: { QDBusPendingReply<QDBusObjectPath> _r = _t->PartitionCreate((*reinterpret_cast< qulonglong(*)>(_a[1])),(*reinterpret_cast< qulonglong(*)>(_a[2])),(*reinterpret_cast< const QString(*)>(_a[3])),(*reinterpret_cast< const QString(*)>(_a[4])),(*reinterpret_cast< const QStringList(*)>(_a[5])),(*reinterpret_cast< const QStringList(*)>(_a[6])),(*reinterpret_cast< const QString(*)>(_a[7])),(*reinterpret_cast< const QStringList(*)>(_a[8])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<QDBusObjectPath>*>(_a[0]) = _r; }  break;
+        case 30: { QDBusPendingReply<> _r = _t->PartitionDelete((*reinterpret_cast< const QStringList(*)>(_a[1])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 31: { QDBusPendingReply<> _r = _t->PartitionModify((*reinterpret_cast< const QString(*)>(_a[1])),(*reinterpret_cast< const QString(*)>(_a[2])),(*reinterpret_cast< const QStringList(*)>(_a[3])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        case 32: { QDBusPendingReply<> _r = _t->PartitionTableCreate((*reinterpret_cast< const QString(*)>(_a[1])),(*reinterpret_cast< const QStringList(*)>(_a[2])));
+            if (_a[0]) *reinterpret_cast< QDBusPendingReply<>*>(_a[0]) = _r; }  break;
+        default: ;
+        }
+    }
+}
+
+const QMetaObjectExtraData OrgFreedesktopUDisksDeviceInterface::staticMetaObjectExtraData = {
+    0,  qt_static_metacall 
+};
+
+const QMetaObject OrgFreedesktopUDisksDeviceInterface::staticMetaObject = {
+    { &QDBusAbstractInterface::staticMetaObject, qt_meta_stringdata_OrgFreedesktopUDisksDeviceInterface,
+      qt_meta_data_OrgFreedesktopUDisksDeviceInterface, &staticMetaObjectExtraData }
+};
+
+#ifdef Q_NO_DATA_RELOCATION
+const QMetaObject &OrgFreedesktopUDisksDeviceInterface::getStaticMetaObject() { return staticMetaObject; }
+#endif //Q_NO_DATA_RELOCATION
+
+const QMetaObject *OrgFreedesktopUDisksDeviceInterface::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->metaObject : &staticMetaObject;
+}
+
+void *OrgFreedesktopUDisksDeviceInterface::qt_metacast(const char *_clname)
+{
+    if (!_clname) return 0;
+    if (!strcmp(_clname, qt_meta_stringdata_OrgFreedesktopUDisksDeviceInterface))
+        return static_cast<void*>(const_cast< OrgFreedesktopUDisksDeviceInterface*>(this));
+    return QDBusAbstractInterface::qt_metacast(_clname);
+}
+
+int OrgFreedesktopUDisksDeviceInterface::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QDBusAbstractInterface::qt_metacall(_c, _id, _a);
+    if (_id < 0)
+        return _id;
+    if (_c == QMetaObject::InvokeMetaMethod) {
+        if (_id < 33)
+            qt_static_metacall(this, _c, _id, _a);
+        _id -= 33;
+    }
+#ifndef QT_NO_PROPERTIES
+      else if (_c == QMetaObject::ReadProperty) {
+        void *_v = _a[0];
+        switch (_id) {
+        case 0: *reinterpret_cast< qulonglong*>(_v) = deviceBlockSize(); break;
+        case 1: *reinterpret_cast< qulonglong*>(_v) = deviceDetectionTime(); break;
+        case 2: *reinterpret_cast< QString*>(_v) = deviceFile(); break;
+        case 3: *reinterpret_cast< QStringList*>(_v) = deviceFileById(); break;
+        case 4: *reinterpret_cast< QStringList*>(_v) = deviceFileByPath(); break;
+        case 5: *reinterpret_cast< QString*>(_v) = deviceFilePresentation(); break;
+        case 6: *reinterpret_cast< bool*>(_v) = deviceIsDrive(); break;
+        case 7: *reinterpret_cast< bool*>(_v) = deviceIsLinuxDmmp(); break;
+        case 8: *reinterpret_cast< bool*>(_v) = deviceIsLinuxDmmpComponent(); break;
+        case 9: *reinterpret_cast< bool*>(_v) = deviceIsLinuxLoop(); break;
+        case 10: *reinterpret_cast< bool*>(_v) = deviceIsLinuxLvm2LV(); break;
+        case 11: *reinterpret_cast< bool*>(_v) = deviceIsLinuxLvm2PV(); break;
+        case 12: *reinterpret_cast< bool*>(_v) = deviceIsLinuxMd(); break;
+        case 13: *reinterpret_cast< bool*>(_v) = deviceIsLinuxMdComponent(); break;
+        case 14: *reinterpret_cast< bool*>(_v) = deviceIsLuks(); break;
+        case 15: *reinterpret_cast< bool*>(_v) = deviceIsLuksCleartext(); break;
+        case 16: *reinterpret_cast< bool*>(_v) = deviceIsMediaAvailable(); break;
+        case 17: *reinterpret_cast< bool*>(_v) = deviceIsMediaChangeDetected(); break;
+        case 18: *reinterpret_cast< bool*>(_v) = deviceIsMediaChangeDetectionInhibitable(); break;
+        case 19: *reinterpret_cast< bool*>(_v) = deviceIsMediaChangeDetectionInhibited(); break;
+        case 20: *reinterpret_cast< bool*>(_v) = deviceIsMediaChangeDetectionPolling(); break;
+        case 21: *reinterpret_cast< bool*>(_v) = deviceIsMounted(); break;
+        case 22: *reinterpret_cast< bool*>(_v) = deviceIsOpticalDisc(); break;
+        case 23: *reinterpret_cast< bool*>(_v) = deviceIsPartition(); break;
+        case 24: *reinterpret_cast< bool*>(_v) = deviceIsPartitionTable(); break;
+        case 25: *reinterpret_cast< bool*>(_v) = deviceIsReadOnly(); break;
+        case 26: *reinterpret_cast< bool*>(_v) = deviceIsRemovable(); break;
+        case 27: *reinterpret_cast< bool*>(_v) = deviceIsSystemInternal(); break;
+        case 28: *reinterpret_cast< qlonglong*>(_v) = deviceMajor(); break;
+        case 29: *reinterpret_cast< qulonglong*>(_v) = deviceMediaDetectionTime(); break;
+        case 30: *reinterpret_cast< qlonglong*>(_v) = deviceMinor(); break;
+        case 31: *reinterpret_cast< QStringList*>(_v) = deviceMountPaths(); break;
+        case 32: *reinterpret_cast< uint*>(_v) = deviceMountedByUid(); break;
+        case 33: *reinterpret_cast< bool*>(_v) = devicePresentationHide(); break;
+        case 34: *reinterpret_cast< QString*>(_v) = devicePresentationIconName(); break;
+        case 35: *reinterpret_cast< QString*>(_v) = devicePresentationName(); break;
+        case 36: *reinterpret_cast< bool*>(_v) = devicePresentationNopolicy(); break;
+        case 37: *reinterpret_cast< qulonglong*>(_v) = deviceSize(); break;
+        case 38: *reinterpret_cast< QDBusObjectPath*>(_v) = driveAdapter(); break;
+        case 39: *reinterpret_cast< QByteArray*>(_v) = driveAtaSmartBlob(); break;
+        case 40: *reinterpret_cast< bool*>(_v) = driveAtaSmartIsAvailable(); break;
+        case 41: *reinterpret_cast< QString*>(_v) = driveAtaSmartStatus(); break;
+        case 42: *reinterpret_cast< qulonglong*>(_v) = driveAtaSmartTimeCollected(); break;
+        case 43: *reinterpret_cast< bool*>(_v) = driveCanDetach(); break;
+        case 44: *reinterpret_cast< bool*>(_v) = driveCanSpindown(); break;
+        case 45: *reinterpret_cast< QString*>(_v) = driveConnectionInterface(); break;
+        case 46: *reinterpret_cast< qulonglong*>(_v) = driveConnectionSpeed(); break;
+        case 47: *reinterpret_cast< bool*>(_v) = driveIsMediaEjectable(); break;
+        case 48: *reinterpret_cast< bool*>(_v) = driveIsRotational(); break;
+        case 49: *reinterpret_cast< QString*>(_v) = driveMedia(); break;
+        case 50: *reinterpret_cast< QStringList*>(_v) = driveMediaCompatibility(); break;
+        case 51: *reinterpret_cast< QString*>(_v) = driveModel(); break;
+        case 52: *reinterpret_cast< QList<QDBusObjectPath>*>(_v) = drivePorts(); break;
+        case 53: *reinterpret_cast< QString*>(_v) = driveRevision(); break;
+        case 54: *reinterpret_cast< uint*>(_v) = driveRotationRate(); break;
+        case 55: *reinterpret_cast< QString*>(_v) = driveSerial(); break;
+        case 56: *reinterpret_cast< QList<QDBusObjectPath>*>(_v) = driveSimilarDevices(); break;
+        case 57: *reinterpret_cast< QString*>(_v) = driveVendor(); break;
+        case 58: *reinterpret_cast< QString*>(_v) = driveWriteCache(); break;
+        case 59: *reinterpret_cast< QString*>(_v) = driveWwn(); break;
+        case 60: *reinterpret_cast< QString*>(_v) = idLabel(); break;
+        case 61: *reinterpret_cast< QString*>(_v) = idType(); break;
+        case 62: *reinterpret_cast< QString*>(_v) = idUsage(); break;
+        case 63: *reinterpret_cast< QString*>(_v) = idUuid(); break;
+        case 64: *reinterpret_cast< QString*>(_v) = idVersion(); break;
+        case 65: *reinterpret_cast< QString*>(_v) = jobId(); break;
+        case 66: *reinterpret_cast< bool*>(_v) = jobInProgress(); break;
+        case 67: *reinterpret_cast< uint*>(_v) = jobInitiatedByUid(); break;
+        case 68: *reinterpret_cast< bool*>(_v) = jobIsCancellable(); break;
+        case 69: *reinterpret_cast< double*>(_v) = jobPercentage(); break;
+        case 70: *reinterpret_cast< QDBusObjectPath*>(_v) = linuxDmmpComponentHolder(); break;
+        case 71: *reinterpret_cast< QString*>(_v) = linuxDmmpName(); break;
+        case 72: *reinterpret_cast< QString*>(_v) = linuxDmmpParameters(); break;
+        case 73: *reinterpret_cast< QList<QDBusObjectPath>*>(_v) = linuxDmmpSlaves(); break;
+        case 74: *reinterpret_cast< QString*>(_v) = linuxLoopFilename(); break;
+        case 75: *reinterpret_cast< QString*>(_v) = linuxLvm2LVGroupName(); break;
+        case 76: *reinterpret_cast< QString*>(_v) = linuxLvm2LVGroupUuid(); break;
+        case 77: *reinterpret_cast< QString*>(_v) = linuxLvm2LVName(); break;
+        case 78: *reinterpret_cast< QString*>(_v) = linuxLvm2LVUuid(); break;
+        case 79: *reinterpret_cast< qulonglong*>(_v) = linuxLvm2PVGroupExtentSize(); break;
+        case 80: *reinterpret_cast< QStringList*>(_v) = linuxLvm2PVGroupLogicalVolumes(); break;
+        case 81: *reinterpret_cast< QString*>(_v) = linuxLvm2PVGroupName(); break;
+        case 82: *reinterpret_cast< QStringList*>(_v) = linuxLvm2PVGroupPhysicalVolumes(); break;
+        case 83: *reinterpret_cast< qulonglong*>(_v) = linuxLvm2PVGroupSequenceNumber(); break;
+        case 84: *reinterpret_cast< qulonglong*>(_v) = linuxLvm2PVGroupSize(); break;
+        case 85: *reinterpret_cast< qulonglong*>(_v) = linuxLvm2PVGroupUnallocatedSize(); break;
+        case 86: *reinterpret_cast< QString*>(_v) = linuxLvm2PVGroupUuid(); break;
+        case 87: *reinterpret_cast< uint*>(_v) = linuxLvm2PVNumMetadataAreas(); break;
+        case 88: *reinterpret_cast< QString*>(_v) = linuxLvm2PVUuid(); break;
+        case 89: *reinterpret_cast< QDBusObjectPath*>(_v) = linuxMdComponentHolder(); break;
+        case 90: *reinterpret_cast< QString*>(_v) = linuxMdComponentHomeHost(); break;
+        case 91: *reinterpret_cast< QString*>(_v) = linuxMdComponentLevel(); break;
+        case 92: *reinterpret_cast< QString*>(_v) = linuxMdComponentName(); break;
+        case 93: *reinterpret_cast< int*>(_v) = linuxMdComponentNumRaidDevices(); break;
+        case 94: *reinterpret_cast< int*>(_v) = linuxMdComponentPosition(); break;
+        case 95: *reinterpret_cast< QStringList*>(_v) = linuxMdComponentState(); break;
+        case 96: *reinterpret_cast< QString*>(_v) = linuxMdComponentUuid(); break;
+        case 97: *reinterpret_cast< QString*>(_v) = linuxMdComponentVersion(); break;
+        case 98: *reinterpret_cast< QString*>(_v) = linuxMdHomeHost(); break;
+        case 99: *reinterpret_cast< bool*>(_v) = linuxMdIsDegraded(); break;
+        case 100: *reinterpret_cast< QString*>(_v) = linuxMdLevel(); break;
+        case 101: *reinterpret_cast< QString*>(_v) = linuxMdName(); break;
+        case 102: *reinterpret_cast< int*>(_v) = linuxMdNumRaidDevices(); break;
+        case 103: *reinterpret_cast< QList<QDBusObjectPath>*>(_v) = linuxMdSlaves(); break;
+        case 104: *reinterpret_cast< QString*>(_v) = linuxMdState(); break;
+        case 105: *reinterpret_cast< QString*>(_v) = linuxMdSyncAction(); break;
+        case 106: *reinterpret_cast< double*>(_v) = linuxMdSyncPercentage(); break;
+        case 107: *reinterpret_cast< qulonglong*>(_v) = linuxMdSyncSpeed(); break;
+        case 108: *reinterpret_cast< QString*>(_v) = linuxMdUuid(); break;
+        case 109: *reinterpret_cast< QString*>(_v) = linuxMdVersion(); break;
+        case 110: *reinterpret_cast< QDBusObjectPath*>(_v) = luksCleartextSlave(); break;
+        case 111: *reinterpret_cast< uint*>(_v) = luksCleartextUnlockedByUid(); break;
+        case 112: *reinterpret_cast< QDBusObjectPath*>(_v) = luksHolder(); break;
+        case 113: *reinterpret_cast< QString*>(_v) = nativePath(); break;
+        case 114: *reinterpret_cast< bool*>(_v) = opticalDiscIsAppendable(); break;
+        case 115: *reinterpret_cast< bool*>(_v) = opticalDiscIsBlank(); break;
+        case 116: *reinterpret_cast< bool*>(_v) = opticalDiscIsClosed(); break;
+        case 117: *reinterpret_cast< uint*>(_v) = opticalDiscNumAudioTracks(); break;
+        case 118: *reinterpret_cast< uint*>(_v) = opticalDiscNumSessions(); break;
+        case 119: *reinterpret_cast< uint*>(_v) = opticalDiscNumTracks(); break;
+        case 120: *reinterpret_cast< qulonglong*>(_v) = partitionAlignmentOffset(); break;
+        case 121: *reinterpret_cast< QStringList*>(_v) = partitionFlags(); break;
+        case 122: *reinterpret_cast< QString*>(_v) = partitionLabel(); break;
+        case 123: *reinterpret_cast< int*>(_v) = partitionNumber(); break;
+        case 124: *reinterpret_cast< qulonglong*>(_v) = partitionOffset(); break;
+        case 125: *reinterpret_cast< QString*>(_v) = partitionScheme(); break;
+        case 126: *reinterpret_cast< qulonglong*>(_v) = partitionSize(); break;
+        case 127: *reinterpret_cast< QDBusObjectPath*>(_v) = partitionSlave(); break;
+        case 128: *reinterpret_cast< int*>(_v) = partitionTableCount(); break;
+        case 129: *reinterpret_cast< QString*>(_v) = partitionTableScheme(); break;
+        case 130: *reinterpret_cast< QString*>(_v) = partitionType(); break;
+        case 131: *reinterpret_cast< QString*>(_v) = partitionUuid(); break;
+        }
+        _id -= 132;
+    } else if (_c == QMetaObject::WriteProperty) {
+        _id -= 132;
+    } else if (_c == QMetaObject::ResetProperty) {
+        _id -= 132;
+    } else if (_c == QMetaObject::QueryPropertyDesignable) {
+        _id -= 132;
+    } else if (_c == QMetaObject::QueryPropertyScriptable) {
+        _id -= 132;
+    } else if (_c == QMetaObject::QueryPropertyStored) {
+        _id -= 132;
+    } else if (_c == QMetaObject::QueryPropertyEditable) {
+        _id -= 132;
+    } else if (_c == QMetaObject::QueryPropertyUser) {
+        _id -= 132;
+    }
+#endif // QT_NO_PROPERTIES
+    return _id;
+}
+
+// SIGNAL 0
+void OrgFreedesktopUDisksDeviceInterface::Changed()
+{
+    QMetaObject::activate(this, &staticMetaObject, 0, 0);
+}
+
+// SIGNAL 1
+void OrgFreedesktopUDisksDeviceInterface::JobChanged(bool _t1, bool _t2, const QString & _t3, uint _t4, double _t5)
+{
+    void *_a[] = { 0, const_cast<void*>(reinterpret_cast<const void*>(&_t1)), const_cast<void*>(reinterpret_cast<const void*>(&_t2)), const_cast<void*>(reinterpret_cast<const void*>(&_t3)), const_cast<void*>(reinterpret_cast<const void*>(&_t4)), const_cast<void*>(reinterpret_cast<const void*>(&_t5)) };
+    QMetaObject::activate(this, &staticMetaObject, 1, _a);
+}
+QT_END_MOC_NAMESPACE

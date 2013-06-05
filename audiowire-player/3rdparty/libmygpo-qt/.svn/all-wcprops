@@ -1,0 +1,503 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt
+END
+moc_DeviceSyncResult.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_DeviceSyncResult.cxx
+END
+AddRemoveResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/AddRemoveResult.h
+END
+TagList.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/TagList.h
+END
+DeviceList_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/DeviceList_p.h
+END
+moc_EpisodeAction_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_EpisodeAction_p.cxx
+END
+EpisodeList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/EpisodeList.cpp
+END
+EpisodeActionList.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/EpisodeActionList.h
+END
+PodcastList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/PodcastList.cpp
+END
+moc_Tag.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Tag.cxx
+END
+DeviceUpdates.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/DeviceUpdates.h
+END
+RequestHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/RequestHandler.h
+END
+moc_Device_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Device_p.cxx
+END
+moc_EpisodeActionList.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_EpisodeActionList.cxx
+END
+mygpo_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/mygpo_export.h
+END
+Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Device.h
+END
+UrlBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/UrlBuilder.cpp
+END
+Tag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Tag.cpp
+END
+Episode_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Episode_p.h
+END
+moc_Device.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Device.cxx
+END
+moc_Settings.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Settings.cxx
+END
+DeviceSyncResult_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/DeviceSyncResult_p.h
+END
+Podcast_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Podcast_p.h
+END
+moc_EpisodeList_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_EpisodeList_p.cxx
+END
+EpisodeActionList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/EpisodeActionList.cpp
+END
+RequestHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/RequestHandler.cpp
+END
+JsonCreator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/JsonCreator.cpp
+END
+AddRemoveResult_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/AddRemoveResult_p.h
+END
+moc_Podcast_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Podcast_p.cxx
+END
+DeviceList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/DeviceList.cpp
+END
+TagList_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/TagList_p.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/CMakeLists.txt
+END
+Episode.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Episode.h
+END
+PodcastList.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/PodcastList.h
+END
+moc_AddRemoveResult_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_AddRemoveResult_p.cxx
+END
+moc_TagList_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_TagList_p.cxx
+END
+moc_Episode.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Episode.cxx
+END
+ApiRequest_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/ApiRequest_p.h
+END
+DeviceUpdates_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/DeviceUpdates_p.h
+END
+EpisodeAction_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/EpisodeAction_p.h
+END
+moc_Podcast.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Podcast.cxx
+END
+UrlBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/UrlBuilder.h
+END
+moc_EpisodeActionList_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_EpisodeActionList_p.cxx
+END
+Tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Tag.h
+END
+moc_DeviceUpdates_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_DeviceUpdates_p.cxx
+END
+moc_AddRemoveResult.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_AddRemoveResult.cxx
+END
+Device_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Device_p.h
+END
+Settings_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Settings_p.h
+END
+moc_TagList.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_TagList.cxx
+END
+ApiRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/ApiRequest.h
+END
+Episode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Episode.cpp
+END
+moc_DeviceList_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_DeviceList_p.cxx
+END
+EpisodeAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/EpisodeAction.h
+END
+DeviceSyncResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/DeviceSyncResult.cpp
+END
+Podcast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Podcast.cpp
+END
+moc_Settings_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Settings_p.cxx
+END
+JsonCreator.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/JsonCreator.h
+END
+DeviceList.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/DeviceList.h
+END
+moc_DeviceUpdates.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_DeviceUpdates.cxx
+END
+moc_EpisodeAction.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_EpisodeAction.cxx
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/cmake_install.cmake
+END
+Settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Settings.h
+END
+AddRemoveResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/AddRemoveResult.cpp
+END
+TagList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/TagList.cpp
+END
+EpisodeList_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/EpisodeList_p.h
+END
+moc_DeviceList.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_DeviceList.cxx
+END
+PodcastList_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/PodcastList_p.h
+END
+ApiRequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/ApiRequest.cpp
+END
+DeviceUpdates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/DeviceUpdates.cpp
+END
+moc_Episode_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Episode_p.cxx
+END
+EpisodeAction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/EpisodeAction.cpp
+END
+moc_PodcastList_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_PodcastList_p.cxx
+END
+moc_DeviceSyncResult_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_DeviceSyncResult_p.cxx
+END
+EpisodeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/EpisodeList.h
+END
+Tag_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Tag_p.h
+END
+Device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Device.cpp
+END
+DeviceSyncResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/DeviceSyncResult.h
+END
+Settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Settings.cpp
+END
+Podcast.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/Podcast.h
+END
+moc_EpisodeList.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_EpisodeList.cxx
+END
+EpisodeActionList_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libmygpo-qt/EpisodeActionList_p.h
+END
+moc_PodcastList.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_PodcastList.cxx
+END
+moc_Tag_p.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/libmygpo-qt/moc_Tag_p.cxx
+END

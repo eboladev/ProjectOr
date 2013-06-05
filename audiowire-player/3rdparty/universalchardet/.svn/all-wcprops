@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/universalchardet
+END
+nsMBCSGroupProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsMBCSGroupProber.cpp
+END
+CharDistribution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/CharDistribution.cpp
+END
+LangGreekModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/LangGreekModel.cpp
+END
+nsGB2312Prober.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsGB2312Prober.h
+END
+nsSBCSGroupProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsSBCSGroupProber.cpp
+END
+nsSJISProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsSJISProber.cpp
+END
+nsEUCKRProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsEUCKRProber.cpp
+END
+nsMBCSSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsMBCSSM.cpp
+END
+nsEUCJPProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsEUCJPProber.h
+END
+LangBulgarianModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/LangBulgarianModel.cpp
+END
+nsHebrewProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsHebrewProber.cpp
+END
+EUCTWFreq.tab
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/EUCTWFreq.tab
+END
+nsSBCharSetProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsSBCharSetProber.h
+END
+nsEscCharsetProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsEscCharsetProber.cpp
+END
+LangHungarianModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/LangHungarianModel.cpp
+END
+nsUTF8Prober.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsUTF8Prober.cpp
+END
+GB2312Freq.tab
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/GB2312Freq.tab
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/universalchardet/cmake_install.cmake
+END
+nsCharSetProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsCharSetProber.cpp
+END
+nsBig5Prober.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsBig5Prober.h
+END
+nsEUCTWProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsEUCTWProber.h
+END
+nsLatin1Prober.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsLatin1Prober.h
+END
+nsUniversalDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsUniversalDetector.h
+END
+JpCntx.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/JpCntx.h
+END
+nsGB2312Prober.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsGB2312Prober.cpp
+END
+EUCKRFreq.tab
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/EUCKRFreq.tab
+END
+nsEscSM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsEscSM.cpp
+END
+nsEUCJPProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsEUCJPProber.cpp
+END
+nsMBCSGroupProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsMBCSGroupProber.h
+END
+CharDistribution.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/CharDistribution.h
+END
+JISFreq.tab
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/JISFreq.tab
+END
+nsSBCSGroupProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsSBCSGroupProber.h
+END
+Big5Freq.tab
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/Big5Freq.tab
+END
+nsSJISProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsSJISProber.h
+END
+nsEUCKRProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsEUCKRProber.h
+END
+nsSBCharSetProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsSBCharSetProber.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/universalchardet/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/CMakeLists.txt
+END
+nsHebrewProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsHebrewProber.h
+END
+LangCyrillicModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/LangCyrillicModel.cpp
+END
+nsCodingStateMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsCodingStateMachine.h
+END
+LangHebrewModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/LangHebrewModel.cpp
+END
+nsBig5Prober.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsBig5Prober.cpp
+END
+nsPkgInt.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsPkgInt.h
+END
+nsEUCTWProber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsEUCTWProber.cpp
+END
+nsLatin1Prober.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsLatin1Prober.cpp
+END
+nsUniversalDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsUniversalDetector.cpp
+END
+nsEscCharsetProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsEscCharsetProber.h
+END
+JpCntx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/JpCntx.cpp
+END
+nsUTF8Prober.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsUTF8Prober.h
+END
+LangThaiModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/LangThaiModel.cpp
+END
+nsCharSetProber.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/universalchardet/nsCharSetProber.h
+END

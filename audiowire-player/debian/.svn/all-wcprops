@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/debian
+END
+changelog.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/debian/changelog.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/debian/CMakeLists.txt
+END
+rules.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/debian/rules.in
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/debian/control
+END
+clementine.gconf-defaults
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/debian/clementine.gconf-defaults
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/debian/compat
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/debian/copyright
+END

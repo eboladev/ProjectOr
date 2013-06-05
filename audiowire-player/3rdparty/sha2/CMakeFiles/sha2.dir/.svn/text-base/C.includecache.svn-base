@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mystte/rendu/AudioWire/audiowire/Perso/Player/3rdparty/sha2/sha2.c
+string.h
+-
+assert.h
+-
+sha2.h
+/home/mystte/rendu/AudioWire/audiowire/Perso/Player/3rdparty/sha2/sha2.h
+sys/param.h
+-
+
+/home/mystte/rendu/AudioWire/audiowire/Perso/Player/3rdparty/sha2/sha2.h
+sys/types.h
+-
+inttypes.h
+-
+

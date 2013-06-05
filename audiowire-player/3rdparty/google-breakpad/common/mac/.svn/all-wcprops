@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac
+END
+SimpleStringDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/SimpleStringDictionary.h
+END
+macho_reader_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/macho_reader_unittest.cc
+END
+macho_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/macho_reader.cc
+END
+macho_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/macho_reader.h
+END
+GTMGarbageCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/GTMGarbageCollection.h
+END
+dump_syms.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/dump_syms.h
+END
+macho_utilities.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/macho_utilities.cc
+END
+scoped_task_suspend-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/scoped_task_suspend-inl.h
+END
+Breakpad.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/Breakpad.xcconfig
+END
+macho_utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/macho_utilities.h
+END
+BreakpadRelease.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/BreakpadRelease.xcconfig
+END
+GTMDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/GTMDefines.h
+END
+MachIPC.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/MachIPC.mm
+END
+HTTPMultipartUpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/HTTPMultipartUpload.h
+END
+GTMLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/GTMLogger.h
+END
+SimpleStringDictionary.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/SimpleStringDictionary.mm
+END
+BreakpadDebug.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/BreakpadDebug.xcconfig
+END
+file_id.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/file_id.cc
+END
+macho_walker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/macho_walker.cc
+END
+HTTPMultipartUpload.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/HTTPMultipartUpload.m
+END
+file_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/file_id.h
+END
+GTMLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/GTMLogger.m
+END
+macho_walker.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/macho_walker.h
+END
+byteswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/byteswap.h
+END
+string_utilities.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/string_utilities.cc
+END
+macho_id.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/macho_id.cc
+END
+string_utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/string_utilities.h
+END
+dump_syms.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/dump_syms.mm
+END
+macho_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/macho_id.h
+END
+MachIPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/mac/MachIPC.h
+END

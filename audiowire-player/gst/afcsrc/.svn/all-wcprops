@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/gst/afcsrc
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/gst/afcsrc/cmake_install.cmake
+END
+gstafcsrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/afcsrc/gstafcsrc.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/afcsrc/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/gst/afcsrc/Makefile
+END
+gstafcsrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/afcsrc/gstafcsrc.c
+END

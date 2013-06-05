@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/Framework
+END
+Breakpad.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/Framework/Breakpad.h
+END
+Breakpad_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/Framework/Breakpad_Prefix.pch
+END
+Breakpad.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/Framework/Breakpad.mm
+END
+OnDemandServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/Framework/OnDemandServer.h
+END
+OnDemandServer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/Framework/OnDemandServer.mm
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/Framework/Info.plist
+END

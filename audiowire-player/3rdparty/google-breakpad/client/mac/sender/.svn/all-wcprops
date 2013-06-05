@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/sender
+END
+crash_report_sender-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/sender/crash_report_sender-Info.plist
+END
+ReporterIcon.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/sender/ReporterIcon.graffle
+END
+crash_report_sender.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/sender/crash_report_sender.h
+END
+goArrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/sender/goArrow.png
+END
+crash_report_sender.icns
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/sender/crash_report_sender.icns
+END
+crash_report_sender.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/sender/crash_report_sender.m
+END
+Breakpad.xib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/sender/Breakpad.xib
+END

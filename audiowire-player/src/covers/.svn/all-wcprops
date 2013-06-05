@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers
+END
+moc_amazoncoverprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_amazoncoverprovider.cxx
+END
+moc_musicbrainzcoverprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_musicbrainzcoverprovider.cxx
+END
+coversearchstatistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/coversearchstatistics.cpp
+END
+currentartloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/currentartloader.cpp
+END
+coverproviders.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/coverproviders.h
+END
+kittenloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/kittenloader.cpp
+END
+albumcoverfetchersearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/albumcoverfetchersearch.cpp
+END
+moc_coverproviders.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_coverproviders.cxx
+END
+albumcoverloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/albumcoverloader.h
+END
+coverprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/coverprovider.h
+END
+amazoncoverprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/amazoncoverprovider.cpp
+END
+musicbrainzcoverprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/musicbrainzcoverprovider.cpp
+END
+moc_albumcoverloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_albumcoverloader.cxx
+END
+coversearchstatisticsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/coversearchstatisticsdialog.h
+END
+lastfmcoverprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/lastfmcoverprovider.h
+END
+albumcoverfetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/albumcoverfetcher.h
+END
+moc_coverprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_coverprovider.cxx
+END
+albumcoverloaderoptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/albumcoverloaderoptions.h
+END
+discogscoverprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/discogscoverprovider.h
+END
+coverproviders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/coverproviders.cpp
+END
+moc_coversearchstatisticsdialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_coversearchstatisticsdialog.cxx
+END
+moc_albumcoverfetcher.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_albumcoverfetcher.cxx
+END
+moc_lastfmcoverprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_lastfmcoverprovider.cxx
+END
+moc_discogscoverprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_discogscoverprovider.cxx
+END
+coversearchstatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/coversearchstatistics.h
+END
+currentartloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/currentartloader.h
+END
+albumcoverloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/albumcoverloader.cpp
+END
+coverprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/coverprovider.cpp
+END
+kittenloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/kittenloader.h
+END
+coversearchstatisticsdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/coversearchstatisticsdialog.ui
+END
+albumcoverfetchersearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/albumcoverfetchersearch.h
+END
+moc_currentartloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_currentartloader.cxx
+END
+coversearchstatisticsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/coversearchstatisticsdialog.cpp
+END
+lastfmcoverprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/lastfmcoverprovider.cpp
+END
+albumcoverfetcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/albumcoverfetcher.cpp
+END
+albumcoverloaderoptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/albumcoverloaderoptions.cpp
+END
+moc_kittenloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_kittenloader.cxx
+END
+moc_albumcoverfetchersearch.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/covers/moc_albumcoverfetchersearch.cxx
+END
+amazoncoverprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/amazoncoverprovider.h
+END
+discogscoverprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/discogscoverprovider.cpp
+END
+musicbrainzcoverprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/covers/musicbrainzcoverprovider.h
+END

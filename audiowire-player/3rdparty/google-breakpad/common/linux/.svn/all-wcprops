@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/linux
+END
+eintr_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/linux/eintr_wrapper.h
+END
+linux_libc_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/linux/linux_libc_support.h
+END
+guid_creator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/linux/guid_creator.cc
+END
+guid_creator.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/linux/guid_creator.h
+END
+file_id.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/linux/file_id.cc
+END
+file_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/common/linux/file_id.h
+END

@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui
+END
+appearancesettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/appearancesettingspage.cpp
+END
+standarditemiconloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/standarditemiconloader.cpp
+END
+moc_behavioursettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_behavioursettingspage.cxx
+END
+qt_blurimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/qt_blurimage.h
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/mainwindow.h
+END
+albumcoversearcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcoversearcher.h
+END
+notificationssettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/notificationssettingspage.ui
+END
+albumcoverchoicecontroller.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcoverchoicecontroller.h
+END
+screensaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/screensaver.h
+END
+addstreamdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/addstreamdialog.h
+END
+trackselectiondialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/trackselectiondialog.cpp
+END
+organiseerrordialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/organiseerrordialog.ui
+END
+edittagdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/edittagdialog.ui
+END
+notificationssettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/notificationssettingspage.h
+END
+moc_settingsdialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_settingsdialog.cxx
+END
+coverfromurldialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/coverfromurldialog.ui
+END
+settingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/settingspage.h
+END
+moc_addstreamdialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_addstreamdialog.cxx
+END
+behavioursettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/behavioursettingspage.cpp
+END
+dbusscreensaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/dbusscreensaver.h
+END
+networkproxysettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/networkproxysettingspage.ui
+END
+flowlayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/flowlayout.cpp
+END
+macsystemtrayicon.mm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/macsystemtrayicon.mm
+END
+macscreensaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/macscreensaver.h
+END
+windows7thumbbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/windows7thumbbar.cpp
+END
+qtsystemtrayicon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/qtsystemtrayicon.h
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/mainwindow.ui
+END
+albumcoversearcher.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcoversearcher.ui
+END
+globalshortcutgrabber.mm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/globalshortcutgrabber.mm
+END
+playbacksettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/playbacksettingspage.h
+END
+moc_settingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_settingspage.cxx
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/mainwindow.cpp
+END
+albumcoversearcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcoversearcher.cpp
+END
+globalshortcutgrabber.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/globalshortcutgrabber.ui
+END
+albumcoverchoicecontroller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcoverchoicecontroller.cpp
+END
+addstreamdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/addstreamdialog.ui
+END
+moc_organiseerrordialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_organiseerrordialog.cxx
+END
+moc_edittagdialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_edittagdialog.cxx
+END
+screensaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/screensaver.cpp
+END
+appearancesettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/appearancesettingspage.h
+END
+addstreamdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/addstreamdialog.cpp
+END
+standarditemiconloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/standarditemiconloader.h
+END
+albumcovermanager.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcovermanager.ui
+END
+globalshortcutssettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/globalshortcutssettingspage.ui
+END
+moc_appearancesettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_appearancesettingspage.cxx
+END
+albumcovermanagerlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcovermanagerlist.h
+END
+equalizer.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/equalizer.ui
+END
+console.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/console.ui
+END
+moc_standarditemiconloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_standarditemiconloader.cxx
+END
+systemtrayicon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/systemtrayicon.cpp
+END
+dbusscreensaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/dbusscreensaver.cpp
+END
+playbacksettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/playbacksettingspage.ui
+END
+moc_globalshortcutgrabber.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_globalshortcutgrabber.cxx
+END
+backgroundstreamssettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/backgroundstreamssettingspage.h
+END
+organiseerrordialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/organiseerrordialog.cpp
+END
+edittagdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/edittagdialog.cpp
+END
+qtsystemtrayicon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/qtsystemtrayicon.cpp
+END
+playbacksettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/playbacksettingspage.cpp
+END
+moc_albumcovermanagerlist.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_albumcovermanagerlist.cxx
+END
+about.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/about.ui
+END
+coverfromurldialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/coverfromurldialog.cpp
+END
+moc_trackselectiondialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_trackselectiondialog.cxx
+END
+networkproxysettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/networkproxysettingspage.cpp
+END
+flowlayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/flowlayout.h
+END
+moc_backgroundstreamssettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_backgroundstreamssettingspage.cxx
+END
+moc_globalshortcutssettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_globalshortcutssettingspage.cxx
+END
+iconloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/iconloader.cpp
+END
+moc_equalizer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_equalizer.cxx
+END
+globalshortcutgrabber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/globalshortcutgrabber.cpp
+END
+macsystemtrayicon.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/macsystemtrayicon.h
+END
+moc_windows7thumbbar.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_windows7thumbbar.cxx
+END
+trackselectiondialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/trackselectiondialog.ui
+END
+settingsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/settingsdialog.h
+END
+albumcovermanagerlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcovermanagerlist.cpp
+END
+backgroundstreamssettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/backgroundstreamssettingspage.ui
+END
+organisedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/organisedialog.cpp
+END
+moc_albumcoversearcher.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_albumcoversearcher.cxx
+END
+moc_mainwindow.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_mainwindow.cxx
+END
+moc_albumcoverchoicecontroller.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_albumcoverchoicecontroller.cxx
+END
+backgroundstreamssettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/backgroundstreamssettingspage.cpp
+END
+behavioursettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/behavioursettingspage.ui
+END
+globalshortcutssettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/globalshortcutssettingspage.cpp
+END
+albumcovermanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcovermanager.h
+END
+equalizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/equalizer.cpp
+END
+systemtrayicon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/systemtrayicon.h
+END
+moc_notificationssettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_notificationssettingspage.cxx
+END
+organiseerrordialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/organiseerrordialog.h
+END
+edittagdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/edittagdialog.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/console.h
+END
+moc_albumcovermanager.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_albumcovermanager.cxx
+END
+appearancesettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/appearancesettingspage.ui
+END
+coverfromurldialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/coverfromurldialog.h
+END
+settingsdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/settingsdialog.ui
+END
+moc_systemtrayicon.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_systemtrayicon.cxx
+END
+networkproxysettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/networkproxysettingspage.h
+END
+about.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/about.h
+END
+moc_qtsystemtrayicon.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_qtsystemtrayicon.cxx
+END
+moc_console.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_console.cxx
+END
+settingsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/settingsdialog.cpp
+END
+moc_playbacksettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_playbacksettingspage.cxx
+END
+organisedialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/organisedialog.ui
+END
+moc_coverfromurldialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_coverfromurldialog.cxx
+END
+iconloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/iconloader.h
+END
+globalshortcutgrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/globalshortcutgrabber.h
+END
+moc_networkproxysettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_networkproxysettingspage.cxx
+END
+notificationssettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/notificationssettingspage.cpp
+END
+moc_about.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_about.cxx
+END
+albumcovermanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/albumcovermanager.cpp
+END
+organisedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/organisedialog.h
+END
+settingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/settingspage.cpp
+END
+trackselectiondialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/trackselectiondialog.h
+END
+macscreensaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/macscreensaver.cpp
+END
+globalshortcutssettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/globalshortcutssettingspage.h
+END
+console.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/console.cpp
+END
+moc_organisedialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/ui/moc_organisedialog.cxx
+END
+equalizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/equalizer.h
+END
+behavioursettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/behavioursettingspage.h
+END
+about.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/about.cpp
+END
+windows7thumbbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/ui/windows7thumbbar.h
+END

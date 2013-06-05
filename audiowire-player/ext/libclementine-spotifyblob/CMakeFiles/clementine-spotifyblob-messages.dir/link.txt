@@ -1,0 +1,2 @@
+/usr/bin/ar cr libclementine-spotifyblob-messages.a  CMakeFiles/clementine-spotifyblob-messages.dir/spotifymessages.pb.cc.o
+/usr/bin/ranlib libclementine-spotifyblob-messages.a

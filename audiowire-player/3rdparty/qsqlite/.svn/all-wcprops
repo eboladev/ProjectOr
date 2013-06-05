@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qsqlite
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/sqlite3.c
+END
+smain.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/smain.patch
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/sqlite3.h
+END
+clementinesqlcachedresult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/clementinesqlcachedresult.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qsqlite/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/CMakeLists.txt
+END
+LICENSE.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/LICENSE.LGPL
+END
+clementinesqlcachedresult.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/clementinesqlcachedresult.h
+END
+qsql_sqlite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/qsql_sqlite.cpp
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qsqlite/cmake_install.cmake
+END
+qsql_sqlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/qsql_sqlite.h
+END
+smain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/smain.cpp
+END
+qsqlite_resource.rc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/qsqlite_resource.rc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qsqlite/README
+END
+moc_qsql_sqlite.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qsqlite/moc_qsql_sqlite.cxx
+END

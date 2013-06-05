@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-spotifyblob
+END
+spotifymessages.proto
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-spotifyblob/spotifymessages.proto
+END
+spotifymessages.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-spotifyblob/spotifymessages.pb.cc
+END
+blobversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-spotifyblob/blobversion.h
+END
+spotifymessages.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-spotifyblob/spotifymessages.pb.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-spotifyblob/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-spotifyblob/Makefile
+END
+blobversion.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-spotifyblob/blobversion.h.in
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-spotifyblob/cmake_install.cmake
+END

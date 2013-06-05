@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/clementine-tagreader
+END
+fmpsparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-tagreader/fmpsparser.h
+END
+googledrivestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-tagreader/googledrivestream.h
+END
+tagreaderworker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-tagreader/tagreaderworker.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-tagreader/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/clementine-tagreader/Makefile
+END
+tagreaderworker.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-tagreader/tagreaderworker.h
+END
+fmpsparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-tagreader/fmpsparser.cpp
+END
+googledrivestream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-tagreader/googledrivestream.cpp
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/clementine-tagreader/cmake_install.cmake
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-tagreader/main.cpp
+END

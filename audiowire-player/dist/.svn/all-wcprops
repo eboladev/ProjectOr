@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/2014/audiowire/!svn/ver/37/Perso/Player/dist
+END
+dmg_background.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/dmg_background.xcf
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/dist/Info.plist
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/dist/cmake_install.cmake
+END
+DS_Store.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/DS_Store.in
+END
+sparkle_pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/sparkle_pub.pem
+END
+maketarball.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/dist/maketarball.sh
+END
+dmg_background.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/dmg_background.png
+END
+Info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/Info.plist.in
+END
+googlecode_upload_all.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/googlecode_upload_all.py
+END
+clementine.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine.desktop
+END
+maketarball.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/maketarball.sh.in
+END
+clementine-itms.protocol
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine-itms.protocol
+END
+uploadtoppa.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/uploadtoppa.sh
+END
+clementine-zune.protocol
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine-zune.protocol
+END
+googlecode_upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/googlecode_upload.py
+END
+macdeploy.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/macdeploy.py
+END
+qt.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/qt.conf
+END
+versionnumbers.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/versionnumbers.py
+END
+clementine_32.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine_32.png
+END
+clementine_16.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine_16.png
+END
+clementine.spec
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/37/Perso/Player/dist/clementine.spec
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/dist/Makefile
+END
+clementine.icns
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine.icns
+END
+clementine_64.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine_64.png
+END
+clementine-itpc.protocol
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine-itpc.protocol
+END
+clementine.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine.spec.in
+END
+create-dmg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/create-dmg.sh
+END
+clementine-feed.protocol
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/dist/clementine-feed.protocol
+END

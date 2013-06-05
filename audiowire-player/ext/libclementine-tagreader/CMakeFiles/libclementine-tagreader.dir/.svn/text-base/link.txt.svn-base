@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibclementine-tagreader.a  CMakeFiles/libclementine-tagreader.dir/tagreadermessages.pb.cc.o
+/usr/bin/ranlib liblibclementine-tagreader.a

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qocoa
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/LICENSE.txt
+END
+Qocoa.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/Qocoa.pro
+END
+TODO.md
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/TODO.md
+END
+qprogressindicatorspinning_nonmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qprogressindicatorspinning_nonmac.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/main.cpp
+END
+qsearchfield_nonmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qsearchfield_nonmac.cpp
+END
+qprogressindicatorspinning_nonmac.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qprogressindicatorspinning_nonmac.qrc
+END
+qbutton_nonmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qbutton_nonmac.cpp
+END
+qocoa_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qocoa_mac.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qocoa/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/CMakeLists.txt
+END
+qprogressindicatorspinning.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qprogressindicatorspinning.h
+END
+gallery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/gallery.cpp
+END
+qprogressindicatorspinning_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qprogressindicatorspinning_mac.mm
+END
+qsearchfield.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qsearchfield.h
+END
+qbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qbutton.h
+END
+gallery.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/gallery.png
+END
+qsearchfield_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qsearchfield_mac.mm
+END
+qbutton_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qbutton_mac.mm
+END
+gallery.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/gallery.h
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qocoa/cmake_install.cmake
+END
+moc_qprogressindicatorspinning.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qocoa/moc_qprogressindicatorspinning.cxx
+END
+qprogressindicatorspinning_nonmac.gif
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qprogressindicatorspinning_nonmac.gif
+END
+qprogressindicatorspinning_nonmac.qrc.depends
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/qprogressindicatorspinning_nonmac.qrc.depends
+END
+moc_qsearchfield.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qocoa/moc_qsearchfield.cxx
+END
+qrc_qprogressindicatorspinning_nonmac.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qocoa/qrc_qprogressindicatorspinning_nonmac.cxx
+END
+moc_qbutton.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qocoa/moc_qbutton.cxx
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qocoa/README.md
+END

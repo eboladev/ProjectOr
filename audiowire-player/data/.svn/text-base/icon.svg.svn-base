@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="520px" height="280px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <title>Slice 1</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient id="gradient-1" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-2" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-3" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-4" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-5" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-6" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-7" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-8" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-9" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-10" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-11" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-12" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-13" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-14" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-15" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-16" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-17" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-18" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-19" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-20" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-21" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-22" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-23" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-24" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-25" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-26" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-27" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-28" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-29" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-30" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-31" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-32" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-33" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-34" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-35" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-36" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-37" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-38" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-39" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-40" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-41" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-42" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-43" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-44" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-45" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-46" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-47" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-48" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-49" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-50" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+    </defs>
+    <g fill="rgb(215,215,215)" id="Page 1">
+        <g fill="rgb(215,215,215)" id="bg">
+            <g fill="rgb(102,141,195)" id="Oval 32"></g>
+            <path id="Oval 32" d="M76,251 C98,251 116,231 116,206 C116,181 98,162 76,162 C53,162 36,181 36,206 C36,231 53,251 76,251 Z M76,251" fill="rgb(102,141,195)"></path>
+            <path id="Oval 32 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 31"></g>
+            <path id="Oval 31" d="M70,121 C94,121 114,99 114,72 C114,44 94,23 70,23 C45,23 26,44 26,72 C26,99 45,121 70,121 Z M70,121" fill="rgb(102,141,195)"></path>
+            <path id="Oval 31 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 31"></g>
+            <path id="Oval 31" d="M56,164 C80,164 100,142 100,115 C100,87 80,66 56,66 C31,66 12,87 12,115 C12,142 31,164 56,164 Z M56,164" fill="rgb(102,141,195)"></path>
+            <path id="Oval 31 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 31"></g>
+            <path id="Oval 31" d="M296,144 C340,144 377,112 377,73 C377,33 340,2 296,2 C251,2 215,33 215,73 C215,112 251,144 296,144 Z M296,144" fill="rgb(102,141,195)"></path>
+            <path id="Oval 31 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 31"></g>
+            <path id="Oval 31" d="M462,147 C486,147 506,125 506,98 C506,70 486,49 462,49 C437,49 418,70 418,98 C418,125 437,147 462,147 Z M462,147" fill="rgb(102,141,195)"></path>
+            <path id="Oval 31 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 17"></g>
+            <path id="Oval 17" d="M112,208 C149,208 179,178 179,140 C179,103 149,73 112,73 C75,73 46,103 46,140 C46,178 75,208 112,208 Z M112,208" fill="rgb(102,141,195)"></path>
+            <path id="Oval 17 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 18"></g>
+            <path id="Oval 18" d="M206,130 C246,130 279,106 279,76 C279,46 246,21 206,21 C165,21 133,46 133,76 C133,106 165,130 206,130 Z M206,130" fill="rgb(102,141,195)"></path>
+            <path id="Oval 18 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 19"></g>
+            <path id="Oval 19" d="M297,206 C398,206 481,172 481,130 C481,88 398,55 297,55 C195,55 113,88 113,130 C113,172 195,206 297,206 Z M297,206" fill="rgb(102,141,195)"></path>
+            <path id="Oval 19 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 20"></g>
+            <path id="Oval 20" d="M155,271 C195,271 228,245 228,213 C228,180 195,155 155,155 C115,155 83,180 83,213 C83,245 115,271 155,271 Z M155,271" fill="rgb(102,141,195)"></path>
+            <path id="Oval 20 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 21"></g>
+            <path id="Oval 21" d="M215,123 C261,123 300,97 300,65 C300,33 261,8 215,8 C168,8 130,33 130,65 C130,97 168,123 215,123 Z M215,123" fill="rgb(102,141,195)"></path>
+            <path id="Oval 21 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 22"></g>
+            <path id="Oval 22" d="M250,253 C275,253 297,229 297,201 C297,173 275,150 250,150 C224,150 203,173 203,201 C203,229 224,253 250,253 Z M250,253" fill="rgb(102,141,195)"></path>
+            <path id="Oval 22 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 23"></g>
+            <path id="Oval 23" d="M42,203 C64,203 83,187 83,167 C83,147 64,132 42,132 C19,132 1,147 1,167 C1,187 19,203 42,203 Z M42,203" fill="rgb(102,141,195)"></path>
+            <path id="Oval 23 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 24"></g>
+            <path id="Oval 24" d="M141,95 C166,95 187,75 187,50 C187,25 166,6 141,6 C115,6 95,25 95,50 C95,75 115,95 141,95 Z M141,95" fill="rgb(102,141,195)"></path>
+            <path id="Oval 24 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 25"></g>
+            <path id="Oval 25" d="M338,239 C366,239 390,224 390,206 C390,187 366,173 338,173 C309,173 286,187 286,206 C286,224 309,239 338,239 Z M338,239" fill="rgb(102,141,195)"></path>
+            <path id="Oval 25 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 26"></g>
+            <path id="Oval 26" d="M468,234 C493,234 515,214 515,191 C515,168 493,149 468,149 C442,149 421,168 421,191 C421,214 442,234 468,234 Z M468,234" fill="rgb(102,141,195)"></path>
+            <path id="Oval 26 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 28"></g>
+            <path id="Oval 28" d="M376,105 C412,105 442,87 442,66 C442,45 412,28 376,28 C339,28 310,45 310,66 C310,87 339,105 376,105 Z M376,105" fill="rgb(102,141,195)"></path>
+            <path id="Oval 28 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 29"></g>
+            <path id="Oval 29" d="M464,182 C487,182 506,162 506,139 C506,116 487,97 464,97 C440,97 422,116 422,139 C422,162 440,182 464,182 Z M464,182" fill="rgb(102,141,195)"></path>
+            <path id="Oval 29 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 30"></g>
+            <path id="Oval 30" d="M396,222 C428,222 455,204 455,182 C455,160 428,143 396,143 C364,143 338,160 338,182 C338,204 364,222 396,222 Z M396,222" fill="rgb(102,141,195)"></path>
+            <path id="Oval 30 decoration" d="" fill="rgb(102,141,195)"></path>
+        </g>
+        <g fill="rgb(215,215,215)" id="casque">
+            <g stroke="rgb(150,150,150)" stroke-width="1" fill="rgb(57,57,57)" id="Oval 34"></g>
+            <path id="Oval 34" d="M267,136 C299,136 325,109 325,75 C325,42 299,14 267,14 C235,14 209,42 209,75 C209,109 235,136 267,136 Z M267,136" stroke="rgb(150,150,150)" stroke-width="1" fill="rgb(57,57,57)"></path>
+            <path id="Oval 34 decoration" d="" stroke="rgb(150,150,150)" stroke-width="1" fill="rgb(57,57,57)"></path>
+            <g fill="rgb(102,141,195)" id="Rectangle 35"></g>
+            <path id="Rectangle 35" d="M202,91 L202,136 L331,136 L331,91 L202,91 Z M202,91" fill="rgb(102,141,195)"></path>
+            <path id="Rectangle 35 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(102,141,195)" id="Oval 36"></g>
+            <path id="Oval 36" d="M268,119 C293,119 313,99 313,75 C313,51 293,31 268,31 C242,31 222,51 222,75 C222,99 242,119 268,119 Z M268,119" fill="rgb(102,141,195)"></path>
+            <path id="Oval 36 decoration" d="" fill="rgb(102,141,195)"></path>
+            <g fill="rgb(57,57,57)" id="Oval 37"></g>
+            <path id="Oval 37" d="M314,119 C325,119 333,108 333,94 C333,80 325,69 314,69 C304,69 296,80 296,94 C296,108 304,119 314,119 Z M314,119" fill="rgb(57,57,57)"></path>
+            <path id="Oval 37 decoration" d="" fill="rgb(57,57,57)"></path>
+            <g fill="rgb(57,57,57)" id="Oval 37"></g>
+            <path id="Oval 37" d="M217,118 C228,118 236,107 236,93 C236,79 228,68 217,68 C207,68 199,79 199,93 C199,107 207,118 217,118 Z M217,118" fill="rgb(57,57,57)"></path>
+            <path id="Oval 37 decoration" d="" fill="rgb(57,57,57)"></path>
+        </g>
+        <g stroke="rgb(236,7,7)" stroke-width="10" fill="none" id="Shape"></g>
+        <path id="Shape" d="M485,80 L440,197 L361,128 L306,158 L266,48 L208,209 L156,172 L94,210 L55,29" stroke="rgb(236,7,7)" stroke-width="10" fill="none"></path>
+        <path id="Shape decoration" d="" stroke="rgb(236,7,7)" stroke-width="10" fill="none"></path>
+        <text x="61" y="154" font-family="Chalkduster" font-size="72" fill="rgb(255,254,254)" id="AudioWire">AudioWire</text>
+    </g>
+</svg>

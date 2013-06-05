@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp
+END
+Controller.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp/Controller.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp/main.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp/Info.plist
+END
+Controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp/Controller.h
+END
+crashduringload
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp/crashduringload
+END
+bomb.icns
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp/bomb.icns
+END
+TestClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp/TestClass.h
+END
+crashInMain
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp/crashInMain
+END
+TestClass.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/google-breakpad/client/mac/testapp/TestClass.mm
+END

@@ -1,0 +1,863 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core
+END
+scoped_nsautorelease_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/scoped_nsautorelease_pool.h
+END
+song.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/song.cpp
+END
+mpris_player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris_player.cpp
+END
+mpris_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mpris_common.h
+END
+moc_mpris.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_mpris.cxx
+END
+settingsprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/settingsprovider.cpp
+END
+organise.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/organise.h
+END
+macglobalshortcutbackend.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/macglobalshortcutbackend.mm
+END
+backgroundstreams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/backgroundstreams.cpp
+END
+mpris2_root.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_root.cpp
+END
+mpris_tracklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris_tracklist.h
+END
+filesystemmusicstorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/filesystemmusicstorage.h
+END
+globalshortcuts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/globalshortcuts.cpp
+END
+moc_globalshortcutbackend.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_globalshortcutbackend.cxx
+END
+mimedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mimedata.h
+END
+scoped_nsautorelease_pool.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/scoped_nsautorelease_pool.mm
+END
+scoped_cftyperef.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/scoped_cftyperef.h
+END
+crashreporting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/crashreporting.cpp
+END
+mpris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mpris.cpp
+END
+mergedproxymodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mergedproxymodel.h
+END
+mpris_root.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris_root.cpp
+END
+tagreaderclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/tagreaderclient.cpp
+END
+moc_mimedata.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_mimedata.cxx
+END
+player.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/player.h
+END
+songloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/songloader.h
+END
+application.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/application.cpp
+END
+moc_deletefiles.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_deletefiles.cxx
+END
+globalshortcutbackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/globalshortcutbackend.cpp
+END
+commandlineoptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/commandlineoptions.h
+END
+signalchecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/signalchecker.h
+END
+filesystemmusicstorage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/filesystemmusicstorage.cpp
+END
+mpris_tracklist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris_tracklist.cpp
+END
+moc_urlhandler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_urlhandler.cxx
+END
+scopedgobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/scopedgobject.h
+END
+stylesheetloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/stylesheetloader.cpp
+END
+mpris2.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mpris2.h
+END
+moc_database.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_database.cxx
+END
+mergedproxymodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mergedproxymodel.cpp
+END
+mac_startup.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mac_startup.h
+END
+qtfslistener.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/qtfslistener.h
+END
+filesystemwatcherinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/filesystemwatcherinterface.h
+END
+moc_filesystemwatcherinterface.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_filesystemwatcherinterface.cxx
+END
+commandlineoptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/commandlineoptions.cpp
+END
+mpris_root.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris_root.h
+END
+signalchecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/signalchecker.cpp
+END
+tagreaderclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/tagreaderclient.h
+END
+moc_network.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_network.cxx
+END
+scoped_nsobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/scoped_nsobject.h
+END
+mpris1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mpris1.cpp
+END
+utilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/utilities.cpp
+END
+mpris2_playlists.moc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_playlists.moc
+END
+metatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/metatypes.h
+END
+scopedtransaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/scopedtransaction.cpp
+END
+mpris2_playlists.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_playlists.h
+END
+macglobalshortcutbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/macglobalshortcutbackend.h
+END
+mpris2_tracklist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_tracklist.cpp
+END
+mpris_player.moc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris_player.moc
+END
+moc_mergedproxymodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_mergedproxymodel.cxx
+END
+appearance.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/appearance.h
+END
+ubuntuunityhack.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/ubuntuunityhack.h
+END
+organise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/organise.cpp
+END
+moc_gnomeglobalshortcutbackend.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_gnomeglobalshortcutbackend.cxx
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/database.h
+END
+moc_player.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_player.cxx
+END
+mpris2_root.moc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_root.moc
+END
+qhash_qurl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/qhash_qurl.h
+END
+mpris2_player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_player.cpp
+END
+mpris_root.moc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris_root.moc
+END
+moc_mpris2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_mpris2.cxx
+END
+moc_globalshortcuts.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_globalshortcuts.cxx
+END
+taskmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/taskmanager.cpp
+END
+mac_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mac_delegate.h
+END
+mac_utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mac_utilities.h
+END
+urlhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/urlhandler.cpp
+END
+ubuntuunityhack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/ubuntuunityhack.cpp
+END
+musicstorage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/musicstorage.cpp
+END
+mpris_tracklist.moc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris_tracklist.moc
+END
+mac_startup.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mac_startup.mm
+END
+globalshortcutbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/globalshortcutbackend.h
+END
+moc_tagreaderclient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_tagreaderclient.cxx
+END
+modelfuturewatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/modelfuturewatcher.h
+END
+multisortfilterproxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/multisortfilterproxy.h
+END
+organiseformat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/organiseformat.cpp
+END
+moc_application.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_application.cxx
+END
+qtfslistener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/qtfslistener.cpp
+END
+filesystemwatcherinterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/filesystemwatcherinterface.cpp
+END
+moc_organise.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_organise.cxx
+END
+stylesheetloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/stylesheetloader.h
+END
+boundfuturewatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/boundfuturewatcher.h
+END
+networkproxyfactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/networkproxyfactory.h
+END
+simpletreeitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/simpletreeitem.h
+END
+simpletreemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/simpletreemodel.h
+END
+gnomeglobalshortcutbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/gnomeglobalshortcutbackend.h
+END
+timeconstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/timeconstants.h
+END
+taskmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/taskmanager.h
+END
+musicstorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/musicstorage.h
+END
+multisortfilterproxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/multisortfilterproxy.cpp
+END
+moc_songloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_songloader.cxx
+END
+metatypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/metatypes.cpp
+END
+settingsprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/settingsprovider.h
+END
+globalshortcuts.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/globalshortcuts.h
+END
+mpris2_root.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_root.h
+END
+deletefiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/deletefiles.cpp
+END
+mpris2_tracklist.moc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_tracklist.moc
+END
+gnomeglobalshortcutbackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/gnomeglobalshortcutbackend.cpp
+END
+player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/player.cpp
+END
+appearance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/appearance.cpp
+END
+mpris2_tracklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_tracklist.h
+END
+qxtglobalshortcutbackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/qxtglobalshortcutbackend.cpp
+END
+moc_qtfslistener.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_qtfslistener.cxx
+END
+moc_crashreporting.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_crashreporting.cxx
+END
+application.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/application.h
+END
+mpris2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mpris2.cpp
+END
+fht.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/fht.cpp
+END
+mpris2_player.moc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_player.moc
+END
+macfslistener.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/macfslistener.mm
+END
+network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/network.cpp
+END
+deletefiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/deletefiles.h
+END
+mpris2_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_player.h
+END
+macfslistener.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/macfslistener.h
+END
+urlhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/urlhandler.h
+END
+qxtglobalshortcutbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/qxtglobalshortcutbackend.h
+END
+cachedlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/cachedlist.h
+END
+moc_taskmanager.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_taskmanager.cxx
+END
+song.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/song.h
+END
+mpris_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris_player.h
+END
+utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/utilities.h
+END
+mpris2_playlists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/mpris2_playlists.cpp
+END
+mpris1.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mpris1.h
+END
+moc_ubuntuunityhack.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_ubuntuunityhack.cxx
+END
+backgroundstreams.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/backgroundstreams.h
+END
+networkproxyfactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/networkproxyfactory.cpp
+END
+organiseformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/organiseformat.h
+END
+fht.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/fht.h
+END
+scopedtransaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/scopedtransaction.h
+END
+moc_mpris1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_mpris1.cxx
+END
+moc_backgroundstreams.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/core/moc_backgroundstreams.cxx
+END
+potranslator.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/potranslator.h
+END
+songloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/songloader.cpp
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/network.h
+END
+crashreporting.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/crashreporting.h
+END
+mpris.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/mpris.h
+END
+database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/core/database.cpp
+END

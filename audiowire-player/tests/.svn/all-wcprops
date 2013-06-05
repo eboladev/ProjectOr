@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/tests
+END
+mock_networkaccessmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_networkaccessmanager.cpp
+END
+m3uparser_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/m3uparser_test.cpp
+END
+translations_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/translations_test.cpp
+END
+mock_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_engine.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/main.cpp
+END
+mergedproxymodel_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mergedproxymodel_test.cpp
+END
+resources_env.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/resources_env.h
+END
+mock_playlistitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_playlistitem.cpp
+END
+mock_librarybackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_librarybackend.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/tests/Makefile
+END
+testobjectdecorators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/testobjectdecorators.cpp
+END
+xspfparser_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/xspfparser_test.cpp
+END
+playlist_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/playlist_test.cpp
+END
+database_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/database_test.cpp
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/tests/cmake_install.cmake
+END
+test_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/test_utils.h
+END
+song_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/song_test.cpp
+END
+songplaylistitem_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/songplaylistitem_test.cpp
+END
+asxiniparser_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/asxiniparser_test.cpp
+END
+asxparser_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/asxparser_test.cpp
+END
+mock_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_player.h
+END
+mock_playlistmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_playlistmanager.h
+END
+plsparser_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/plsparser_test.cpp
+END
+utilities_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/utilities_test.cpp
+END
+closure_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/closure_test.cpp
+END
+organiseformat_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/organiseformat_test.cpp
+END
+fmpsparser_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/fmpsparser_test.cpp
+END
+scopedtransaction_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/scopedtransaction_test.cpp
+END
+mock_networkaccessmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_networkaccessmanager.h
+END
+librarymodel_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/librarymodel_test.cpp
+END
+mock_backgroundthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_backgroundthread.h
+END
+metatypes_env.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/metatypes_env.h
+END
+cueparser_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/cueparser_test.cpp
+END
+mock_settingsprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_settingsprovider.h
+END
+albumcovermanager_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/albumcovermanager_test.cpp
+END
+mock_sqldriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_sqldriver.h
+END
+songloader_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/songloader_test.cpp
+END
+mock_playlistitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mock_playlistitem.h
+END
+albumcoverfetcher_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/albumcoverfetcher_test.cpp
+END
+test_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/test_utils.cpp
+END
+testobjectdecorators.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/testobjectdecorators.h
+END
+logging_env.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/logging_env.h
+END
+concurrentrun_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/concurrentrun_test.cpp
+END
+fileformats_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/fileformats_test.cpp
+END
+mpris1_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/mpris1_test.cpp
+END
+librarybackend_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/tests/librarybackend_test.cpp
+END

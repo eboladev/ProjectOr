@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch
+END
+moc_globalsearchsettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_globalsearchsettingspage.cxx
+END
+savedradiosearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/savedradiosearchprovider.cpp
+END
+somafmsearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/somafmsearchprovider.cpp
+END
+globalsearchsortmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchsortmodel.h
+END
+soundcloudsearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/soundcloudsearchprovider.h
+END
+globalsearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearch.cpp
+END
+globalsearchview.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchview.h
+END
+digitallyimportedsearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/digitallyimportedsearchprovider.cpp
+END
+searchproviderstatuswidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/searchproviderstatuswidget.cpp
+END
+simplesearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/simplesearchprovider.cpp
+END
+lastfmsearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/lastfmsearchprovider.h
+END
+moc_soundcloudsearchprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_soundcloudsearchprovider.cxx
+END
+spotifysearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/spotifysearchprovider.cpp
+END
+moc_globalsearchview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_globalsearchview.cxx
+END
+groovesharksearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/groovesharksearchprovider.h
+END
+globalsearchitemdelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchitemdelegate.cpp
+END
+suggestionwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/suggestionwidget.h
+END
+urlsearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/urlsearchprovider.cpp
+END
+globalsearchsettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchsettingspage.cpp
+END
+librarysearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/librarysearchprovider.cpp
+END
+moc_groovesharksearchprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_groovesharksearchprovider.cxx
+END
+moc_suggestionwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_suggestionwidget.cxx
+END
+globalsearchmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchmodel.h
+END
+globalsearchview.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchview.ui
+END
+globalsearchsortmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchsortmodel.cpp
+END
+soundcloudsearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/soundcloudsearchprovider.cpp
+END
+icecastsearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/icecastsearchprovider.h
+END
+globalsearchview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchview.cpp
+END
+searchproviderstatuswidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/searchproviderstatuswidget.ui
+END
+moc_globalsearchmodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_globalsearchmodel.cxx
+END
+searchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/searchprovider.h
+END
+suggestionwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/suggestionwidget.ui
+END
+lastfmsearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/lastfmsearchprovider.cpp
+END
+savedradiosearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/savedradiosearchprovider.h
+END
+somafmsearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/somafmsearchprovider.h
+END
+groovesharksearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/groovesharksearchprovider.cpp
+END
+globalsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearch.h
+END
+suggestionwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/suggestionwidget.cpp
+END
+digitallyimportedsearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/digitallyimportedsearchprovider.h
+END
+searchproviderstatuswidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/searchproviderstatuswidget.h
+END
+moc_searchprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_searchprovider.cxx
+END
+globalsearchsettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchsettingspage.ui
+END
+simplesearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/simplesearchprovider.h
+END
+spotifysearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/spotifysearchprovider.h
+END
+moc_globalsearch.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_globalsearch.cxx
+END
+globalsearchitemdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchitemdelegate.h
+END
+globalsearchmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchmodel.cpp
+END
+moc_simplesearchprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_simplesearchprovider.cxx
+END
+urlsearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/urlsearchprovider.h
+END
+globalsearchsettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/globalsearchsettingspage.h
+END
+librarysearchprovider.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/librarysearchprovider.h
+END
+icecastsearchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/icecastsearchprovider.cpp
+END
+moc_spotifysearchprovider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/globalsearch/moc_spotifysearchprovider.cxx
+END
+searchprovider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/globalsearch/searchprovider.cpp
+END

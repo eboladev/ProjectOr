@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit
+END
+tdebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tdebug.cpp
+END
+tbytevector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tbytevector.cpp
+END
+tbytevectorlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tbytevectorlist.h
+END
+tpropertymap.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tpropertymap.h
+END
+tiostream.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tiostream.h
+END
+tfilestream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tfilestream.cpp
+END
+tdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tdebug.h
+END
+tbytevector.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tbytevector.h
+END
+tfilestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tfilestream.h
+END
+tbytevectorstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tbytevectorstream.cpp
+END
+tlist.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tlist.tcc
+END
+tstringlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tstringlist.cpp
+END
+unicode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/unicode.cpp
+END
+tmap.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tmap.tcc
+END
+tstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tstring.cpp
+END
+tbytevectorstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tbytevectorstream.h
+END
+tstringlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tstringlist.h
+END
+unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/unicode.h
+END
+tstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tstring.h
+END
+tfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tfile.cpp
+END
+tlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tlist.h
+END
+tbytevectorlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tbytevectorlist.cpp
+END
+tmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tmap.h
+END
+tpropertymap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tpropertymap.cpp
+END
+tiostream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tiostream.cpp
+END
+taglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/taglib.h
+END
+tfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/toolkit/tfile.h
+END

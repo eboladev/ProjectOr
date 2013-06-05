@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/ext
+END
+ffmpeg_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/ext/ffmpeg_decoder.h
+END
+audio_dumper.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/ext/audio_dumper.h
+END
+image_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/ext/image_utils.cpp
+END
+sox_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/ext/sox_decoder.h
+END
+image_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/ext/image_utils.h
+END

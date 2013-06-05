@@ -1,0 +1,653 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets
+END
+moc_lineedit.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_lineedit.cxx
+END
+moc_didyoumean.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_didyoumean.cxx
+END
+osd_x11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/osd_x11.cpp
+END
+moc_linetextedit.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_linetextedit.cxx
+END
+moc_equalizerslider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_equalizerslider.cxx
+END
+loginstatewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/loginstatewidget.h
+END
+freespacebar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/freespacebar.cpp
+END
+moc_fileviewlist.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_fileviewlist.cxx
+END
+osd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/osd.cpp
+END
+prettyimageview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/prettyimageview.cpp
+END
+elidedlabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/elidedlabel.cpp
+END
+autoexpandingtreeview.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/autoexpandingtreeview.h
+END
+moc_groupediconview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_groupediconview.cxx
+END
+moc_errordialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_errordialog.cxx
+END
+fancytabwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/fancytabwidget.cpp
+END
+moc_loginstatewidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_loginstatewidget.cxx
+END
+tracksliderpopup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/tracksliderpopup.cpp
+END
+prettyimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/prettyimage.h
+END
+trackslider.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/trackslider.ui
+END
+moc_sliderwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_sliderwidget.cxx
+END
+equalizerslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/equalizerslider.cpp
+END
+widgetfadehelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/widgetfadehelper.h
+END
+moc_prettyimage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_prettyimage.cxx
+END
+clickablelabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/clickablelabel.cpp
+END
+stickyslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/stickyslider.cpp
+END
+errordialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/errordialog.cpp
+END
+groupediconview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/groupediconview.cpp
+END
+moc_widgetfadehelper.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_widgetfadehelper.cxx
+END
+progressitemdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/progressitemdelegate.h
+END
+moc_trackslider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_trackslider.cxx
+END
+moc_fileview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_fileview.cxx
+END
+osd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/osd.h
+END
+prettyimageview.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/prettyimageview.h
+END
+prettyimage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/prettyimage.cpp
+END
+forcescrollperpixel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/forcescrollperpixel.h
+END
+osd_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/osd_mac.mm
+END
+moc_busyindicator.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_busyindicator.cxx
+END
+fullscreenhypnotoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/fullscreenhypnotoad.h
+END
+ratingwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/ratingwidget.h
+END
+moc_freespacebar.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_freespacebar.cxx
+END
+fancytabwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/fancytabwidget.h
+END
+tracksliderpopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/tracksliderpopup.h
+END
+osd_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/osd_win.cpp
+END
+moc_multiloadingindicator.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_multiloadingindicator.cxx
+END
+didyoumean.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/didyoumean.h
+END
+errordialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/errordialog.ui
+END
+trackslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/trackslider.cpp
+END
+linetextedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/linetextedit.h
+END
+moc_tracksliderpopup.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_tracksliderpopup.cxx
+END
+moc_fancytabwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_fancytabwidget.cxx
+END
+moc_osdpretty.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_osdpretty.cxx
+END
+fileviewlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/fileviewlist.h
+END
+errordialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/errordialog.h
+END
+groupediconview.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/groupediconview.h
+END
+clickablelabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/clickablelabel.h
+END
+progressitemdelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/progressitemdelegate.cpp
+END
+stickyslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/stickyslider.h
+END
+busyindicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/busyindicator.cpp
+END
+tracksliderslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/tracksliderslider.h
+END
+renametablineedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/renametablineedit.h
+END
+multiloadingindicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/multiloadingindicator.cpp
+END
+stretchheaderview.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/stretchheaderview.h
+END
+forcescrollperpixel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/forcescrollperpixel.cpp
+END
+moc_stickyslider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_stickyslider.cxx
+END
+moc_clickablelabel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_clickablelabel.cxx
+END
+fullscreenhypnotoad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/fullscreenhypnotoad.cpp
+END
+ratingwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/ratingwidget.cpp
+END
+moc_tracksliderslider.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_tracksliderslider.cxx
+END
+moc_renametablineedit.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_renametablineedit.cxx
+END
+nowplayingwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/nowplayingwidget.cpp
+END
+sliderwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/sliderwidget.h
+END
+lineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/lineedit.cpp
+END
+osdpretty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/osdpretty.cpp
+END
+didyoumean.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/didyoumean.cpp
+END
+moc_stretchheaderview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_stretchheaderview.cxx
+END
+equalizerslider.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/equalizerslider.ui
+END
+moc_autoexpandingtreeview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_autoexpandingtreeview.cxx
+END
+linetextedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/linetextedit.cpp
+END
+stylehelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/stylehelper.h
+END
+fileviewlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/fileviewlist.cpp
+END
+tracksliderslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/tracksliderslider.cpp
+END
+renametablineedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/renametablineedit.cpp
+END
+trackslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/trackslider.h
+END
+loginstatewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/loginstatewidget.cpp
+END
+fileview.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/fileview.h
+END
+stretchheaderview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/stretchheaderview.cpp
+END
+autoexpandingtreeview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/autoexpandingtreeview.cpp
+END
+busyindicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/busyindicator.h
+END
+sliderwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/sliderwidget.cpp
+END
+freespacebar.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/freespacebar.h
+END
+osdpretty.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/osdpretty.ui
+END
+multiloadingindicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/multiloadingindicator.h
+END
+elidedlabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/elidedlabel.h
+END
+moc_progressitemdelegate.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_progressitemdelegate.cxx
+END
+stylehelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/stylehelper.cpp
+END
+nowplayingwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/nowplayingwidget.h
+END
+osdpretty.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/osdpretty.h
+END
+lineedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/lineedit.h
+END
+moc_prettyimageview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_prettyimageview.cxx
+END
+moc_osd.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_osd.cxx
+END
+widgetfadehelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/widgetfadehelper.cpp
+END
+moc_elidedlabel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_elidedlabel.cxx
+END
+fileview.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/fileview.ui
+END
+moc_ratingwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_ratingwidget.cxx
+END
+loginstatewidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/loginstatewidget.ui
+END
+equalizerslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/equalizerslider.h
+END
+moc_nowplayingwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/widgets/moc_nowplayingwidget.cxx
+END
+fileview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/widgets/fileview.cpp
+END

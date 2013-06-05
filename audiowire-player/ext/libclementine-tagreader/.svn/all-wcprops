@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-tagreader
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-tagreader/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-tagreader/Makefile
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-tagreader/cmake_install.cmake
+END
+tagreadermessages.proto
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-tagreader/tagreadermessages.proto
+END
+tagreadermessages.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-tagreader/tagreadermessages.pb.cc
+END
+tagreadermessages.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-tagreader/tagreadermessages.pb.h
+END

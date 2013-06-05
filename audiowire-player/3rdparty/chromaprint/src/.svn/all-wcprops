@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/chromaprint/src
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/utils.h
+END
+lloyds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/lloyds.cpp
+END
+spectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/spectrum.h
+END
+fingerprint_compressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprint_compressor.h
+END
+chroma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/chroma.cpp
+END
+spectral_centroid.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/spectral_centroid.h
+END
+filter_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/filter_utils.h
+END
+sox_audio_source.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/sox_audio_source.cpp
+END
+foo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/foo.cpp
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft.h
+END
+chromaprint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/chromaprint.cpp
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/image.h
+END
+classifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/classifier.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/filter.h
+END
+bit_string_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/bit_string_reader.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/debug.h
+END
+fft_lib_vdsp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft_lib_vdsp.cpp
+END
+spectrum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/spectrum.cpp
+END
+spectral_centroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/spectral_centroid.cpp
+END
+audio_processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/audio_processor.h
+END
+fingerprinter_configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprinter_configuration.cpp
+END
+chroma.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/chroma.h
+END
+chroma_resampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/chroma_resampler.cpp
+END
+fft_lib_fftw3.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft_lib_fftw3.h
+END
+fingerprinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprinter.h
+END
+image_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/image_builder.h
+END
+feature_vector_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/feature_vector_consumer.h
+END
+fft_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft_frame.h
+END
+audio_processor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/audio_processor.cpp
+END
+fft_lib_vdsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft_lib_vdsp.h
+END
+integral_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/integral_image.cpp
+END
+fft_frame_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft_frame_consumer.h
+END
+fingerprinter_configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprinter_configuration.h
+END
+decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/decoder.h
+END
+fingerprinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprinter.cpp
+END
+fft_lib_fftw3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft_lib_fftw3.cpp
+END
+chroma_normalizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/chroma_normalizer.h
+END
+silence_remover.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/silence_remover.cpp
+END
+fingerprint_decompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprint_decompressor.h
+END
+chroma_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/chroma_filter.h
+END
+quantizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/quantizer.h
+END
+chroma_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/chroma_resampler.h
+END
+image_builder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/image_builder.cpp
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/base64.h
+END
+fft_lib_avfft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft_lib_avfft.cpp
+END
+fingerprint_compressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprint_compressor.cpp
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/chromaprint/src/cmake_install.cmake
+END
+bit_string_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/bit_string_writer.h
+END
+fingerprint_calculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprint_calculator.h
+END
+fft_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft_lib.h
+END
+lloyds.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/lloyds.h
+END
+integral_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/integral_image.h
+END
+fingerprint_decompressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprint_decompressor.cpp
+END
+chroma_filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/chroma_filter.cpp
+END
+combined_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/combined_buffer.h
+END
+fft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft.cpp
+END
+sox_audio_source.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/sox_audio_source.h
+END
+audio_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/audio_consumer.h
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/base64.cpp
+END
+filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/filter.cpp
+END
+silence_remover.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/silence_remover.h
+END
+chromaprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/chromaprint.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/chromaprint/src/Makefile
+END
+fingerprint_calculator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fingerprint_calculator.cpp
+END
+fft_lib_avfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/chromaprint/src/fft_lib_avfft.h
+END

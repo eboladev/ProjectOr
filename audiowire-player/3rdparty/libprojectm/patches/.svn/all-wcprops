@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/patches
+END
+05-fix-windows-crashes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/patches/05-fix-windows-crashes.patch
+END
+06-fix-numeric-locale.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/patches/06-fix-numeric-locale.patch
+END
+01-change-texture-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/patches/01-change-texture-size.patch
+END
+04-change-preset-duration.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/patches/04-change-preset-duration.patch
+END
+07-fix-fbo-fallback-memory-leak.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/patches/07-fix-fbo-fallback-memory-leak.patch
+END
+02-fix-win-compilation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/patches/02-fix-win-compilation.patch
+END
+03-fix-mac-compilation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/patches/03-fix-mac-compilation.patch
+END
+08-stdlib.h-for-rand.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/libprojectm/patches/08-stdlib.h-for-rand.patch
+END

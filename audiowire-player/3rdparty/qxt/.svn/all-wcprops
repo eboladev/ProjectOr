@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qxt
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/LICENSE
+END
+qxtglobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/qxtglobal.h
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qxt/cmake_install.cmake
+END
+media-keys.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/media-keys.patch
+END
+qxtglobalshortcut_win.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/qxtglobalshortcut_win.cpp
+END
+moc_qxtglobalshortcut.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qxt/moc_qxtglobalshortcut.cxx
+END
+qxtglobalshortcut_mac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/qxtglobalshortcut_mac.cpp
+END
+qxtglobalshortcut_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/qxtglobalshortcut_p.h
+END
+qxtglobalshortcut_x11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/qxtglobalshortcut_x11.cpp
+END
+qxtglobalshortcut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/qxtglobalshortcut.cpp
+END
+keymapper_x11.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/keymapper_x11.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qxt/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/CMakeLists.txt
+END
+qxtglobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/qxtglobal.cpp
+END
+qxtglobalshortcut.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/qxtglobalshortcut.h
+END
+meta-modifier.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qxt/meta-modifier.patch
+END

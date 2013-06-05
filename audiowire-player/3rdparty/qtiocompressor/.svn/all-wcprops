@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qtiocompressor
+END
+qtiocompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qtiocompressor/qtiocompressor.h
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qtiocompressor/cmake_install.cmake
+END
+LICENSE.GPL3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qtiocompressor/LICENSE.GPL3
+END
+moc_qtiocompressor.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qtiocompressor/moc_qtiocompressor.cxx
+END
+QtIOCompressor
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qtiocompressor/QtIOCompressor
+END
+LGPL_EXCEPTION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qtiocompressor/LGPL_EXCEPTION.txt
+END
+qtiocompressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qtiocompressor/qtiocompressor.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/qtiocompressor/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/3rdparty/qtiocompressor/Makefile
+END

@@ -1,0 +1,467 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices
+END
+moc_afcdevice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_afcdevice.cxx
+END
+moc_ilister.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_ilister.cxx
+END
+moc_deviceproperties.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_deviceproperties.cxx
+END
+macdevicelister.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/macdevicelister.mm
+END
+devicestatefiltermodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicestatefiltermodel.h
+END
+wmdmthread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmthread.cpp
+END
+afctransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/afctransfer.cpp
+END
+devicekitlister.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicekitlister.h
+END
+devicemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicemanager.h
+END
+filesystemdevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/filesystemdevice.cpp
+END
+afcdevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/afcdevice.cpp
+END
+gpoddevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/gpoddevice.cpp
+END
+moc_devicedatabasebackend.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_devicedatabasebackend.cxx
+END
+ilister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/ilister.cpp
+END
+cddadevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/cddadevice.cpp
+END
+cddalister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/cddalister.cpp
+END
+mtpconnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/mtpconnection.h
+END
+connecteddevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/connecteddevice.h
+END
+devicestatefiltermodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicestatefiltermodel.cpp
+END
+devicedatabasebackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicedatabasebackend.cpp
+END
+wmdmlister.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmlister.h
+END
+moc_mtpdevice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_mtpdevice.cxx
+END
+wmdmthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmthread.h
+END
+afctransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/afctransfer.h
+END
+giolister.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/giolister.h
+END
+macdevicelister.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/macdevicelister.h
+END
+filesystemdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/filesystemdevice.h
+END
+moc_giolister.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_giolister.cxx
+END
+mtpdevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/mtpdevice.cpp
+END
+imobiledeviceconnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/imobiledeviceconnection.cpp
+END
+gpodloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/gpodloader.cpp
+END
+moc_filesystemdevice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_filesystemdevice.cxx
+END
+devicelister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicelister.cpp
+END
+cddalister.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/cddalister.h
+END
+wmdmdevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmdevice.cpp
+END
+moc_gpoddevice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_gpoddevice.cxx
+END
+wmdmlister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmlister.cpp
+END
+moc_cddadevice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_cddadevice.cxx
+END
+deviceview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/deviceview.cpp
+END
+moc_cddalister.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_cddalister.cxx
+END
+mtploader.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/mtploader.h
+END
+afcfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/afcfile.h
+END
+wmdmprogress.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmprogress.h
+END
+wmdmloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmloader.h
+END
+devicedatabasebackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicedatabasebackend.h
+END
+giolister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/giolister.cpp
+END
+moc_mtploader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_mtploader.cxx
+END
+moc_devicestatefiltermodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_devicestatefiltermodel.cxx
+END
+moc_afcfile.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_afcfile.cxx
+END
+moc_devicemanager.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_devicemanager.cxx
+END
+moc_devicekitlister.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_devicekitlister.cxx
+END
+deviceproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/deviceproperties.cpp
+END
+imobiledeviceconnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/imobiledeviceconnection.h
+END
+gpodloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/gpodloader.h
+END
+mtpdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/mtpdevice.h
+END
+devicelister.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicelister.h
+END
+mtploader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/mtploader.cpp
+END
+afcfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/afcfile.cpp
+END
+wmdmdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmdevice.h
+END
+wmdmprogress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmprogress.cpp
+END
+devicekitlister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicekitlister.cpp
+END
+devicemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/devicemanager.cpp
+END
+wmdmloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/wmdmloader.cpp
+END
+moc_gpodloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_gpodloader.cxx
+END
+deviceview.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/deviceview.h
+END
+moc_devicelister.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_devicelister.cxx
+END
+moc_connecteddevice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_connecteddevice.cxx
+END
+deviceproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/deviceproperties.ui
+END
+moc_deviceview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_deviceview.cxx
+END
+moc_afctransfer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/devices/moc_afctransfer.cxx
+END
+gpoddevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/gpoddevice.h
+END
+afcdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/afcdevice.h
+END
+mtpconnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/mtpconnection.cpp
+END
+ilister.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/ilister.h
+END
+cddadevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/cddadevice.h
+END
+deviceproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/deviceproperties.h
+END
+connecteddevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/devices/connecteddevice.cpp
+END

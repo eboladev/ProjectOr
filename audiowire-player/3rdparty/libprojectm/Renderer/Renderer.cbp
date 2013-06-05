@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="Renderer" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\3rdparty\;CMake Files\3rdparty\libprojectm\;CMake Files\3rdparty\libprojectm\MilkdropPresetFactory\;CMake Files\3rdparty\libprojectm\Renderer\;CMake Files\3rdparty\taglib\;CMake Files\3rdparty\taglib\toolkit\;CMake Files\3rdparty\taglib\mpeg\;CMake Files\3rdparty\taglib\mpeg\id3v1\;CMake Files\3rdparty\taglib\mpeg\id3v2\;CMake Files\3rdparty\taglib\mpeg\id3v2\frames\;CMake Files\3rdparty\taglib\ogg\;CMake Files\3rdparty\taglib\ogg\vorbis\;CMake Files\3rdparty\taglib\ogg\flac\;CMake Files\3rdparty\taglib\ogg\speex\;CMake Files\3rdparty\taglib\flac\;CMake Files\3rdparty\taglib\ape\;CMake Files\3rdparty\taglib\mpc\;CMake Files\3rdparty\taglib\wavpack\;CMake Files\3rdparty\taglib\trueaudio\;CMake Files\3rdparty\taglib\riff\;CMake Files\3rdparty\taglib\riff\aiff\;CMake Files\3rdparty\taglib\riff\wav\;CMake Files\3rdparty\taglib\asf\;CMake Files\3rdparty\taglib\mp4\;CMake Files\3rdparty\taglib\mod\;CMake Files\3rdparty\taglib\it\;CMake Files\3rdparty\taglib\s3m\;CMake Files\3rdparty\taglib\xm\;CMake Files\3rdparty\qsqlite\;CMake Files\3rdparty\qtsingleapplication\;CMake Files\3rdparty\qtiocompressor\;CMake Files\3rdparty\qxt\;CMake Files\3rdparty\libechonest\;CMake Files\3rdparty\sha2\;CMake Files\3rdparty\chromaprint\;CMake Files\3rdparty\chromaprint\cmake\;CMake Files\3rdparty\chromaprint\cmake\modules\;CMake Files\3rdparty\chromaprint\src\;CMake Files\3rdparty\libmygpo-qt\;CMake Files\3rdparty\qocoa\;CMake Files\3rdparty\universalchardet\;CMake Files\cmake\;CMake Files\src\;CMake Files\src\translations\;CMake Files\data\;CMake Files\tests\;CMake Files\tests\data\;CMake Files\dist\;CMake Files\dist\windows\;CMake Files\tools\;CMake Files\tools\ultimate_lyrics_parser\;CMake Files\ext\;CMake Files\ext\libclementine-common\;CMake Files\ext\libclementine-tagreader\;CMake Files\ext\clementine-tagreader\;CMake Files\ext\libclementine-spotifyblob\;CMake Files\gst\;CMake Files\gst\afcsrc\;CMake Files\gst\moodbar\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Renderer">
+         <Option output="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/libRenderer.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_NO_CAST_TO_ASCII" />
+            <Add option="-DQT_STRICT_ITERATORS" />
+            <Add option="-DQT_NO_DEBUG" />
+            <Add option="-DQT_OPENGL_LIB" />
+            <Add option="-DQT_WEBKIT_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_DBUS_LIB" />
+            <Add option="-DQT_XML_LIB" />
+            <Add option="-DQT_SQL_LIB" />
+            <Add option="-DQT_NETWORK_LIB" />
+            <Add option="-DQT_CORE_LIB" />
+            <Add option="-DDISABLE_NATIVE_PRESETS" />
+            <Add option="-DUSE_FBO" />
+            <Add option="-DLINUX" />
+            <Add option="-DSTBI_NO_DDS" />
+            <Add directory="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm" />
+            <Add directory="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/headers" />
+            <Add directory="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/headers/taglib" />
+            <Add directory="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/universalchardet" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/glib-2.0" />
+            <Add directory="/usr/include/gstreamer-0.10" />
+            <Add directory="/usr/include/libxml2" />
+            <Add directory="/usr/include/qt4" />
+            <Add directory="/usr/include/qt4/QtCore" />
+            <Add directory="/usr/include/qt4/QtDBus" />
+            <Add directory="/usr/include/qt4/QtGui" />
+            <Add directory="/usr/include/qt4/QtNetwork" />
+            <Add directory="/usr/include/qt4/QtOpenGL" />
+            <Add directory="/usr/include/qt4/QtSql" />
+            <Add directory="/usr/include/qt4/QtWebKit" />
+            <Add directory="/usr/include/qt4/QtXml" />
+            <Add directory="/usr/lib/i386-linux-gnu/glib-2.0/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 Renderer" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Renderer/fast">
+         <Option output="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/libRenderer.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_NO_CAST_TO_ASCII" />
+            <Add option="-DQT_STRICT_ITERATORS" />
+            <Add option="-DQT_NO_DEBUG" />
+            <Add option="-DQT_OPENGL_LIB" />
+            <Add option="-DQT_WEBKIT_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_DBUS_LIB" />
+            <Add option="-DQT_XML_LIB" />
+            <Add option="-DQT_SQL_LIB" />
+            <Add option="-DQT_NETWORK_LIB" />
+            <Add option="-DQT_CORE_LIB" />
+            <Add option="-DDISABLE_NATIVE_PRESETS" />
+            <Add option="-DUSE_FBO" />
+            <Add option="-DLINUX" />
+            <Add option="-DSTBI_NO_DDS" />
+            <Add directory="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm" />
+            <Add directory="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/headers" />
+            <Add directory="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/headers/taglib" />
+            <Add directory="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/universalchardet" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/glib-2.0" />
+            <Add directory="/usr/include/gstreamer-0.10" />
+            <Add directory="/usr/include/libxml2" />
+            <Add directory="/usr/include/qt4" />
+            <Add directory="/usr/include/qt4/QtCore" />
+            <Add directory="/usr/include/qt4/QtDBus" />
+            <Add directory="/usr/include/qt4/QtGui" />
+            <Add directory="/usr/include/qt4/QtNetwork" />
+            <Add directory="/usr/include/qt4/QtOpenGL" />
+            <Add directory="/usr/include/qt4/QtSql" />
+            <Add directory="/usr/include/qt4/QtWebKit" />
+            <Add directory="/usr/include/qt4/QtXml" />
+            <Add directory="/usr/lib/i386-linux-gnu/glib-2.0/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 Renderer/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/BeatDetect.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/FBO.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Filters.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/MilkdropWaveform.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/PerPixelMesh.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/PerlinNoise.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Pipeline.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/PipelineContext.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/RenderItemDistanceMetric.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/RenderItemMatcher.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Renderable.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Renderer.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/SOIL/SOIL.c">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/SOIL/image_DXT.c">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/SOIL/image_helper.c">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/SOIL/stb_image_aug.c">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Shader.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/ShaderEngine.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/TextureManager.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/UserTexture.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/VideoEcho.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Waveform.cpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/BeatDetect.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/FBO.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Filters.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/MilkdropWaveform.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/PerPixelMesh.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/PerlinNoise.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Pipeline.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/PipelineContext.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/RenderItemDistanceMetric.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/RenderItemMatcher.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Renderable.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Renderer.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/SOIL/SOIL.h">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/SOIL/image_DXT.h">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/SOIL/image_helper.h">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/SOIL/stb_image_aug.h">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Shader.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/ShaderEngine.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/TextureManager.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/UserTexture.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/VideoEcho.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/Waveform.hpp">
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake_uninstall.cmake.in">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/libprojectM.pc.in">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/config.inp.in">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/libprojectM.pc.in">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/config.inp.in">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\MilkdropPresetFactory\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\MilkdropPresetFactory\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/MilkdropPresetFactory/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\MilkdropPresetFactory\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\Renderer\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\Renderer\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libprojectm/Renderer/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libprojectm\Renderer\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/taglib_config.h.cmake">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/tag.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/fileref.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/audioproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/taglib_export.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/taglib_config.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/taglib.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tstring.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tlist.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tlist.tcc">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tstringlist.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tbytevector.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tbytevectorlist.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tbytevectorstream.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tiostream.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tfilestream.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tmap.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tmap.tcc">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/toolkit/tpropertymap.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\toolkit\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/mpegfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/mpegproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/mpegheader.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/xingheader.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v1/id3v1tag.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v1\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v1/id3v1genres.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v1\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/id3v2extendedheader.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/id3v2frame.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/id3v2header.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/id3v2synchdata.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/id3v2footer.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/id3v2framefactory.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/id3v2tag.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/attachedpictureframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/commentsframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/generalencapsulatedobjectframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/ownershipframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/popularimeterframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/privateframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/relativevolumeframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/textidentificationframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/uniquefileidentifierframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/unknownframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/unsynchronizedlyricsframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpeg/id3v2/frames/urllinkframe.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpeg\id3v2\frames\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ogg/oggfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ogg\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ogg/oggpage.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ogg\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ogg/oggpageheader.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ogg\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ogg/xiphcomment.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ogg\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ogg/vorbis/vorbisfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ogg\vorbis\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ogg/vorbis/vorbisproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ogg\vorbis\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ogg/flac/oggflacfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ogg\flac\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ogg/speex/speexfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ogg\speex\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ogg/speex/speexproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ogg\speex\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/flac/flacfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\flac\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/flac/flacpicture.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\flac\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/flac/flacproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\flac\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/flac/flacmetadatablock.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\flac\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ape/apefile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ape\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ape/apeproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ape\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ape/apetag.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ape\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ape/apefooter.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ape\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/ape/apeitem.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\ape\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpc/mpcfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpc\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mpc/mpcproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mpc\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/wavpack/wavpackfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\wavpack\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/wavpack/wavpackproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\wavpack\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/trueaudio/trueaudiofile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\trueaudio\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/trueaudio/trueaudioproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\trueaudio\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/riff/rifffile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\riff\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/riff/aiff/aifffile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\riff\aiff\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/riff/aiff/aiffproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\riff\aiff\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/riff/wav/wavfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\riff\wav\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/riff/wav/wavproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\riff\wav\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/asf/asffile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\asf\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/asf/asfproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\asf\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/asf/asftag.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\asf\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/asf/asfattribute.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\asf\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/asf/asfpicture.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\asf\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mp4/mp4file.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mp4\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mp4/mp4atom.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mp4\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mp4/mp4tag.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mp4\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mp4/mp4item.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mp4\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mp4/mp4properties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mp4\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mp4/mp4coverart.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mp4\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mod/modfilebase.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mod\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mod/modfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mod\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mod/modtag.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mod\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/mod/modproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\mod\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/it/itfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\it\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/it/itproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\it\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/s3m/s3mfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\s3m\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/s3m/s3mproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\s3m\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/xm/xmfile.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\xm\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/taglib/xm/xmproperties.h">
+          <Option virtualFolder="CMake Files\3rdparty\taglib\xm\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/qsqlite/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\qsqlite\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/qtsingleapplication/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\qtsingleapplication\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/qtiocompressor/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\qtiocompressor\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/qxt/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\qxt\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/echonest_export.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/Track.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/Song.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/Artist.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/Playlist.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/Config.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/AudioSummary.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/ArtistTypes.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/Util.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/Catalog.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/CatalogUpdateEntry.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/CatalogSong.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/CatalogArtist.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/CatalogItem.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/TypeInformation.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/echonest_export.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libechonest/Util.h">
+          <Option virtualFolder="CMake Files\3rdparty\libechonest\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/sha2/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\sha2\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/chromaprint/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\chromaprint\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/chromaprint/config.h.in">
+          <Option virtualFolder="CMake Files\3rdparty\chromaprint\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/chromaprint/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\chromaprint\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/chromaprint/config.h.in">
+          <Option virtualFolder="CMake Files\3rdparty\chromaprint\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/chromaprint/cmake/modules/FindFFmpeg.cmake">
+          <Option virtualFolder="CMake Files\3rdparty\chromaprint\cmake\modules\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/chromaprint/cmake/modules/FindFFmpeg.cmake">
+          <Option virtualFolder="CMake Files\3rdparty\chromaprint\cmake\modules\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/chromaprint/src/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\chromaprint\src\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/chromaprint/src/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\chromaprint\src\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/libmygpo-qt/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\libmygpo-qt\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/qocoa/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\qocoa\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/qocoa/qprogressindicatorspinning_nonmac.qrc">
+          <Option virtualFolder="CMake Files\3rdparty\qocoa\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/3rdparty/universalchardet/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\3rdparty\universalchardet\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake/Summary.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake/Version.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake/Deb.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake/Rpm.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake/SpotifyVersion.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake/OptionalSource.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake/FindFFTW3.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake/ParseArguments.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/cmake/Translations.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/src/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/src/config.h.in">
+          <Option virtualFolder="CMake Files\src\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/src/version.h.in">
+          <Option virtualFolder="CMake Files\src\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/src/translations/translations.qrc">
+          <Option virtualFolder="CMake Files\src\translations\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/data/data.qrc">
+          <Option virtualFolder="CMake Files\data\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/tests/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\tests\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/tests/data/testdata.qrc">
+          <Option virtualFolder="CMake Files\tests\data\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/dist/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\dist\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/dist/clementine.spec.in">
+          <Option virtualFolder="CMake Files\dist\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/dist/Info.plist.in">
+          <Option virtualFolder="CMake Files\dist\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/dist/maketarball.sh.in">
+          <Option virtualFolder="CMake Files\dist\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/dist/windows/clementine.nsi.in">
+          <Option virtualFolder="CMake Files\dist\windows\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/tools/ultimate_lyrics_parser/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\tools\ultimate_lyrics_parser\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/ext/libclementine-common/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\ext\libclementine-common\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/ext/libclementine-tagreader/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\ext\libclementine-tagreader\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/ext/clementine-tagreader/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\ext\clementine-tagreader\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/ext/libclementine-spotifyblob/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\ext\libclementine-spotifyblob\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/ext/libclementine-spotifyblob/blobversion.h.in">
+          <Option virtualFolder="CMake Files\ext\libclementine-spotifyblob\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/gst/afcsrc/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\gst\afcsrc\" />
+      </Unit>
+      <Unit filename="/home/mystte/rendu/audiowire/Perso/Player/gst/moodbar/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\gst\moodbar\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus
+END
+org.mpris.MediaPlayer2.Playlists.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.mpris.MediaPlayer2.Playlists.xml
+END
+udisks.moc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/udisks.moc
+END
+udisks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/udisks.cpp
+END
+org.wiimotedev.deviceEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.wiimotedev.deviceEvents.xml
+END
+org.freedesktop.MediaPlayer.player.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.freedesktop.MediaPlayer.player.xml
+END
+org.gnome.SettingsDaemon.MediaKeys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.gnome.SettingsDaemon.MediaKeys.xml
+END
+gnomesettingsdaemon.moc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/gnomesettingsdaemon.moc
+END
+org.mpris.MediaPlayer2.Player.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.mpris.MediaPlayer2.Player.xml
+END
+udisks.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/udisks.h
+END
+wiimotedev.moc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/wiimotedev.moc
+END
+org.freedesktop.MediaPlayer.tracklist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.freedesktop.MediaPlayer.tracklist.xml
+END
+gnomesettingsdaemon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/gnomesettingsdaemon.cpp
+END
+org.mpris.MediaPlayer2.TrackList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.mpris.MediaPlayer2.TrackList.xml
+END
+org.freedesktop.Avahi.Server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.freedesktop.Avahi.Server.xml
+END
+org.mpris.MediaPlayer2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.mpris.MediaPlayer2.xml
+END
+wiimotedev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/wiimotedev.cpp
+END
+org.freedesktop.UDisks.Device.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.freedesktop.UDisks.Device.xml
+END
+udisksdevice.moc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/udisksdevice.moc
+END
+gnomesettingsdaemon.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/gnomesettingsdaemon.h
+END
+org.freedesktop.UDisks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.freedesktop.UDisks.xml
+END
+metatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/metatypes.h
+END
+wiimotedev.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/wiimotedev.h
+END
+notification.moc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/notification.moc
+END
+udisksdevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/udisksdevice.cpp
+END
+org.freedesktop.Avahi.EntryGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.freedesktop.Avahi.EntryGroup.xml
+END
+notification.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/notification.cpp
+END
+org.freedesktop.Notifications.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.freedesktop.Notifications.xml
+END
+udisksdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/udisksdevice.h
+END
+notification.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/dbus/notification.h
+END
+org.freedesktop.MediaPlayer.root.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/dbus/org.freedesktop.MediaPlayer.root.xml
+END

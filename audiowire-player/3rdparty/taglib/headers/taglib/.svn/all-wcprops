@@ -1,0 +1,569 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib
+END
+mpegproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mpegproperties.h
+END
+mp4coverart.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mp4coverart.h
+END
+unknownframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/unknownframe.h
+END
+wavproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/wavproperties.h
+END
+tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tag.h
+END
+itfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/itfile.h
+END
+xingheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/xingheader.h
+END
+s3mproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/s3mproperties.h
+END
+id3v2extendedheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/id3v2extendedheader.h
+END
+vorbisproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/vorbisproperties.h
+END
+id3v1tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/id3v1tag.h
+END
+speexfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/speexfile.h
+END
+attachedpictureframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/attachedpictureframe.h
+END
+apeitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/apeitem.h
+END
+ownershipframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/ownershipframe.h
+END
+id3v1genres.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/id3v1genres.h
+END
+tstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tstring.h
+END
+commentsframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/commentsframe.h
+END
+taglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/taglib.h
+END
+asftag.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/asftag.h
+END
+id3v2footer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/id3v2footer.h
+END
+tpropertymap.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tpropertymap.h
+END
+tiostream.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tiostream.h
+END
+generalencapsulatedobjectframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/generalencapsulatedobjectframe.h
+END
+asffile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/asffile.h
+END
+mp4properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mp4properties.h
+END
+relativevolumeframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/relativevolumeframe.h
+END
+mp4item.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mp4item.h
+END
+modfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/modfile.h
+END
+tlist.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tlist.tcc
+END
+id3v2tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/id3v2tag.h
+END
+asfproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/asfproperties.h
+END
+tbytevectorstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tbytevectorstream.h
+END
+mpegfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mpegfile.h
+END
+modproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/modproperties.h
+END
+apetag.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/apetag.h
+END
+tmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tmap.h
+END
+trueaudiofile.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/trueaudiofile.h
+END
+xmproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/xmproperties.h
+END
+s3mfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/s3mfile.h
+END
+id3v2frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/id3v2frame.h
+END
+popularimeterframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/popularimeterframe.h
+END
+tfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tfile.h
+END
+vorbisfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/vorbisfile.h
+END
+apefile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/apefile.h
+END
+aifffile.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/aifffile.h
+END
+flacfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/flacfile.h
+END
+tbytevectorlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tbytevectorlist.h
+END
+oggpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/oggpage.h
+END
+textidentificationframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/textidentificationframe.h
+END
+wavpackproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/wavpackproperties.h
+END
+trueaudioproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/trueaudioproperties.h
+END
+mpcfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mpcfile.h
+END
+tfilestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tfilestream.h
+END
+flacmetadatablock.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/flacmetadatablock.h
+END
+apeproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/apeproperties.h
+END
+aiffproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/aiffproperties.h
+END
+flacproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/flacproperties.h
+END
+unsynchronizedlyricsframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/unsynchronizedlyricsframe.h
+END
+id3v2synchdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/id3v2synchdata.h
+END
+taglib_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/taglib_config.h
+END
+itproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/itproperties.h
+END
+mpcproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mpcproperties.h
+END
+asfattribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/asfattribute.h
+END
+mp4file.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mp4file.h
+END
+speexproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/speexproperties.h
+END
+oggflacfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/oggflacfile.h
+END
+taglib_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/taglib_export.h
+END
+asfpicture.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/asfpicture.h
+END
+modfilebase.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/modfilebase.h
+END
+tbytevector.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tbytevector.h
+END
+modtag.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/modtag.h
+END
+oggfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/oggfile.h
+END
+fileref.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/fileref.h
+END
+audioproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/audioproperties.h
+END
+mp4atom.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mp4atom.h
+END
+oggpageheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/oggpageheader.h
+END
+tmap.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tmap.tcc
+END
+apefooter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/apefooter.h
+END
+uniquefileidentifierframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/uniquefileidentifierframe.h
+END
+xmfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/xmfile.h
+END
+privateframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/privateframe.h
+END
+rifffile.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/rifffile.h
+END
+tstringlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tstringlist.h
+END
+id3v2framefactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/id3v2framefactory.h
+END
+urllinkframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/urllinkframe.h
+END
+xiphcomment.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/xiphcomment.h
+END
+mp4tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mp4tag.h
+END
+wavpackfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/wavpackfile.h
+END
+wavfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/wavfile.h
+END
+tlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/tlist.h
+END
+id3v2header.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/id3v2header.h
+END
+mpegheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/mpegheader.h
+END
+flacpicture.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/3rdparty/taglib/headers/taglib/flacpicture.h
+END

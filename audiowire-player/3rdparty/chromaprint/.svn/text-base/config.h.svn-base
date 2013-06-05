@@ -1,0 +1,7 @@
+#define HAVE_ROUND 1
+#define HAVE_LRINTF 1
+/* #undef WITH_AVFFT */
+#define WITH_FFTW3 1
+/* #undef WITH_VDSP */
+#define TESTS_DIR "/home/mystte/rendu/AudioWire/audiowire/Perso/Player/3rdparty/chromaprint/tests/"
+

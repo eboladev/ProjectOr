@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-common/core
+END
+workerpool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/workerpool.cpp
+END
+messagereply.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/messagereply.h
+END
+workerpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/workerpool.h
+END
+waitforsignal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/waitforsignal.cpp
+END
+concurrentrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/concurrentrun.h
+END
+closure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/closure.cpp
+END
+moc_messagereply.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-common/core/moc_messagereply.cxx
+END
+waitforsignal.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/waitforsignal.h
+END
+moc_workerpool.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-common/core/moc_workerpool.cxx
+END
+closure.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/closure.h
+END
+messagehandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/messagehandler.cpp
+END
+override.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/override.h
+END
+logging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/logging.cpp
+END
+encoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/encoding.cpp
+END
+messagehandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/messagehandler.h
+END
+moc_closure.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-common/core/moc_closure.cxx
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/logging.h
+END
+encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/encoding.h
+END
+moc_messagehandler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/ext/libclementine-common/core/moc_messagehandler.cxx
+END
+messagereply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/libclementine-common/core/messagereply.cpp
+END

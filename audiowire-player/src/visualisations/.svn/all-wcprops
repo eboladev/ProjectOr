@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/visualisations
+END
+visualisationcontainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/visualisationcontainer.cpp
+END
+projectmvisualisation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/projectmvisualisation.cpp
+END
+visualisationselector.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/visualisationselector.h
+END
+visualisationoverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/visualisationoverlay.h
+END
+visualisationcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/visualisationcontainer.h
+END
+projectmvisualisation.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/projectmvisualisation.h
+END
+moc_projectmpresetmodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/visualisations/moc_projectmpresetmodel.cxx
+END
+moc_visualisationselector.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/visualisations/moc_visualisationselector.cxx
+END
+moc_visualisationoverlay.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/visualisations/moc_visualisationoverlay.cxx
+END
+moc_visualisationcontainer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/visualisations/moc_visualisationcontainer.cxx
+END
+moc_projectmvisualisation.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/visualisations/moc_projectmvisualisation.cxx
+END
+visualisationselector.ui
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/visualisationselector.ui
+END
+visualisationoverlay.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/visualisationoverlay.ui
+END
+projectmpresetmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/projectmpresetmodel.cpp
+END
+visualisationselector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/visualisationselector.cpp
+END
+visualisationoverlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/visualisationoverlay.cpp
+END
+projectmpresetmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/visualisations/projectmpresetmodel.h
+END

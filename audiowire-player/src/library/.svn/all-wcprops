@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library
+END
+librarybackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarybackend.h
+END
+librarysettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarysettingspage.cpp
+END
+libraryfilterwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryfilterwidget.h
+END
+librarywatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarywatcher.h
+END
+sqlrow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/sqlrow.cpp
+END
+libraryitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryitem.h
+END
+librarymodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarymodel.h
+END
+moc_librarybackend.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_librarybackend.cxx
+END
+moc_libraryfilterwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_libraryfilterwidget.cxx
+END
+libraryviewcontainer.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryviewcontainer.ui
+END
+libraryview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryview.cpp
+END
+libraryquery.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryquery.h
+END
+moc_librarywatcher.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_librarywatcher.cxx
+END
+moc_librarymodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_librarymodel.cxx
+END
+libraryplaylistitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryplaylistitem.cpp
+END
+libraryviewcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryviewcontainer.h
+END
+directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/directory.h
+END
+library.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/library.h
+END
+groupbydialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/groupbydialog.h
+END
+librarybackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarybackend.cpp
+END
+librarysettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarysettingspage.ui
+END
+libraryfilterwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryfilterwidget.cpp
+END
+librarydirectorymodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarydirectorymodel.h
+END
+moc_libraryviewcontainer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_libraryviewcontainer.cxx
+END
+moc_library.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_library.cxx
+END
+librarywatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarywatcher.cpp
+END
+moc_groupbydialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_groupbydialog.cxx
+END
+librarymodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarymodel.cpp
+END
+librarysettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarysettingspage.h
+END
+moc_librarydirectorymodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_librarydirectorymodel.cxx
+END
+libraryquery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryquery.cpp
+END
+sqlrow.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/sqlrow.h
+END
+moc_librarysettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_librarysettingspage.cxx
+END
+libraryviewcontainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryviewcontainer.cpp
+END
+groupbydialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/groupbydialog.ui
+END
+libraryview.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryview.h
+END
+library.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/library.cpp
+END
+groupbydialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/groupbydialog.cpp
+END
+libraryfilterwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryfilterwidget.ui
+END
+libraryplaylistitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/libraryplaylistitem.h
+END
+librarydirectorymodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/library/librarydirectorymodel.cpp
+END
+moc_libraryview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/library/moc_libraryview.cxx
+END

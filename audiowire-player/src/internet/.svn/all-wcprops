@@ -1,0 +1,875 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet
+END
+icecastfilterwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastfilterwidget.h
+END
+googledriveservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/googledriveservice.h
+END
+moc_internetsongmimedata.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_internetsongmimedata.cxx
+END
+lastfmcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmcompat.h
+END
+moc_savedradio.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_savedradio.cxx
+END
+lastfmsettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmsettingspage.ui
+END
+icecastmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastmodel.h
+END
+moc_googledriveservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_googledriveservice.cxx
+END
+magnatuneurlhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatuneurlhandler.h
+END
+digitallyimportedservicebase.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/digitallyimportedservicebase.h
+END
+groovesharkservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/groovesharkservice.cpp
+END
+spotifysettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/spotifysettingspage.cpp
+END
+lastfmservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmservice.h
+END
+groovesharksettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/groovesharksettingspage.h
+END
+moc_magnatuneservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_magnatuneservice.cxx
+END
+moc_jamendodynamicplaylist.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_jamendodynamicplaylist.cxx
+END
+icecastbackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastbackend.cpp
+END
+internetview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetview.cpp
+END
+moc_groovesharksettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_groovesharksettingspage.cxx
+END
+magnatunedownloaddialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatunedownloaddialog.cpp
+END
+moc_internetservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_internetservice.cxx
+END
+lastfmcompat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmcompat.cpp
+END
+digitallyimportedservicebase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/digitallyimportedservicebase.cpp
+END
+somafmurlhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/somafmurlhandler.cpp
+END
+moc_internetmimedata.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_internetmimedata.cxx
+END
+digitallyimportedurlhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/digitallyimportedurlhandler.h
+END
+lastfmstationdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmstationdialog.h
+END
+moc_soundcloudservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_soundcloudservice.cxx
+END
+icecastfilterwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastfilterwidget.ui
+END
+magnatuneplaylistitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatuneplaylistitem.cpp
+END
+moc_somafmservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_somafmservice.cxx
+END
+moc_lastfmsettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_lastfmsettingspage.cxx
+END
+magnatunedownloaddialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatunedownloaddialog.ui
+END
+moc_digitallyimportedsettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_digitallyimportedsettingspage.cxx
+END
+digitallyimportedclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/digitallyimportedclient.cpp
+END
+moc_lastfmstationdialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_lastfmstationdialog.cxx
+END
+spotifyserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/spotifyserver.h
+END
+moc_spotifyservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_spotifyservice.cxx
+END
+icecastservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastservice.cpp
+END
+icecastitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastitem.h
+END
+soundcloudservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/soundcloudservice.cpp
+END
+moc_internetview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_internetview.cxx
+END
+moc_icecastfilterwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_icecastfilterwidget.cxx
+END
+somafmservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/somafmservice.cpp
+END
+digitallyimportedsettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/digitallyimportedsettingspage.cpp
+END
+magnatuneservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatuneservice.h
+END
+moc_oauthenticator.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_oauthenticator.cxx
+END
+moc_geolocator.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_geolocator.cxx
+END
+moc_jamendoservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_jamendoservice.cxx
+END
+moc_digitallyimportedservicebase.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_digitallyimportedservicebase.cxx
+END
+moc_somafmurlhandler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_somafmurlhandler.cxx
+END
+savedradio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/savedradio.cpp
+END
+moc_googledriveclient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_googledriveclient.cxx
+END
+moc_lastfmservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_lastfmservice.cxx
+END
+googledriveservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/googledriveservice.cpp
+END
+digitallyimportedclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/digitallyimportedclient.h
+END
+googledriveurlhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/googledriveurlhandler.h
+END
+moc_searchboxwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_searchboxwidget.cxx
+END
+jamendodynamicplaylist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/jamendodynamicplaylist.cpp
+END
+googledriveclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/googledriveclient.cpp
+END
+lastfmservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmservice.cpp
+END
+groovesharkradio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/groovesharkradio.cpp
+END
+lastfmurlhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmurlhandler.h
+END
+spotifyblobdownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/spotifyblobdownloader.h
+END
+spotifyservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/spotifyservice.h
+END
+googledrivesettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/googledrivesettingspage.cpp
+END
+savedradio.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/savedradio.h
+END
+moc_spotifysettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_spotifysettingspage.cxx
+END
+internetviewcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetviewcontainer.h
+END
+jamendoservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/jamendoservice.h
+END
+geolocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/geolocator.h
+END
+moc_internetviewcontainer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_internetviewcontainer.cxx
+END
+lastfmsettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmsettingspage.cpp
+END
+moc_magnatunedownloaddialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_magnatunedownloaddialog.cxx
+END
+digitallyimportedurlhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/digitallyimportedurlhandler.cpp
+END
+googledriveclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/googledriveclient.h
+END
+moc_magnatunesettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_magnatunesettingspage.cxx
+END
+groovesharkradio.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/groovesharkradio.h
+END
+spotifyservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/spotifyservice.cpp
+END
+groovesharkurlhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/groovesharkurlhandler.h
+END
+jamendoplaylistitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/jamendoplaylistitem.h
+END
+magnatuneplaylistitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatuneplaylistitem.h
+END
+internetviewcontainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetviewcontainer.cpp
+END
+oauthenticator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/oauthenticator.cpp
+END
+internetplaylistitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetplaylistitem.cpp
+END
+icecastmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastmodel.cpp
+END
+magnatunesettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatunesettingspage.cpp
+END
+jamendoservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/jamendoservice.cpp
+END
+geolocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/geolocator.cpp
+END
+magnatuneurlhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatuneurlhandler.cpp
+END
+icecastservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastservice.h
+END
+groovesharksettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/groovesharksettingspage.ui
+END
+moc_digitallyimportedclient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_digitallyimportedclient.cxx
+END
+moc_googledriveurlhandler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_googledriveurlhandler.cxx
+END
+soundcloudservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/soundcloudservice.h
+END
+spotifysettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/spotifysettingspage.ui
+END
+groovesharksettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/groovesharksettingspage.cpp
+END
+digitallyimportedsettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/digitallyimportedsettingspage.h
+END
+internetservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetservice.cpp
+END
+searchboxwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/searchboxwidget.ui
+END
+jamendoplaylistitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/jamendoplaylistitem.cpp
+END
+groovesharkservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/groovesharkservice.h
+END
+spotifysettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/spotifysettingspage.h
+END
+googledriveurlhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/googledriveurlhandler.cpp
+END
+moc_internetmodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_internetmodel.cxx
+END
+icecastbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastbackend.h
+END
+internetview.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetview.h
+END
+moc_groovesharkservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_groovesharkservice.cxx
+END
+moc_spotifyblobdownloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_spotifyblobdownloader.cxx
+END
+magnatunedownloaddialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatunedownloaddialog.h
+END
+fixlastfm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/fixlastfm.cpp
+END
+oauthenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/oauthenticator.h
+END
+internetplaylistitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetplaylistitem.h
+END
+digitallyimportedsettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/digitallyimportedsettingspage.ui
+END
+moc_icecastbackend.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_icecastbackend.cxx
+END
+magnatunesettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatunesettingspage.h
+END
+moc_spotifyserver.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_spotifyserver.cxx
+END
+lastfmstationdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmstationdialog.ui
+END
+lastfmurlhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmurlhandler.cpp
+END
+lastfmstationdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmstationdialog.cpp
+END
+somafmurlhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/somafmurlhandler.h
+END
+internetmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetmodel.cpp
+END
+jamendodynamicplaylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/jamendodynamicplaylist.h
+END
+moc_icecastmodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_icecastmodel.cxx
+END
+spotifyblobdownloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/spotifyblobdownloader.cpp
+END
+internetservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetservice.h
+END
+internetviewcontainer.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetviewcontainer.ui
+END
+spotifyserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/spotifyserver.cpp
+END
+icecastfilterwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/icecastfilterwidget.cpp
+END
+searchboxwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/searchboxwidget.h
+END
+googledrivesettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/googledrivesettingspage.h
+END
+moc_groovesharkurlhandler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_groovesharkurlhandler.cxx
+END
+internetmimedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetmimedata.h
+END
+magnatuneservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatuneservice.cpp
+END
+moc_googledrivesettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_googledrivesettingspage.cxx
+END
+fixlastfm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/fixlastfm.h
+END
+somafmservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/somafmservice.h
+END
+lastfmsettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/lastfmsettingspage.h
+END
+moc_icecastservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/internet/moc_icecastservice.cxx
+END
+groovesharkurlhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/groovesharkurlhandler.cpp
+END
+internetmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetmodel.h
+END
+googledrivesettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/googledrivesettingspage.ui
+END
+searchboxwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/searchboxwidget.cpp
+END
+internetsongmimedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/internetsongmimedata.h
+END
+magnatunesettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/internet/magnatunesettingspage.ui
+END

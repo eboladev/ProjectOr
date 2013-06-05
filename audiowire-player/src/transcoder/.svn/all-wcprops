@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/transcoder
+END
+moc_transcoder.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/transcoder/moc_transcoder.cxx
+END
+transcoderoptionsspeex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsspeex.cpp
+END
+transcoderoptionsaac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsaac.cpp
+END
+transcodersettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcodersettingspage.h
+END
+transcoderoptionswma.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionswma.h
+END
+transcodedialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcodedialog.ui
+END
+transcodelogdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcodelogdialog.ui
+END
+transcoderoptionsvorbis.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsvorbis.ui
+END
+transcoderoptionsmp3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsmp3.cpp
+END
+moc_transcodersettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/transcoder/moc_transcodersettingspage.cxx
+END
+transcoderoptionsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsdialog.cpp
+END
+transcoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoder.cpp
+END
+transcoderoptionsvorbis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsvorbis.cpp
+END
+transcoderoptionsinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsinterface.h
+END
+transcoderoptionsflac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsflac.cpp
+END
+transcodedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcodedialog.h
+END
+moc_transcodedialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/transcoder/moc_transcodedialog.cxx
+END
+transcoderoptionswma.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionswma.ui
+END
+transcodersettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcodersettingspage.cpp
+END
+transcoderoptionswma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionswma.cpp
+END
+transcoderoptionsspeex.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsspeex.h
+END
+transcoderoptionsaac.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsaac.h
+END
+transcoderoptionsmp3.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsmp3.ui
+END
+transcoderoptionsdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsdialog.ui
+END
+transcoderoptionsflac.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsflac.ui
+END
+transcodedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcodedialog.cpp
+END
+transcoderoptionsmp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsmp3.h
+END
+transcoderoptionsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsdialog.h
+END
+transcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoder.h
+END
+transcoderoptionsvorbis.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsvorbis.h
+END
+transcoderoptionsflac.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsflac.h
+END
+transcodersettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcodersettingspage.ui
+END
+moc_transcoderoptionsdialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/transcoder/moc_transcoderoptionsdialog.cxx
+END
+moc_transcoderoptionsmp3.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/transcoder/moc_transcoderoptionsmp3.cxx
+END
+transcoderoptionsspeex.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsspeex.ui
+END
+transcoderoptionsaac.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/transcoder/transcoderoptionsaac.ui
+END

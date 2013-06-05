@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts
+END
+podcast.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcast.h
+END
+gpoddersearchpage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/gpoddersearchpage.ui
+END
+moc_addpodcastbyurl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_addpodcastbyurl.cxx
+END
+podcastbackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastbackend.cpp
+END
+podcastdiscoverymodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastdiscoverymodel.cpp
+END
+podcastepisode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastepisode.cpp
+END
+podcastinfowidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastinfowidget.ui
+END
+gpoddersearchpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/gpoddersearchpage.h
+END
+addpodcastbyurl.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/addpodcastbyurl.ui
+END
+gpoddertoptagspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/gpoddertoptagspage.cpp
+END
+podcastservice.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastservice.h
+END
+addpodcastbyurl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/addpodcastbyurl.cpp
+END
+moc_gpoddertoptagsmodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_gpoddertoptagsmodel.cxx
+END
+gpoddersync.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/gpoddersync.h
+END
+podcastupdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastupdater.h
+END
+moc_podcastsettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_podcastsettingspage.cxx
+END
+addpodcastdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/addpodcastdialog.h
+END
+moc_podcastinfowidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_podcastinfowidget.cxx
+END
+podcastservicemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastservicemodel.h
+END
+gpoddertoptagsmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/gpoddertoptagsmodel.cpp
+END
+moc_itunessearchpage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_itunessearchpage.cxx
+END
+podcastbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastbackend.h
+END
+podcastsettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastsettingspage.cpp
+END
+podcastinfowidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastinfowidget.cpp
+END
+podcastservice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastservice.cpp
+END
+podcastparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastparser.h
+END
+podcastupdater.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastupdater.cpp
+END
+moc_podcastbackend.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_podcastbackend.cxx
+END
+itunessearchpage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/itunessearchpage.ui
+END
+addpodcastdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/addpodcastdialog.cpp
+END
+gpoddertoptagspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/gpoddertoptagspage.h
+END
+fixedopmlpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/fixedopmlpage.h
+END
+moc_gpoddertoptagspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_gpoddertoptagspage.cxx
+END
+moc_fixedopmlpage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_fixedopmlpage.cxx
+END
+addpodcastpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/addpodcastpage.cpp
+END
+podcastsettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastsettingspage.ui
+END
+podcasturlloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcasturlloader.cpp
+END
+podcastparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastparser.cpp
+END
+gpoddertoptagsmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/gpoddertoptagsmodel.h
+END
+opmlcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/opmlcontainer.h
+END
+podcastsettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastsettingspage.h
+END
+podcastdownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastdownloader.h
+END
+podcastinfowidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastinfowidget.h
+END
+fixedopmlpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/fixedopmlpage.cpp
+END
+moc_gpoddersearchpage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_gpoddersearchpage.cxx
+END
+moc_podcastdownloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_podcastdownloader.cxx
+END
+moc_podcastservice.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_podcastservice.cxx
+END
+podcast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcast.cpp
+END
+moc_gpoddersync.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_gpoddersync.cxx
+END
+itunessearchpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/itunessearchpage.h
+END
+moc_podcastupdater.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_podcastupdater.cxx
+END
+moc_addpodcastdialog.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_addpodcastdialog.cxx
+END
+gpoddersearchpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/gpoddersearchpage.cpp
+END
+addpodcastpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/addpodcastpage.h
+END
+podcastepisode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastepisode.h
+END
+podcastdiscoverymodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastdiscoverymodel.h
+END
+podcastdownloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastdownloader.cpp
+END
+podcasturlloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcasturlloader.h
+END
+moc_podcastservicemodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_podcastservicemodel.cxx
+END
+gpoddersync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/gpoddersync.cpp
+END
+addpodcastdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/addpodcastdialog.ui
+END
+moc_addpodcastpage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_addpodcastpage.cxx
+END
+moc_podcastdiscoverymodel.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_podcastdiscoverymodel.cxx
+END
+moc_podcasturlloader.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/podcasts/moc_podcasturlloader.cxx
+END
+addpodcastbyurl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/addpodcastbyurl.h
+END
+itunessearchpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/itunessearchpage.cpp
+END
+podcastservicemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/podcasts/podcastservicemodel.cpp
+END

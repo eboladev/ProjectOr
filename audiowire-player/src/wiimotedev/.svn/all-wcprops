@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/wiimotedev
+END
+wiimotesettingspage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/wiimotedev/wiimotesettingspage.ui
+END
+moc_wiimotesettingspage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/wiimotedev/moc_wiimotesettingspage.cxx
+END
+wiimoteshortcutgrabber.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/wiimotedev/wiimoteshortcutgrabber.ui
+END
+wiimotesettingspage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/wiimotedev/wiimotesettingspage.cpp
+END
+moc_shortcuts.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/wiimotedev/moc_shortcuts.cxx
+END
+moc_wiimoteshortcutgrabber.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/wiimotedev/moc_wiimoteshortcutgrabber.cxx
+END
+consts.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/wiimotedev/consts.h
+END
+shortcuts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/wiimotedev/shortcuts.cpp
+END
+wiimoteshortcutgrabber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/wiimotedev/wiimoteshortcutgrabber.cpp
+END
+wiimotesettingspage.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/wiimotedev/wiimotesettingspage.h
+END
+shortcuts.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/wiimotedev/shortcuts.h
+END
+wiimoteshortcutgrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/wiimotedev/wiimoteshortcutgrabber.h
+END

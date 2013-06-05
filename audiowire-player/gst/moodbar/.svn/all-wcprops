@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/gst/moodbar
+END
+gstmoodbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/moodbar/gstmoodbar.h
+END
+gstfftwspectrum.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/moodbar/gstfftwspectrum.c
+END
+spectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/moodbar/spectrum.h
+END
+01-fftw-plan-mutex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/moodbar/01-fftw-plan-mutex.patch
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/moodbar/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/gst/moodbar/Makefile
+END
+gstfftwspectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/moodbar/gstfftwspectrum.h
+END
+gstmoodbar.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/moodbar/gstmoodbar.c
+END
+spectrum.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/gst/moodbar/spectrum.c
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/gst/moodbar/cmake_install.cmake
+END

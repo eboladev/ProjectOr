@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob
+END
+spotify_utilities.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/spotify_utilities.mm
+END
+spotifyclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/spotifyclient.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/main.cpp
+END
+mediapipeline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/mediapipeline.cpp
+END
+spotify_utilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/spotify_utilities.cpp
+END
+mediapipeline.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/mediapipeline.h
+END
+spotifykey.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/spotifykey.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/CMakeLists.txt
+END
+spotifyclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/spotifyclient.cpp
+END
+spotify_utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/ext/clementine-spotifyblob/spotify_utilities.h
+END

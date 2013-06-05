@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/musicbrainz
+END
+moc_acoustidclient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/musicbrainz/moc_acoustidclient.cxx
+END
+acoustidclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/musicbrainz/acoustidclient.cpp
+END
+moc_tagfetcher.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/musicbrainz/moc_tagfetcher.cxx
+END
+musicbrainzclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/musicbrainz/musicbrainzclient.h
+END
+tagfetcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/musicbrainz/tagfetcher.cpp
+END
+chromaprinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/musicbrainz/chromaprinter.cpp
+END
+acoustidclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/musicbrainz/acoustidclient.h
+END
+tagfetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/musicbrainz/tagfetcher.h
+END
+chromaprinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/musicbrainz/chromaprinter.h
+END
+moc_musicbrainzclient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/musicbrainz/moc_musicbrainzclient.cxx
+END
+musicbrainzclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/musicbrainz/musicbrainzclient.cpp
+END

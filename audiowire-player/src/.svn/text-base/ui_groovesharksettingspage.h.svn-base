@@ -1,0 +1,127 @@
+/********************************************************************************
+** Form generated from reading UI file 'groovesharksettingspage.ui'
+**
+** Created: Wed Feb 20 06:22:03 2013
+**      by: Qt User Interface Compiler version 4.8.1
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_GROOVESHARKSETTINGSPAGE_H
+#define UI_GROOVESHARKSETTINGSPAGE_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QGridLayout>
+#include <QtGui/QGroupBox>
+#include <QtGui/QHeaderView>
+#include <QtGui/QLabel>
+#include <QtGui/QLineEdit>
+#include <QtGui/QPushButton>
+#include <QtGui/QSpacerItem>
+#include <QtGui/QVBoxLayout>
+#include <QtGui/QWidget>
+#include "widgets/loginstatewidget.h"
+
+QT_BEGIN_NAMESPACE
+
+class Ui_GroovesharkSettingsPage
+{
+public:
+    QVBoxLayout *verticalLayout_2;
+    LoginStateWidget *login_state;
+    QGroupBox *account_group;
+    QVBoxLayout *verticalLayout_3;
+    QWidget *login_container;
+    QGridLayout *gridLayout;
+    QLabel *username_label;
+    QLineEdit *username;
+    QLabel *password_label;
+    QLineEdit *password;
+    QPushButton *login;
+    QSpacerItem *verticalSpacer;
+
+    void setupUi(QWidget *GroovesharkSettingsPage)
+    {
+        if (GroovesharkSettingsPage->objectName().isEmpty())
+            GroovesharkSettingsPage->setObjectName(QString::fromUtf8("GroovesharkSettingsPage"));
+        GroovesharkSettingsPage->resize(480, 141);
+        verticalLayout_2 = new QVBoxLayout(GroovesharkSettingsPage);
+        verticalLayout_2->setObjectName(QString::fromUtf8("verticalLayout_2"));
+        login_state = new LoginStateWidget(GroovesharkSettingsPage);
+        login_state->setObjectName(QString::fromUtf8("login_state"));
+
+        verticalLayout_2->addWidget(login_state);
+
+        account_group = new QGroupBox(GroovesharkSettingsPage);
+        account_group->setObjectName(QString::fromUtf8("account_group"));
+        verticalLayout_3 = new QVBoxLayout(account_group);
+        verticalLayout_3->setObjectName(QString::fromUtf8("verticalLayout_3"));
+        login_container = new QWidget(account_group);
+        login_container->setObjectName(QString::fromUtf8("login_container"));
+        login_container->setEnabled(true);
+        gridLayout = new QGridLayout(login_container);
+        gridLayout->setContentsMargins(0, 0, 0, 0);
+        gridLayout->setObjectName(QString::fromUtf8("gridLayout"));
+        username_label = new QLabel(login_container);
+        username_label->setObjectName(QString::fromUtf8("username_label"));
+
+        gridLayout->addWidget(username_label, 1, 0, 1, 1);
+
+        username = new QLineEdit(login_container);
+        username->setObjectName(QString::fromUtf8("username"));
+
+        gridLayout->addWidget(username, 1, 1, 1, 1);
+
+        password_label = new QLabel(login_container);
+        password_label->setObjectName(QString::fromUtf8("password_label"));
+
+        gridLayout->addWidget(password_label, 2, 0, 1, 1);
+
+        password = new QLineEdit(login_container);
+        password->setObjectName(QString::fromUtf8("password"));
+        password->setEchoMode(QLineEdit::Password);
+
+        gridLayout->addWidget(password, 2, 1, 1, 2);
+
+        login = new QPushButton(login_container);
+        login->setObjectName(QString::fromUtf8("login"));
+
+        gridLayout->addWidget(login, 1, 2, 1, 1);
+
+
+        verticalLayout_3->addWidget(login_container);
+
+
+        verticalLayout_2->addWidget(account_group);
+
+        verticalSpacer = new QSpacerItem(20, 30, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout_2->addItem(verticalSpacer);
+
+
+        retranslateUi(GroovesharkSettingsPage);
+
+        QMetaObject::connectSlotsByName(GroovesharkSettingsPage);
+    } // setupUi
+
+    void retranslateUi(QWidget *GroovesharkSettingsPage)
+    {
+        GroovesharkSettingsPage->setWindowTitle(QApplication::translate("GroovesharkSettingsPage", "Grooveshark", 0, QApplication::UnicodeUTF8));
+        account_group->setTitle(QApplication::translate("GroovesharkSettingsPage", "Account details", 0, QApplication::UnicodeUTF8));
+        username_label->setText(QApplication::translate("GroovesharkSettingsPage", "Username", 0, QApplication::UnicodeUTF8));
+        password_label->setText(QApplication::translate("GroovesharkSettingsPage", "Password", 0, QApplication::UnicodeUTF8));
+        login->setText(QApplication::translate("GroovesharkSettingsPage", "Login", 0, QApplication::UnicodeUTF8));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class GroovesharkSettingsPage: public Ui_GroovesharkSettingsPage {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_GROOVESHARKSETTINGSPAGE_H

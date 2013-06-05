@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/smartplaylists
+END
+searchpreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/searchpreview.h
+END
+querygenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/querygenerator.cpp
+END
+moc_wizard.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/smartplaylists/moc_wizard.cxx
+END
+wizardplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/wizardplugin.h
+END
+moc_searchpreview.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/smartplaylists/moc_searchpreview.cxx
+END
+wizardfinishpage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/wizardfinishpage.ui
+END
+generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/generator.h
+END
+generatormimedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/generatormimedata.h
+END
+moc_wizardplugin.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/smartplaylists/moc_wizardplugin.cxx
+END
+wizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/wizard.cpp
+END
+searchterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/searchterm.h
+END
+searchpreview.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/searchpreview.ui
+END
+moc_generator.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/smartplaylists/moc_generator.cxx
+END
+searchtermwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/searchtermwidget.h
+END
+moc_generatormimedata.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/smartplaylists/moc_generatormimedata.cxx
+END
+searchpreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/searchpreview.cpp
+END
+generatorinserter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/generatorinserter.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/search.h
+END
+querywizardplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/querywizardplugin.h
+END
+moc_searchtermwidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/smartplaylists/moc_searchtermwidget.cxx
+END
+wizardplugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/wizardplugin.cpp
+END
+moc_generatorinserter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/smartplaylists/moc_generatorinserter.cxx
+END
+querygenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/querygenerator.h
+END
+querysearchpage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/querysearchpage.ui
+END
+moc_querywizardplugin.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2014/audiowire/!svn/ver/36/Perso/Player/src/smartplaylists/moc_querywizardplugin.cxx
+END
+generator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/generator.cpp
+END
+generator_fwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/generator_fwd.h
+END
+searchtermwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/searchtermwidget.ui
+END
+searchterm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/searchterm.cpp
+END
+searchtermwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/searchtermwidget.cpp
+END
+generatorinserter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/generatorinserter.cpp
+END
+wizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/wizard.h
+END
+search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/search.cpp
+END
+querywizardplugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/querywizardplugin.cpp
+END
+querysortpage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/2014/audiowire/!svn/ver/32/Perso/Player/src/smartplaylists/querysortpage.ui
+END
