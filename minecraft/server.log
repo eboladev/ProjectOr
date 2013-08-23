@@ -1,0 +1,71 @@
+2013-08-23 19:51:59 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 19:51:59 [INFO] Loading properties
+2013-08-23 19:51:59 [WARNING] server.properties does not exist
+2013-08-23 19:51:59 [INFO] Generating new properties file
+2013-08-23 19:51:59 [INFO] Default game type: SURVIVAL
+2013-08-23 19:51:59 [INFO] Generating keypair
+2013-08-23 19:51:59 [INFO] Starting Minecraft server on *:25565
+2013-08-23 19:51:59 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (Aucun fichier ou dossier de ce type)
+2013-08-23 19:51:59 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (Aucun fichier ou dossier de ce type)
+2013-08-23 19:51:59 [INFO] Preparing level "world"
+2013-08-23 19:51:59 [WARNING] Unable to find spawn biome
+2013-08-23 19:52:00 [INFO] Preparing start region for level 0
+2013-08-23 19:52:01 [INFO] Preparing spawn area: 16%
+2013-08-23 19:52:02 [INFO] Preparing spawn area: 37%
+2013-08-23 19:52:03 [INFO] Preparing spawn area: 56%
+2013-08-23 19:52:04 [INFO] Preparing spawn area: 79%
+2013-08-23 19:52:05 [INFO] Done (5,711s)! For help, type "help" or "?"
+2013-08-23 19:54:24 [INFO] Unknown command. Try /help for a list of commands
+2013-08-23 19:54:27 [INFO] Unknown command. Try /help for a list of commands
+2013-08-23 19:54:32 [INFO] Stopping server
+2013-08-23 19:54:41 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 19:54:41 [INFO] Loading properties
+2013-08-23 19:54:41 [INFO] Default game type: SURVIVAL
+2013-08-23 19:54:41 [INFO] Generating keypair
+2013-08-23 19:54:41 [INFO] Starting Minecraft server on *:25565
+2013-08-23 19:54:41 [INFO] Preparing level "world"
+2013-08-23 19:54:41 [INFO] Preparing start region for level 0
+2013-08-23 19:54:42 [INFO] Done (0,654s)! For help, type "help" or "?"
+2013-08-23 19:54:49 [INFO] Unknown command. Try /help for a list of commands
+2013-08-23 19:58:44 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 19:58:44 [INFO] Loading properties
+2013-08-23 19:58:44 [INFO] Default game type: SURVIVAL
+2013-08-23 19:58:44 [INFO] Generating keypair
+2013-08-23 19:58:44 [INFO] Starting Minecraft server on *:25565
+2013-08-23 19:58:44 [INFO] Preparing level "Mystt World"
+2013-08-23 19:58:44 [INFO] Preparing start region for level 0
+2013-08-23 19:58:45 [INFO] Preparing spawn area: 16%
+2013-08-23 19:58:46 [INFO] Preparing spawn area: 38%
+2013-08-23 19:58:47 [INFO] Preparing spawn area: 59%
+2013-08-23 19:58:48 [INFO] Preparing spawn area: 76%
+2013-08-23 19:58:49 [INFO] Preparing spawn area: 91%
+2013-08-23 19:58:50 [INFO] Done (5,738s)! For help, type "help" or "?"
+2013-08-23 20:00:53 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 20:00:57 [INFO] Disconnecting mystt [/92.155.193.181:50873]: You are not white-listed on this server!
+2013-08-23 20:00:58 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 20:01:00 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 20:01:10 [INFO] Disconnecting mystt [/92.155.193.181:50878]: You are not white-listed on this server!
+2013-08-23 20:01:11 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 20:01:12 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 20:01:42 [INFO] Unknown command. Try /help for a list of commands
+2013-08-23 20:01:45 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-08-23 20:01:45 [INFO] /ban <name> [reason ...]
+2013-08-23 20:01:45 [INFO] /ban-ip <address|name> [reason ...]
+2013-08-23 20:01:45 [INFO] /banlist [ips|players]
+2013-08-23 20:01:45 [INFO] /clear <player> [item] [data]
+2013-08-23 20:01:45 [INFO] /debug <start|stop>
+2013-08-23 20:01:45 [INFO] /defaultgamemode <mode>
+2013-08-23 20:01:45 [INFO] /deop <player>
+2013-08-23 20:02:00 [INFO] Stopping server
+2013-08-23 20:02:03 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 20:02:03 [INFO] Loading properties
+2013-08-23 20:02:03 [INFO] Default game type: SURVIVAL
+2013-08-23 20:02:03 [INFO] Generating keypair
+2013-08-23 20:02:03 [INFO] Starting Minecraft server on *:25565
+2013-08-23 20:02:03 [INFO] Preparing level "Mystt World"
+2013-08-23 20:02:03 [INFO] Preparing start region for level 0
+2013-08-23 20:02:04 [INFO] Done (0,706s)! For help, type "help" or "?"
+2013-08-23 20:02:14 [INFO] mystt[/92.155.193.181:50883] logged in with entity id 228 at (43.5, 69.0, 248.5)
+2013-08-23 20:02:14 [INFO] mystt joined the game
+2013-08-23 20:03:15 [INFO] mystt lost connection: disconnect.quitting
+2013-08-23 20:03:15 [INFO] mystt left the game
