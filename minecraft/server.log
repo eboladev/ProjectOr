@@ -69,3 +69,594 @@
 2013-08-23 20:02:14 [INFO] mystt joined the game
 2013-08-23 20:03:15 [INFO] mystt lost connection: disconnect.quitting
 2013-08-23 20:03:15 [INFO] mystt left the game
+2013-08-23 21:15:28 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 21:15:28 [INFO] Loading properties
+2013-08-23 21:15:28 [INFO] Default game type: SURVIVAL
+2013-08-23 21:15:28 [INFO] Generating keypair
+2013-08-23 21:15:28 [INFO] Starting Minecraft server on *:25565
+2013-08-23 21:15:28 [INFO] Preparing level "Mystt World"
+2013-08-23 21:15:29 [INFO] Preparing start region for level 0
+2013-08-23 21:15:29 [INFO] Done (0,744s)! For help, type "help" or "?"
+2013-08-23 21:18:54 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 21:18:54 [INFO] Loading properties
+2013-08-23 21:18:54 [INFO] Default game type: SURVIVAL
+2013-08-23 21:18:54 [INFO] Generating keypair
+2013-08-23 21:18:54 [INFO] Starting Minecraft server on *:25565
+2013-08-23 21:18:54 [INFO] Preparing level "Mystt World"
+2013-08-23 21:18:54 [INFO] Preparing start region for level 0
+2013-08-23 21:18:55 [INFO] Done (0,745s)! For help, type "help" or "?"
+2013-08-23 21:21:31 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 21:21:31 [INFO] Loading properties
+2013-08-23 21:21:31 [INFO] Default game type: SURVIVAL
+2013-08-23 21:21:31 [INFO] Generating keypair
+2013-08-23 21:21:31 [INFO] Starting Minecraft server on *:25565
+2013-08-23 21:21:31 [INFO] Preparing level "Mystt World"
+2013-08-23 21:21:31 [INFO] Preparing start region for level 0
+2013-08-23 21:21:32 [INFO] Done (0,749s)! For help, type "help" or "?"
+2013-08-23 21:21:41 [INFO] mystt[/92.155.193.181:52694] logged in with entity id 347 at (33.108991416127914, 64.0, 276.2907090591941)
+2013-08-23 21:21:41 [INFO] mystt joined the game
+2013-08-23 21:21:41 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:21:41 [INFO] MasterMyx [/86.212.34.22:16483] lost connection
+2013-08-23 21:21:41 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:21:43 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:21:43 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:21:43 [INFO] cebola [/5.48.162.108:54212] lost connection
+2013-08-23 21:21:45 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:21:45 [INFO] MasterMyx [/86.212.34.22:16487] lost connection
+2013-08-23 21:21:46 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:21:47 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:22:32 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 21:22:32 [INFO] Loading properties
+2013-08-23 21:22:32 [INFO] Default game type: SURVIVAL
+2013-08-23 21:22:32 [INFO] Generating keypair
+2013-08-23 21:22:33 [INFO] Starting Minecraft server on *:25565
+2013-08-23 21:22:33 [INFO] Preparing level "Mystt World"
+2013-08-23 21:22:33 [INFO] Preparing start region for level 0
+2013-08-23 21:22:33 [INFO] Done (0,744s)! For help, type "help" or "?"
+2013-08-23 21:22:36 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:22:38 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:22:38 [INFO] cebola [/5.48.162.108:54238] lost connection
+2013-08-23 21:22:39 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:22:40 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:22:42 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:22:42 [INFO] MasterMyx [/86.212.34.22:16507] lost connection
+2013-08-23 21:22:47 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:22:51 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:22:55 [INFO] Stopping server
+2013-08-23 21:23:45 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 21:23:45 [INFO] Loading properties
+2013-08-23 21:23:45 [INFO] Default game type: SURVIVAL
+2013-08-23 21:23:45 [INFO] Generating keypair
+2013-08-23 21:23:46 [INFO] Starting Minecraft server on *:25565
+2013-08-23 21:23:46 [INFO] Preparing level "Mystt World"
+2013-08-23 21:23:46 [INFO] Preparing start region for level 0
+2013-08-23 21:23:46 [INFO] Done (0,741s)! For help, type "help" or "?"
+2013-08-23 21:23:47 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:23:49 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:23:49 [INFO] cebola [/5.48.162.108:54263] lost connection
+2013-08-23 21:23:49 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:23:49 [INFO] MasterMyx [/86.212.34.22:16518] lost connection
+2013-08-23 21:23:50 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:23:50 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:23:51 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 21:23:52 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:23:53 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:23:53 [INFO] MasterMyx [/86.212.34.22:16526] lost connection
+2013-08-23 21:23:54 [INFO] Ushushe[/67.11.34.202:51622] logged in with entity id 349 at (41.5, 75.0, 248.5)
+2013-08-23 21:23:54 [INFO] Ushushe joined the game
+2013-08-23 21:23:55 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:23:56 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:23:56 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:23:56 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:23:59 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:24:01 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:24:01 [INFO] cebola [/5.48.162.108:54271] lost connection
+2013-08-23 21:24:02 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:24:36 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 21:24:36 [INFO] Loading properties
+2013-08-23 21:24:36 [INFO] Default game type: SURVIVAL
+2013-08-23 21:24:36 [INFO] Generating keypair
+2013-08-23 21:24:36 [INFO] Starting Minecraft server on *:25565
+2013-08-23 21:24:36 [INFO] Preparing level "Mystt World"
+2013-08-23 21:24:36 [INFO] Preparing start region for level 0
+2013-08-23 21:24:37 [INFO] Done (0,747s)! For help, type "help" or "?"
+2013-08-23 21:24:40 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 21:24:48 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:24:49 [INFO] mystt[/92.155.193.181:52711] logged in with entity id 357 at (32.8560617013945, 63.0, 274.1795583575901)
+2013-08-23 21:24:49 [INFO] mystt joined the game
+2013-08-23 21:24:49 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:24:51 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:24:51 [INFO] cebola [/5.48.162.108:54293] lost connection
+2013-08-23 21:24:51 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:24:51 [INFO] MasterMyx [/86.212.34.22:16581] lost connection
+2013-08-23 21:24:52 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:24:53 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:24:59 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 21:25:01 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:01 [INFO] MasterMyx [/86.212.34.22:16587] lost connection
+2013-08-23 21:25:02 [INFO] Ushushe[/67.11.34.202:51632] logged in with entity id 445 at (41.181626501739885, 75.0, 248.4050042275135)
+2013-08-23 21:25:02 [INFO] Ushushe joined the game
+2013-08-23 21:25:02 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:03 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:03 [INFO] MasterMyx [/86.212.34.22:16591] lost connection
+2013-08-23 21:25:04 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:05 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:05 [INFO] MasterMyx [/86.212.34.22:16595] lost connection
+2013-08-23 21:25:06 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:07 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:07 [INFO] MasterMyx [/86.212.34.22:16599] lost connection
+2013-08-23 21:25:08 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:09 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:09 [INFO] MasterMyx [/86.212.34.22:16603] lost connection
+2013-08-23 21:25:10 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:11 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:11 [INFO] MasterMyx [/86.212.34.22:16608] lost connection
+2013-08-23 21:25:12 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:23 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:24 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:24 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:24 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:25:27 [INFO] mystt lost connection: disconnect.quitting
+2013-08-23 21:25:27 [INFO] mystt left the game
+2013-08-23 21:25:29 [INFO] Stopping server
+2013-08-23 21:25:44 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 21:25:44 [INFO] Loading properties
+2013-08-23 21:25:44 [INFO] Default game type: SURVIVAL
+2013-08-23 21:25:44 [INFO] Generating keypair
+2013-08-23 21:25:44 [INFO] Starting Minecraft server on *:25565
+2013-08-23 21:25:44 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-23 21:25:44 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-23 21:25:44 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-23 21:25:44 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-23 21:25:44 [INFO] Preparing level "Mystt World"
+2013-08-23 21:25:44 [INFO] Preparing start region for level 0
+2013-08-23 21:25:45 [INFO] Done (0,756s)! For help, type "help" or "?"
+2013-08-23 21:25:45 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:25:46 [INFO] MasterMyx[/86.212.34.22:16623] logged in with entity id 361 at (52.5, 68.0, 248.5)
+2013-08-23 21:25:46 [INFO] MasterMyx joined the game
+2013-08-23 21:25:48 [INFO] cebola[/5.48.162.108:54310] logged in with entity id 425 at (47.5, 72.0, 260.5)
+2013-08-23 21:25:48 [INFO] cebola joined the game
+2013-08-23 21:25:49 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 21:25:50 [INFO] mystt[/92.155.193.181:52729] logged in with entity id 589 at (32.99504877444056, 64.0, 275.360732172308)
+2013-08-23 21:25:50 [INFO] mystt joined the game
+2013-08-23 21:25:50 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 21:25:53 [INFO] <cebola> coucou
+2013-08-23 21:25:54 [INFO] Ushushe[/67.11.34.202:51638] logged in with entity id 618 at (41.416685402150485, 75.0, 248.68555016829387)
+2013-08-23 21:25:54 [INFO] Ushushe joined the game
+2013-08-23 21:27:37 [INFO] MasterMyx was slain by Spider
+2013-08-23 21:27:53 [INFO] cebola lost connection: disconnect.quitting
+2013-08-23 21:27:53 [INFO] cebola left the game
+2013-08-23 21:28:40 [INFO] MasterMyx lost connection: disconnect.genericReason
+2013-08-23 21:28:40 [INFO] MasterMyx left the game
+2013-08-23 21:28:45 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 21:29:50 [INFO] Ushushe was shot by Skeleton
+2013-08-23 21:30:32 [INFO] mystt was shot by Skeleton
+2013-08-23 21:30:44 [INFO] Ushushe was shot by Skeleton
+2013-08-23 21:31:36 [INFO] mystt was slain by Zombie
+2013-08-23 21:33:16 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 21:33:18 [INFO] MasterMyx[/86.212.34.22:16992] logged in with entity id 6661 at (29.68802572202689, 62.0, 268.5190070552364)
+2013-08-23 21:33:18 [INFO] MasterMyx joined the game
+2013-08-23 21:33:33 [INFO] MasterMyx was blown up by Creeper
+2013-08-23 21:34:28 [INFO] MasterMyx was slain by Spider
+2013-08-23 21:35:15 [INFO] mystt was slain by Zombie
+2013-08-23 21:35:30 [INFO] Ushushe was slain by Zombie
+2013-08-23 21:47:54 [INFO] Ushushe was slain by Zombie
+2013-08-23 21:48:50 [INFO] MasterMyx was slain by Zombie
+2013-08-23 21:48:57 [INFO] mystt was slain by Zombie
+2013-08-23 21:49:00 [INFO] Ushushe was slain by Zombie
+2013-08-23 21:49:27 [INFO] mystt was slain by Spider
+2013-08-23 21:50:00 [INFO] MasterMyx was shot by Skeleton
+2013-08-23 21:50:26 [INFO] Ushushe was slain by Spider
+2013-08-23 21:51:18 [INFO] mystt was slain by Zombie
+2013-08-23 21:51:29 [INFO] Ushushe was slain by Zombie
+2013-08-23 21:52:02 [INFO] mystt was slain by Zombie
+2013-08-23 21:52:09 [INFO] [mystt: Set the time to 0]
+2013-08-23 21:52:13 [INFO] mystt was slain by Zombie
+2013-08-23 21:52:19 [INFO] mystt lost connection: disconnect.quitting
+2013-08-23 21:52:19 [INFO] mystt left the game
+2013-08-23 21:52:32 [INFO] MasterMyx was slain by Spider
+2013-08-23 21:52:56 [INFO] MasterMyx was slain by Zombie
+2013-08-23 21:53:02 [INFO] Ushushe was shot by Skeleton
+2013-08-23 21:53:16 [INFO] MasterMyx was blown up by Creeper
+2013-08-23 21:54:12 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 21:54:13 [INFO] mystt[/92.155.193.181:52776] logged in with entity id 28703 at (54.00899511164888, 68.0, 265.1911521722492)
+2013-08-23 21:54:13 [INFO] mystt joined the game
+2013-08-23 21:55:40 [INFO] mystt lost connection: disconnect.quitting
+2013-08-23 21:55:40 [INFO] mystt left the game
+2013-08-23 21:55:41 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 21:55:42 [INFO] mystt[/92.155.193.181:52785] logged in with entity id 30334 at (-14.029964651639219, 64.0, 174.6070639159933)
+2013-08-23 21:55:42 [INFO] mystt joined the game
+2013-08-23 22:06:58 [INFO] MasterMyx was slain by Ushushe
+2013-08-23 22:07:08 [INFO] mystt was slain by Ushushe
+2013-08-23 22:07:48 [INFO] Ushushe was slain by mystt
+2013-08-23 22:08:45 [INFO] MasterMyx was slain by mystt
+2013-08-23 22:09:20 [INFO] MasterMyx was blown up by Creeper
+2013-08-23 22:10:14 [INFO] mystt was slain by Zombie
+2013-08-23 22:10:52 [INFO] mystt was slain by Zombie
+2013-08-23 22:11:49 [INFO] Ushushe was slain by MasterMyx
+2013-08-23 22:13:59 [INFO] mystt was slain by Spider
+2013-08-23 22:22:41 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 22:22:43 [INFO] cebola[/5.48.162.108:54567] logged in with entity id 58995 at (33.02601645785351, 64.0, 277.69999998807907)
+2013-08-23 22:22:43 [INFO] cebola joined the game
+2013-08-23 22:22:56 [INFO] cebola lost connection: disconnect.quitting
+2013-08-23 22:22:56 [INFO] cebola left the game
+2013-08-23 22:22:59 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 22:23:03 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 22:23:03 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-23 22:23:03 [INFO] MasterMyx left the game
+2013-08-23 22:23:06 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 22:23:06 [INFO] Ushushe left the game
+2013-08-23 22:23:10 [INFO] cebola[/5.48.162.108:54574] logged in with entity id 59345 at (21.385843405747945, 69.0, 276.2655752487033)
+2013-08-23 22:23:10 [INFO] cebola joined the game
+2013-08-23 22:23:10 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 22:23:12 [INFO] Ushushe[/67.11.34.202:51880] logged in with entity id 59715 at (-8.173438049431466, 64.5625, 181.69999998807904)
+2013-08-23 22:23:12 [INFO] Ushushe joined the game
+2013-08-23 22:23:30 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 22:23:33 [INFO] MasterMyx[/86.212.34.22:17720] logged in with entity id 59959 at (-59.49642993286846, 63.0, 203.63178067586387)
+2013-08-23 22:23:33 [INFO] MasterMyx joined the game
+2013-08-23 22:24:57 [INFO] Ushushe fell from a high place
+2013-08-23 22:28:17 [INFO] mystt drowned
+2013-08-23 22:34:18 [INFO] cebola lost connection: disconnect.quitting
+2013-08-23 22:34:18 [INFO] cebola left the game
+2013-08-23 22:34:19 [INFO] <MasterMyx> zde
+2013-08-23 22:34:21 [INFO] <MasterMyx> qsdqd
+2013-08-23 22:34:22 [INFO] <MasterMyx> dsfdsqfdqs
+2013-08-23 22:34:22 [INFO] <MasterMyx> fqs
+2013-08-23 22:34:22 [INFO] <MasterMyx> df
+2013-08-23 22:34:22 [INFO] <MasterMyx> dqs
+2013-08-23 22:34:22 [INFO] <MasterMyx> fqsd
+2013-08-23 22:34:25 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 22:34:25 [INFO] Ushushe left the game
+2013-08-23 22:34:26 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 22:34:26 [INFO] mystt lost connection: disconnect.quitting
+2013-08-23 22:34:26 [INFO] mystt left the game
+2013-08-23 22:34:31 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 22:34:31 [INFO] cebola[/5.48.162.108:54592] logged in with entity id 71977 at (-10.942062280603091, 64.0, 174.71425173823457)
+2013-08-23 22:34:31 [INFO] cebola joined the game
+2013-08-23 22:34:32 [INFO] mystt[/92.155.193.181:52832] logged in with entity id 72081 at (-9.769389970577677, 64.0, 180.59183274865097)
+2013-08-23 22:34:32 [INFO] mystt joined the game
+2013-08-23 22:34:33 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 22:34:36 [INFO] Ushushe[/67.11.34.202:51928] logged in with entity id 72094 at (-10.953019152504483, 64.0, 178.70167294221966)
+2013-08-23 22:34:36 [INFO] Ushushe joined the game
+2013-08-23 22:38:16 [INFO] MasterMyx lost connection: disconnect.genericReason
+2013-08-23 22:38:16 [INFO] MasterMyx left the game
+2013-08-23 22:38:29 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 22:38:31 [INFO] MasterMyx[/86.212.34.22:17812] logged in with entity id 76346 at (115.57236844323454, 64.0, 126.32228905560231)
+2013-08-23 22:38:31 [INFO] MasterMyx joined the game
+2013-08-23 22:45:03 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 22:45:06 [INFO] Garanduil[/67.11.34.202:64635] logged in with entity id 83679 at (46.5, 67.0, 254.5)
+2013-08-23 22:45:06 [INFO] Garanduil joined the game
+2013-08-23 22:46:41 [INFO] mystt lost connection: disconnect.quitting
+2013-08-23 22:46:41 [INFO] mystt left the game
+2013-08-23 22:47:39 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 22:47:39 [INFO] Ushushe left the game
+2013-08-23 22:47:47 [INFO] <cebola> zzz
+2013-08-23 22:48:05 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 22:48:10 [INFO] cebola lost connection: disconnect.quitting
+2013-08-23 22:48:10 [INFO] cebola left the game
+2013-08-23 22:48:29 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 22:48:30 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 22:48:34 [INFO] Ushushe[/67.11.34.202:52003] logged in with entity id 86848 at (-13.368727105739488, 64.0, 179.06140694193974)
+2013-08-23 22:48:34 [INFO] Ushushe joined the game
+2013-08-23 22:49:47 [INFO] Garanduil was shot by Skeleton
+2013-08-23 22:50:19 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 22:50:21 [INFO] mystt[/92.155.193.181:52848] logged in with entity id 88046 at (-8.857439722545841, 64.0, 179.9049332951909)
+2013-08-23 22:50:21 [INFO] mystt joined the game
+2013-08-23 22:53:31 [INFO] MasterMyx was shot by Skeleton
+2013-08-23 22:53:38 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-23 22:53:38 [INFO] Garanduil left the game
+2013-08-23 22:53:45 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 22:53:45 [INFO] Ushushe left the game
+2013-08-23 22:54:19 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 22:54:20 [INFO] cebola[/5.48.162.108:55197] logged in with entity id 90625 at (-8.5, 64.0, 180.5)
+2013-08-23 22:54:20 [INFO] cebola joined the game
+2013-08-23 22:57:23 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 22:57:25 [INFO] Garanduil[/67.11.34.202:51993] logged in with entity id 93464 at (-60.507627760528514, 64.0, 203.02673562154624)
+2013-08-23 22:57:25 [INFO] Garanduil joined the game
+2013-08-23 22:57:38 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-23 22:57:38 [INFO] Garanduil left the game
+2013-08-23 22:58:02 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 22:58:05 [INFO] Garanduil[/67.11.34.202:52148] logged in with entity id 94191 at (-60.32742734653005, 64.0, 203.69999998807907)
+2013-08-23 22:58:05 [INFO] Garanduil joined the game
+2013-08-23 23:02:40 [INFO] mystt starved to death
+2013-08-23 23:02:57 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 23:02:59 [INFO] Ushushe[/67.11.34.202:52814] logged in with entity id 98767 at (-9.207322751304101, 64.0, 180.24174664490727)
+2013-08-23 23:02:59 [INFO] Ushushe joined the game
+2013-08-23 23:03:24 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 23:03:24 [INFO] Ushushe left the game
+2013-08-23 23:03:27 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 23:03:28 [INFO] Ushushe[/67.11.34.202:52826] logged in with entity id 99286 at (-11.657682292671677, 41.0, 206.5561876803852)
+2013-08-23 23:03:28 [INFO] Ushushe joined the game
+2013-08-23 23:03:37 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 23:03:37 [INFO] Ushushe left the game
+2013-08-23 23:03:42 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 23:03:45 [INFO] Ushushe[/67.11.34.202:52828] logged in with entity id 99445 at (-12.298923876017104, 41.0, 207.95156347784805)
+2013-08-23 23:03:45 [INFO] Ushushe joined the game
+2013-08-23 23:04:48 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-23 23:04:48 [INFO] MasterMyx left the game
+2013-08-23 23:04:49 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 23:04:50 [INFO] MasterMyx[/86.212.34.22:17960] logged in with entity id 100355 at (-39.93765693812415, 64.0, 175.84494389691537)
+2013-08-23 23:04:50 [INFO] MasterMyx joined the game
+2013-08-23 23:05:12 [INFO] mystt lost connection: disconnect.quitting
+2013-08-23 23:05:12 [INFO] mystt left the game
+2013-08-23 23:05:13 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 23:05:14 [INFO] mystt[/92.155.193.181:52921] logged in with entity id 100850 at (-12.88408910251625, 41.0, 211.5821444954685)
+2013-08-23 23:05:14 [INFO] mystt joined the game
+2013-08-23 23:05:19 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 23:05:19 [INFO] Ushushe left the game
+2013-08-23 23:05:20 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 23:05:21 [INFO] Ushushe[/67.11.34.202:52836] logged in with entity id 101014 at (-12.633776256660358, 41.0, 207.00250226660972)
+2013-08-23 23:05:21 [INFO] Ushushe joined the game
+2013-08-23 23:05:47 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 23:05:47 [INFO] Ushushe left the game
+2013-08-23 23:07:51 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 23:07:53 [INFO] Ushushe[/67.11.34.202:53012] logged in with entity id 102908 at (1.398617718111152, 50.0, 193.080396569084)
+2013-08-23 23:07:53 [INFO] Ushushe joined the game
+2013-08-23 23:09:28 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 23:09:28 [INFO] Ushushe left the game
+2013-08-23 23:09:30 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 23:09:31 [INFO] Ushushe[/67.11.34.202:53030] logged in with entity id 103855 at (-10.401420937253711, 64.0, 179.14199679093352)
+2013-08-23 23:09:31 [INFO] Ushushe joined the game
+2013-08-23 23:12:00 [INFO] Ushushe starved to death
+2013-08-23 23:16:20 [INFO] [mystt: Set own game mode to Creative Mode]
+2013-08-23 23:16:32 [INFO] mystt fell out of the world
+2013-08-23 23:17:24 [INFO] MasterMyx fell from a high place
+2013-08-23 23:20:27 [INFO] MasterMyx was shot by cebola
+2013-08-23 23:24:14 [INFO] Ushushe starved to death
+2013-08-23 23:24:40 [INFO] MasterMyx was shot by cebola
+2013-08-23 23:26:35 [INFO] cebola lost connection: disconnect.quitting
+2013-08-23 23:26:35 [INFO] cebola left the game
+2013-08-23 23:27:04 [INFO] [mystt: Given Oak Wood (ID 17) * 64 to mystt]
+2013-08-23 23:27:26 [INFO] [mystt: Given Bed (ID 355) * 1 to mystt]
+2013-08-23 23:28:18 [INFO] Ushushe was slain by Zombie
+2013-08-23 23:28:39 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 23:28:58 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 23:29:11 [INFO] MasterMyx was slain by Zombie
+2013-08-23 23:29:15 [INFO] Ushushe was slain by Spider
+2013-08-23 23:29:20 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-23 23:29:20 [INFO] Ushushe left the game
+2013-08-23 23:29:49 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 23:33:31 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-23 23:33:31 [INFO] MasterMyx left the game
+2013-08-23 23:33:32 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 23:33:33 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 23:33:36 [INFO] MasterMyx[/86.212.34.22:18080] logged in with entity id 127562 at (-47.69999998807908, 55.0, 205.69999998807907)
+2013-08-23 23:33:36 [INFO] MasterMyx joined the game
+2013-08-23 23:33:36 [INFO] Ushushe[/67.11.34.202:53167] logged in with entity id 127591 at (45.5, 71.0, 258.5)
+2013-08-23 23:33:36 [INFO] Ushushe joined the game
+2013-08-23 23:35:08 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-23 23:35:08 [INFO] MasterMyx left the game
+2013-08-23 23:35:09 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 23:35:10 [INFO] MasterMyx[/86.212.34.22:18090] logged in with entity id 129281 at (-35.405027075325556, 64.0, 183.81580843618022)
+2013-08-23 23:35:10 [INFO] MasterMyx joined the game
+2013-08-23 23:35:36 [INFO] mystt lost connection: disconnect.quitting
+2013-08-23 23:35:36 [INFO] mystt left the game
+2013-08-23 23:35:49 [INFO] MasterMyx lost connection: disconnect.genericReason
+2013-08-23 23:35:49 [INFO] MasterMyx left the game
+2013-08-23 23:35:57 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 23:36:02 [INFO] MasterMyx[/86.212.34.22:18107] logged in with entity id 130383 at (-23.33951229327452, 64.0, 167.13530877317328)
+2013-08-23 23:36:02 [INFO] MasterMyx joined the game
+2013-08-23 23:38:04 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 23:38:16 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 23:38:18 [INFO] cebola[/5.48.162.108:55334] logged in with entity id 135484 at (86.72360168515544, 73.0, 413.7584480395216)
+2013-08-23 23:38:18 [INFO] cebola joined the game
+2013-08-23 23:38:31 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 23:38:33 [INFO] mystt[/92.155.193.181:53020] logged in with entity id 136629 at (76.10411800852238, 8.529367595578465, 208.6106721292791)
+2013-08-23 23:38:33 [INFO] mystt joined the game
+2013-08-23 23:39:45 [INFO] Stopping server
+2013-08-23 23:39:54 [INFO] Starting minecraft server version 1.6.2
+2013-08-23 23:39:54 [INFO] Loading properties
+2013-08-23 23:39:54 [INFO] Default game type: SURVIVAL
+2013-08-23 23:39:54 [INFO] Generating keypair
+2013-08-23 23:39:55 [INFO] Starting Minecraft server on *:25565
+2013-08-23 23:39:55 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-23 23:39:55 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-23 23:39:55 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-23 23:39:55 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-23 23:39:55 [INFO] Preparing level "Mystt World"
+2013-08-23 23:39:55 [INFO] Preparing start region for level 0
+2013-08-23 23:39:56 [INFO] Done (0,780s)! For help, type "help" or "?"
+2013-08-23 23:39:56 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-23 23:39:58 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-23 23:39:59 [INFO] Ushushe[/67.11.34.202:53213] logged in with entity id 483 at (-107.98652921743263, 73.0, 580.0110891306161)
+2013-08-23 23:39:59 [INFO] Ushushe joined the game
+2013-08-23 23:39:59 [INFO] mystt[/92.155.193.181:53024] logged in with entity id 1097 at (76.10411800852238, 6.0, 208.6106721292791)
+2013-08-23 23:39:59 [INFO] mystt joined the game
+2013-08-23 23:40:00 [INFO] Garanduil[/67.11.34.202:65140] logged in with entity id 1510 at (-15.133333114891643, 27.0, 183.8261663214818)
+2013-08-23 23:40:00 [INFO] Garanduil joined the game
+2013-08-23 23:40:01 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 23:40:02 [INFO] Galterro[/92.155.193.181:51344] logged in with entity id 2336 at (56.5, 75.0, 249.5)
+2013-08-23 23:40:02 [INFO] Galterro joined the game
+2013-08-23 23:40:02 [INFO] MasterMyx[/86.212.34.22:18149] logged in with entity id 2448 at (103.7772975964526, 63.44160175522787, -44.30000001192096)
+2013-08-23 23:40:02 [INFO] MasterMyx joined the game
+2013-08-23 23:40:13 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-23 23:40:15 [INFO] cebola[/5.48.162.108:55354] logged in with entity id 2805 at (154.73676224020048, 62.76636799395752, 420.3004425094161)
+2013-08-23 23:40:15 [INFO] cebola joined the game
+2013-08-23 23:41:51 [INFO] MasterMyx starved to death
+2013-08-23 23:42:39 [INFO] [mystt: Teleported Galterro to mystt]
+2013-08-23 23:44:48 [INFO] Galterro was slain by Enderman
+2013-08-23 23:45:14 [INFO] [mystt: Teleported Galterro to mystt]
+2013-08-23 23:45:32 [INFO] MasterMyx was slain by Garanduil
+2013-08-23 23:45:43 [INFO] cebola was slain by Zombie
+2013-08-23 23:45:48 [INFO] <MasterMyx> dsfsqdf
+2013-08-23 23:46:34 [INFO] MasterMyx was slain by Zombie
+2013-08-23 23:46:42 [INFO] <cebola> azfazefaezfaefqe
+2013-08-23 23:50:07 [INFO] cebola was slain by Zombie
+2013-08-23 23:51:01 [INFO] cebola was slain by Zombie
+2013-08-23 23:52:22 [INFO] cebola was slain by Garanduil
+2013-08-23 23:52:37 [INFO] <MasterMyx> pd
+2013-08-23 23:53:27 [INFO] cebola was slain by Zombie
+2013-08-23 23:54:38 [INFO] MasterMyx tried to swim in lava
+2013-08-23 23:54:44 [INFO] <mystt> xd
+2013-08-23 23:55:38 [INFO] MasterMyx lost connection: disconnect.genericReason
+2013-08-23 23:55:38 [INFO] MasterMyx left the game
+2013-08-23 23:55:43 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-23 23:55:46 [INFO] MasterMyx[/86.212.34.22:18281] logged in with entity id 34374 at (-86.69999998807907, 5.696269132438109, 203.48967509692443)
+2013-08-23 23:55:46 [INFO] MasterMyx joined the game
+2013-08-23 23:55:51 [INFO] Garanduil tried to swim in lava to escape cebola
+2013-08-23 23:55:58 [INFO] <cebola> :)
+2013-08-23 23:56:10 [INFO] <MasterMyx> "la cest la fin"
+2013-08-23 23:56:39 [INFO] cebola was blown up by Creeper
+2013-08-23 23:57:44 [INFO] Garanduil was doomed to fall by cebola
+2013-08-23 23:57:54 [INFO] cebola was doomed to fall by Garanduil
+2013-08-23 23:58:10 [INFO] MasterMyx tried to swim in lava
+2013-08-23 23:58:41 [INFO] Garanduil was slain by cebola
+2013-08-23 23:58:45 [INFO] <cebola> trop fort pour toi
+2013-08-23 23:59:03 [INFO] cebola lost connection: disconnect.quitting
+2013-08-23 23:59:03 [INFO] cebola left the game
+2013-08-23 23:59:58 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 00:00:00 [INFO] cebola[/5.48.162.108:55387] logged in with entity id 41774 at (34.28401107631015, 69.0, 171.58753592503635)
+2013-08-24 00:00:00 [INFO] cebola joined the game
+2013-08-24 00:02:40 [INFO] cebola was blown up by Creeper
+2013-08-24 00:02:47 [INFO] cebola lost connection: disconnect.quitting
+2013-08-24 00:02:47 [INFO] cebola left the game
+2013-08-24 00:02:48 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 00:02:50 [INFO] cebola[/5.48.162.108:55395] logged in with entity id 48698 at (321.1330170480369, 61.0, 54.022784007161775)
+2013-08-24 00:02:50 [INFO] cebola joined the game
+2013-08-24 00:05:22 [INFO] <MasterMyx> vous etes aller loins?
+2013-08-24 00:05:31 [INFO] <mystt> Je suis paumé
+2013-08-24 00:05:38 [INFO] <Ushushe> jme suis casse a 15km
+2013-08-24 00:05:45 [INFO] <Ushushe> jai marche pendant 2 jours
+2013-08-24 00:05:59 [INFO] cebola went up in flames
+2013-08-24 00:06:43 [INFO] MasterMyx lost connection: disconnect.genericReason
+2013-08-24 00:06:43 [INFO] MasterMyx left the game
+2013-08-24 00:06:49 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-24 00:06:50 [INFO] MasterMyx[/86.212.34.22:18886] logged in with entity id 55708 at (5.86670206676964, 63.0, 72.3612920019563)
+2013-08-24 00:06:50 [INFO] MasterMyx joined the game
+2013-08-24 00:10:26 [INFO] Garanduil was slain by Zombie
+2013-08-24 00:10:40 [INFO] MasterMyx was slain by Zombie
+2013-08-24 00:10:46 [INFO] Garanduil was slain by Zombie
+2013-08-24 00:11:21 [INFO] [mystt: Given Diamond Sword (ID 276) * 1 to Garanduil]
+2013-08-24 00:11:39 [INFO] [mystt: Given Diamond Pickaxe (ID 278) * 1 to MasterMyx]
+2013-08-24 00:12:06 [INFO] Garanduil was shot by Skeleton
+2013-08-24 00:12:23 [INFO] MasterMyx was slain by Zombie
+2013-08-24 00:12:26 [INFO] Garanduil was slain by Zombie
+2013-08-24 00:13:13 [INFO] [mystt: Set own game mode to Survival Mode]
+2013-08-24 00:13:47 [INFO] MasterMyx was shot by Skeleton
+2013-08-24 00:13:54 [INFO] Garanduil was slain by Zombie
+2013-08-24 00:14:07 [INFO] [mystt: Set own game mode to Creative Mode]
+2013-08-24 00:15:24 [INFO] Garanduil was slain by Zombie
+2013-08-24 00:21:42 [INFO] cebola starved to death
+2013-08-24 00:24:21 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 00:24:21 [INFO] mystt left the game
+2013-08-24 00:25:11 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 00:25:14 [INFO] mystt[/92.155.193.181:53070] logged in with entity id 91813 at (130.69999998807907, 1.0, 207.33749251309655)
+2013-08-24 00:25:14 [INFO] mystt joined the game
+2013-08-24 00:48:52 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-24 00:48:52 [INFO] Ushushe left the game
+2013-08-24 00:55:00 [INFO] cebola was shot by Skeleton
+2013-08-24 01:00:49 [INFO] [mystt: Teleported Galterro to mystt]
+2013-08-24 01:04:01 [INFO] cebola fell from a high place
+2013-08-24 01:06:20 [INFO] cebola was shot by Skeleton
+2013-08-24 01:06:25 [INFO] cebola lost connection: disconnect.quitting
+2013-08-24 01:06:25 [INFO] cebola left the game
+2013-08-24 01:06:26 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 01:13:47 [INFO] Galterro lost connection: disconnect.quitting
+2013-08-24 01:13:47 [INFO] Galterro left the game
+2013-08-24 01:18:12 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-24 01:18:12 [INFO] MasterMyx left the game
+2013-08-24 01:22:38 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 01:22:38 [INFO] mystt left the game
+2013-08-24 01:23:50 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 01:23:50 [INFO] Garanduil left the game
+2013-08-24 01:24:01 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 01:24:01 [INFO] Loading properties
+2013-08-24 01:24:01 [INFO] Default game type: SURVIVAL
+2013-08-24 01:24:01 [INFO] Generating keypair
+2013-08-24 01:24:01 [INFO] Starting Minecraft server on *:25565
+2013-08-24 01:24:01 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 01:24:01 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 01:24:01 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 01:24:01 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 01:24:02 [INFO] Preparing level "Mystt World"
+2013-08-24 01:24:02 [INFO] Preparing start region for level 0
+2013-08-24 01:24:02 [INFO] Done (0,719s)! For help, type "help" or "?"
+2013-08-24 01:24:05 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:05 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:05 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:06 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:06 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:06 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:07 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:07 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:07 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:08 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:08 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:08 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:09 [INFO] Unknown command. Try /help for a list of commands
+2013-08-24 01:24:09 [INFO] Garanduil[/67.11.34.202:50781] logged in with entity id 237 at (-110.54130552053702, 90.0, 585.6639438261764)
+2013-08-24 01:24:09 [INFO] Garanduil joined the game
+2013-08-24 01:24:10 [INFO] Stopping server
+2013-08-24 01:28:17 [INFO] Stopping server
+2013-08-24 01:28:17 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 02:16:38 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 02:16:38 [INFO] Loading properties
+2013-08-24 02:16:38 [INFO] Default game type: SURVIVAL
+2013-08-24 02:16:38 [INFO] Generating keypair
+2013-08-24 02:16:38 [INFO] Starting Minecraft server on *:25565
+2013-08-24 02:16:38 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 02:16:38 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 02:16:38 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 02:16:38 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 02:16:38 [INFO] Preparing level "Mystt World"
+2013-08-24 02:16:39 [INFO] Preparing start region for level 0
+2013-08-24 02:16:39 [INFO] Done (0,866s)! For help, type "help" or "?"
+2013-08-24 02:16:44 [INFO] Stopping server
+2013-08-24 02:17:30 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 02:17:30 [INFO] Loading properties
+2013-08-24 02:17:30 [INFO] Default game type: SURVIVAL
+2013-08-24 02:17:30 [INFO] Generating keypair
+2013-08-24 02:17:30 [INFO] Starting Minecraft server on *:25565
+2013-08-24 02:17:30 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 02:17:30 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 02:17:30 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 02:17:30 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 02:17:30 [INFO] Preparing level "Mystt World"
+2013-08-24 02:17:30 [INFO] Preparing start region for level 0
+2013-08-24 02:17:31 [INFO] Done (0,703s)! For help, type "help" or "?"
+2013-08-24 02:20:28 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 02:20:28 [INFO] Loading properties
+2013-08-24 02:20:28 [INFO] Default game type: SURVIVAL
+2013-08-24 02:20:28 [INFO] Generating keypair
+2013-08-24 02:20:28 [INFO] Starting Minecraft server on *:25565
+2013-08-24 02:20:28 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 02:20:28 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 02:20:28 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 02:20:28 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 02:20:28 [INFO] Preparing level "Mystt World"
+2013-08-24 02:20:28 [INFO] Preparing start region for level 0
+2013-08-24 02:20:29 [INFO] Done (0.722s)! For help, type "help" or "?"
+2013-08-24 02:22:20 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 02:22:24 [INFO] mystt[/92.155.193.181:53880] logged in with entity id 212 at (271.7291050143909, 102.19715120789007, -445.67947863927446)
+2013-08-24 02:22:24 [INFO] mystt joined the game
+2013-08-24 02:22:28 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 02:22:28 [INFO] mystt left the game
+2013-08-24 02:22:56 [INFO] Garanduil[/67.11.34.202:56948] logged in with entity id 373 at (-110.54130552053702, 90.0, 585.6639438261764)
+2013-08-24 02:22:56 [INFO] Garanduil joined the game
+2013-08-24 02:22:57 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 02:22:58 [INFO] mystt[/92.155.193.181:53911] logged in with entity id 544 at (271.7291050143909, 102.19715120789007, -445.67947863927446)
+2013-08-24 02:22:58 [INFO] mystt joined the game
+2013-08-24 02:24:45 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 02:24:45 [INFO] Garanduil left the game
+2013-08-24 02:25:05 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 02:25:05 [INFO] mystt left the game
+2013-08-24 02:34:16 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-24 02:34:20 [INFO] MasterMyx[/86.212.34.22:19888] logged in with entity id 5275 at (-112.50419779609445, 90.0, 593.1488899690196)
+2013-08-24 02:34:20 [INFO] MasterMyx joined the game
+2013-08-24 02:52:07 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 02:52:13 [INFO] cebola[/5.48.162.108:50720] logged in with entity id 15738 at (51.5, 71.0, 254.5)
+2013-08-24 02:52:13 [INFO] cebola joined the game
+2013-08-24 02:55:07 [INFO] MasterMyx lost connection: disconnect.genericReason
+2013-08-24 02:55:07 [INFO] MasterMyx left the game
+2013-08-24 03:03:01 [INFO] cebola was slain by Zombie
+2013-08-24 03:03:51 [INFO] cebola was shot by Skeleton
+2013-08-24 04:18:38 [INFO] cebola lost connection: disconnect.quitting
+2013-08-24 04:18:38 [INFO] cebola left the game
+2013-08-24 11:03:52 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-24 11:03:58 [INFO] MasterMyx[/86.212.34.22:1339] logged in with entity id 145273 at (-110.60599594529485, 90.0, 587.50373454342)
+2013-08-24 11:03:58 [INFO] MasterMyx joined the game
+2013-08-24 11:07:58 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 11:07:59 [INFO] mystt[/92.155.193.181:49445] logged in with entity id 147405 at (272.3669418213105, 101.0, -443.6014762342207)
+2013-08-24 11:07:59 [INFO] mystt joined the game
+2013-08-24 11:08:43 [INFO] mystt lost connection: disconnect.genericReason
+2013-08-24 11:08:43 [INFO] mystt left the game
