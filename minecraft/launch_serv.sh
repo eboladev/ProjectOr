@@ -1,2 +1,2 @@
-cd /root/ProjectOr/minecraft/;
-java -Xmx1024M -Xms1024M -jar minecraft_server.jar;
+B1;3201;0ccd /root/ProjectOr/minecraft/;
+java -Xms1024M -Xmx1024M -jar minecraft_serv.jar nogui

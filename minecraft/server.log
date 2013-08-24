@@ -660,3 +660,123 @@
 2013-08-24 11:07:59 [INFO] mystt joined the game
 2013-08-24 11:08:43 [INFO] mystt lost connection: disconnect.genericReason
 2013-08-24 11:08:43 [INFO] mystt left the game
+2013-08-24 11:16:32 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 11:16:36 [INFO] cebola[/5.48.162.108:58370] logged in with entity id 150544 at (-11.219229008709908, 64.0, 176.3892601758833)
+2013-08-24 11:16:36 [INFO] cebola joined the game
+2013-08-24 11:17:32 [INFO] <cebola> je vais te tuer
+2013-08-24 11:18:13 [INFO] cebola lost connection: disconnect.quitting
+2013-08-24 11:18:13 [INFO] cebola left the game
+2013-08-24 11:24:13 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 11:24:15 [INFO] cebola[/5.48.162.108:58454] logged in with entity id 158689 at (-12.912884438096196, 64.0, 175.60753017385557)
+2013-08-24 11:24:15 [INFO] cebola joined the game
+2013-08-24 11:24:21 [INFO] cebola lost connection: disconnect.quitting
+2013-08-24 11:24:21 [INFO] cebola left the game
+2013-08-24 11:26:15 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-24 11:26:15 [INFO] MasterMyx left the game
+2013-08-24 12:25:35 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 12:25:35 [INFO] Loading properties
+2013-08-24 12:25:35 [INFO] Default game type: SURVIVAL
+2013-08-24 12:25:35 [INFO] Generating keypair
+2013-08-24 12:25:36 [INFO] Starting Minecraft server on *:25565
+2013-08-24 12:25:36 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 12:25:36 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 12:25:36 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 12:25:36 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 12:25:36 [INFO] Preparing level "Mystt World"
+2013-08-24 12:25:36 [INFO] Preparing start region for level 0
+2013-08-24 12:25:36 [INFO] Done (0,856s)! For help, type "help" or "?"
+2013-08-24 12:25:58 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 12:25:58 [INFO] Loading properties
+2013-08-24 12:25:58 [INFO] Default game type: SURVIVAL
+2013-08-24 12:25:58 [INFO] Generating keypair
+2013-08-24 12:25:58 [INFO] Starting Minecraft server on *:25565
+2013-08-24 12:25:58 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 12:25:58 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 12:25:58 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 12:25:58 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 12:25:58 [INFO] Preparing level "Mystt World"
+2013-08-24 12:25:59 [INFO] Preparing start region for level 0
+2013-08-24 12:25:59 [INFO] Done (0,725s)! For help, type "help" or "?"
+2013-08-24 12:26:19 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 12:26:21 [INFO] mystt[/92.155.193.181:51763] logged in with entity id 280 at (272.0380899838141, 101.0, -447.23202076484523)
+2013-08-24 12:26:21 [INFO] mystt joined the game
+2013-08-24 12:26:24 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 12:26:24 [INFO] mystt left the game
+2013-08-24 12:37:00 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-24 12:37:01 [INFO] MasterMyx[/86.212.34.22:4745] logged in with entity id 876 at (-107.02168716195602, 89.0, 581.6230560311433)
+2013-08-24 12:37:01 [INFO] MasterMyx joined the game
+2013-08-24 12:37:20 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-24 12:37:20 [INFO] MasterMyx left the game
+2013-08-24 12:37:21 [SEVERE] Reached end of stream for /86.212.34.22
+2013-08-24 12:37:23 [INFO] MasterMyx[/86.212.34.22:4753] logged in with entity id 1287 at (-107.21017538725297, 89.0, 580.5691911133105)
+2013-08-24 12:37:23 [INFO] MasterMyx joined the game
+2013-08-24 12:53:56 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 12:53:58 [INFO] mystt[/92.155.193.181:51813] logged in with entity id 12220 at (272.0380899838141, 101.0, -447.23202076484523)
+2013-08-24 12:53:58 [INFO] mystt joined the game
+2013-08-24 12:54:27 [INFO] mystt lost connection: disconnect.genericReason
+2013-08-24 12:54:27 [INFO] mystt left the game
+2013-08-24 12:54:48 [INFO] MasterMyx lost connection: disconnect.genericReason
+2013-08-24 12:54:48 [INFO] MasterMyx left the game
+2013-08-24 12:55:11 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 12:55:15 [INFO] mystt[/92.155.193.181:51844] logged in with entity id 13095 at (273.69999998807907, 101.0, -459.07623750037544)
+2013-08-24 12:55:15 [INFO] mystt joined the game
+2013-08-24 12:57:20 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 12:57:20 [INFO] mystt left the game
+2013-08-24 12:57:22 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 13:29:59 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 13:29:59 [INFO] Loading properties
+2013-08-24 13:29:59 [INFO] Default game type: SURVIVAL
+2013-08-24 13:29:59 [INFO] Generating keypair
+2013-08-24 13:30:00 [INFO] Starting Minecraft server on *:25565
+2013-08-24 13:30:00 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 13:30:00 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 13:30:00 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 13:30:00 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 13:30:00 [INFO] Preparing level "Mystt World"
+2013-08-24 13:30:00 [INFO] Preparing start region for level 0
+2013-08-24 13:30:01 [INFO] Done (0,846s)! For help, type "help" or "?"
+2013-08-24 13:34:57 [INFO] mystt[/92.155.193.181:52288] logged in with entity id 189 at (272.6145899473584, 101.0, -471.31626901822165)
+2013-08-24 13:34:57 [INFO] mystt joined the game
+2013-08-24 13:36:47 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 13:36:47 [INFO] mystt left the game
+2013-08-24 13:36:56 [INFO] [Server] SERVER SHUTTING DOWN IN 10 SECONDS. Saving map...
+2013-08-24 13:36:56 [INFO] Saving...
+2013-08-24 13:36:56 [INFO] Saved the world
+2013-08-24 13:37:06 [INFO] Stopping the server
+2013-08-24 13:37:06 [INFO] Stopping server
+2013-08-24 13:37:06 [INFO] Saving players
+2013-08-24 13:37:06 [INFO] Saving worlds
+2013-08-24 13:37:06 [INFO] Saving chunks for level 'Mystt World'/Overworld
+2013-08-24 13:37:06 [INFO] Closing listening thread
+2013-08-24 13:37:06 [INFO] Saving chunks for level 'Mystt World'/Nether
+2013-08-24 13:37:06 [INFO] Saving chunks for level 'Mystt World'/The End
+2013-08-24 13:37:06 [INFO] Stopping server
+2013-08-24 13:37:21 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 13:37:21 [INFO] Loading properties
+2013-08-24 13:37:21 [INFO] Default game type: SURVIVAL
+2013-08-24 13:37:21 [INFO] Generating keypair
+2013-08-24 13:37:21 [INFO] Starting Minecraft server on *:25565
+2013-08-24 13:37:21 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 13:37:21 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 13:37:21 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 13:37:21 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 13:37:21 [INFO] Preparing level "Mystt World"
+2013-08-24 13:37:21 [INFO] Preparing start region for level 0
+2013-08-24 13:37:22 [INFO] Done (0,718s)! For help, type "help" or "?"
+2013-08-24 13:37:38 [INFO] [Server] SERVER BACKUP STARTING. Server going readonly...
+2013-08-24 13:37:38 [INFO] Turned off world auto-saving
+2013-08-24 13:37:38 [INFO] Saving...
+2013-08-24 13:37:38 [INFO] Saved the world
+2013-08-24 13:37:48 [INFO] Turned on world auto-saving
+2013-08-24 13:37:48 [INFO] [Server] SERVER BACKUP ENDED. Server going read-write...
+2013-08-24 14:05:58 [INFO] [Server] SERVER SHUTTING DOWN IN 10 SECONDS. Saving map...
+2013-08-24 14:05:58 [INFO] Saving...
+2013-08-24 14:05:58 [INFO] Saved the world
+2013-08-24 14:06:08 [INFO] Stopping the server
+2013-08-24 14:06:08 [INFO] Stopping server
+2013-08-24 14:06:08 [INFO] Saving players
+2013-08-24 14:06:08 [INFO] Saving worlds
+2013-08-24 14:06:08 [INFO] Saving chunks for level 'Mystt World'/Overworld
+2013-08-24 14:06:08 [INFO] Closing listening thread
+2013-08-24 14:06:08 [INFO] Saving chunks for level 'Mystt World'/Nether
+2013-08-24 14:06:08 [INFO] Saving chunks for level 'Mystt World'/The End
