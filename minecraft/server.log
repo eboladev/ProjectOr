@@ -900,3 +900,1263 @@
 2013-08-24 15:16:54 [INFO] mystt lost connection: disconnect.quitting
 2013-08-24 15:16:54 [INFO] §emystt left the game.
 2013-08-24 15:16:56 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 15:25:25 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 15:25:27 [INFO] mystt[/92.155.193.181:49281] logged in with entity id 358 at ([Mystt World] 272.3695673847934, 101.0, -473.5801951807881)
+2013-08-24 15:25:37 [INFO] Connection reset
+2013-08-24 15:25:37 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 15:25:37 [INFO] §emystt left the game.
+2013-08-24 15:27:49 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 15:27:51 [INFO] mystt[/92.155.193.181:49533] logged in with entity id 542 at ([Mystt World] 271.625196408472, 101.0, -465.50866517526816)
+2013-08-24 15:27:59 [INFO] mystt issued server command: //wand
+2013-08-24 15:27:59 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-08-24 15:28:35 [INFO] mystt issued server command: //undo
+2013-08-24 15:30:20 [INFO] mystt issued server command: /time set 0
+2013-08-24 15:30:20 [INFO] mystt: Set time to 0[m
+2013-08-24 15:30:56 [INFO] mystt issued server command: /gamemode survival mystt
+2013-08-24 15:30:56 [INFO] mystt: Set own game mode to SURVIVAL mode[m
+2013-08-24 15:32:13 [INFO] mystt issued server command: /region mystt_region
+2013-08-24 15:32:27 [INFO] mystt issued server command: /region define region_test
+2013-08-24 15:33:06 [INFO] mystt issued server command: /gamemode creative mystt
+2013-08-24 15:33:06 [INFO] mystt: Set own game mode to CREATIVE mode[m
+2013-08-24 15:33:28 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 15:33:28 [INFO] Connection reset
+2013-08-24 15:33:28 [INFO] §emystt left the game.
+2013-08-24 15:49:08 [INFO] [0;35;1m[Server] ArrÃªt du serveur dans 10 secondes![m
+2013-08-24 15:49:08 [INFO] CONSOLE: Forcing save..[m
+2013-08-24 15:49:08 [INFO] CONSOLE: Save complete.[m
+2013-08-24 15:49:18 [INFO] CONSOLE: Stopping the server..[m
+2013-08-24 15:49:18 [INFO] Stopping server
+2013-08-24 15:49:18 [INFO] [WorldEdit] Disabling WorldEdit v5.5.7
+2013-08-24 15:49:18 [INFO] Saving players
+2013-08-24 15:49:18 [WARNING] DSCT: Socket closed
+2013-08-24 15:49:18 [INFO] Saving worlds
+2013-08-24 15:49:18 [INFO] Closing listening thread
+2013-08-24 15:49:18 [INFO] Saving chunks for level 'Mystt World'/Overworld
+2013-08-24 15:49:18 [INFO] Saving chunks for level 'Mystt World_nether'/Nether
+2013-08-24 15:49:18 [INFO] Saving chunks for level 'Mystt World_the_end'/The End
+2013-08-24 15:49:18 [INFO] Stopping server
+2013-08-24 15:49:26 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 15:49:26 [INFO] Loading properties
+2013-08-24 15:49:26 [INFO] Default game type: SURVIVAL
+2013-08-24 15:49:26 [INFO] Generating keypair
+2013-08-24 15:49:26 [INFO] Starting Minecraft server on *:25565
+2013-08-24 15:49:26 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R0.1-13-g6cfd4a4-b2858jnks (MC: 1.6.2) (Implementing API version 1.6.2-R0.2-SNAPSHOT)
+2013-08-24 15:49:26 [INFO] [WorldEdit] Loading WorldEdit v5.5.7
+2013-08-24 15:49:26 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 15:49:26 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 15:49:26 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 15:49:26 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 15:49:26 [INFO] Preparing level "Mystt World"
+2013-08-24 15:49:26 [INFO] Preparing start region for level 0 (Seed: -483670165038089527)
+2013-08-24 15:49:26 [INFO] ----- Bukkit Auto Updater -----
+2013-08-24 15:49:26 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-08-24 15:49:26 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-08-24 15:49:26 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-08-24 15:49:26 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-08-24 15:49:26 [INFO] ----- ------------------- -----
+2013-08-24 15:49:27 [INFO] Preparing start region for level 1 (Seed: -483670165038089527)
+2013-08-24 15:49:27 [INFO] Preparing start region for level 2 (Seed: -483670165038089527)
+2013-08-24 15:49:27 [INFO] [WorldEdit] Enabling WorldEdit v5.5.7
+2013-08-24 15:49:27 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-08-24 15:49:27 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-08-24 15:49:27 [INFO] Done (1,386s)! For help, type "help" or "?"
+2013-08-24 15:49:35 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 15:49:39 [INFO] mystt[/92.155.193.181:51302] logged in with entity id 169 at ([Mystt World] 272.3651181987255, 106.0, -437.5905758598247)
+2013-08-24 15:49:47 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-08-24 15:52:15 [INFO] Connection reset
+2013-08-24 15:52:15 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 15:52:15 [INFO] §emystt left the game.
+2013-08-24 16:07:56 [INFO] [0;35;1m[Server] ArrÃªt du serveur dans 10 secondes![m
+2013-08-24 16:07:56 [INFO] CONSOLE: Forcing save..[m
+2013-08-24 16:07:56 [INFO] CONSOLE: Save complete.[m
+2013-08-24 16:08:06 [INFO] CONSOLE: Stopping the server..[m
+2013-08-24 16:08:06 [INFO] Stopping server
+2013-08-24 16:08:06 [INFO] [WorldEdit] Disabling WorldEdit v5.5.7
+2013-08-24 16:08:06 [INFO] Saving players
+2013-08-24 16:08:06 [WARNING] DSCT: Socket closed
+2013-08-24 16:08:06 [INFO] Saving worlds
+2013-08-24 16:08:06 [INFO] Closing listening thread
+2013-08-24 16:08:06 [INFO] Saving chunks for level 'Mystt World'/Overworld
+2013-08-24 16:08:06 [INFO] Saving chunks for level 'Mystt World_nether'/Nether
+2013-08-24 16:08:06 [INFO] Saving chunks for level 'Mystt World_the_end'/The End
+2013-08-24 16:08:06 [INFO] Stopping server
+2013-08-24 16:08:43 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 16:08:43 [INFO] Loading properties
+2013-08-24 16:08:43 [INFO] Default game type: SURVIVAL
+2013-08-24 16:08:43 [INFO] Generating keypair
+2013-08-24 16:08:43 [INFO] Starting Minecraft server on *:25565
+2013-08-24 16:08:43 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R0.1-13-g6cfd4a4-b2858jnks (MC: 1.6.2) (Implementing API version 1.6.2-R0.2-SNAPSHOT)
+2013-08-24 16:08:43 [INFO] [WorldEdit] Loading WorldEdit v5.5.7
+2013-08-24 16:08:43 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 16:08:43 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 16:08:43 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 16:08:43 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 16:08:43 [INFO] Preparing level "Mystt World"
+2013-08-24 16:08:44 [INFO] Preparing start region for level 0 (Seed: -483670165038089527)
+2013-08-24 16:08:44 [INFO] ----- Bukkit Auto Updater -----
+2013-08-24 16:08:44 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-08-24 16:08:44 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-08-24 16:08:44 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-08-24 16:08:44 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-08-24 16:08:44 [INFO] ----- ------------------- -----
+2013-08-24 16:08:44 [INFO] Preparing start region for level 1 (Seed: -483670165038089527)
+2013-08-24 16:08:45 [INFO] Preparing start region for level 2 (Seed: -483670165038089527)
+2013-08-24 16:08:45 [INFO] [WorldEdit] Enabling WorldEdit v5.5.7
+2013-08-24 16:08:45 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-08-24 16:08:45 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-08-24 16:08:45 [INFO] Done (1,394s)! For help, type "help" or "?"
+2013-08-24 16:09:13 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 16:12:29 [INFO] mystt[/92.155.193.181:52134] logged in with entity id 166 at ([Mystt World] 273.3894147459052, 101.0, -473.2344086774298)
+2013-08-24 16:12:32 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-08-24 16:14:50 [INFO] Connection reset
+2013-08-24 16:14:50 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 16:14:50 [INFO] §emystt left the game.
+2013-08-24 16:38:17 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 16:38:19 [INFO] mystt[/92.155.193.181:52424] logged in with entity id 3596 at ([Mystt World] 274.9358573116152, 101.0, -435.13707975419675)
+2013-08-24 16:50:33 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 16:50:35 [INFO] cebola[/5.48.162.108:63588] logged in with entity id 14546 at ([Mystt World] -10.80461672158326, 64.0, 176.1316691375909)
+2013-08-24 16:51:37 [INFO] Connection reset
+2013-08-24 16:51:37 [INFO] cebola lost connection: disconnect.quitting
+2013-08-24 16:51:37 [INFO] §ecebola left the game.
+2013-08-24 16:53:27 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 16:53:32 [INFO] Garanduil[/67.11.34.202:50353] logged in with entity id 18754 at ([Mystt World] -111.76695196788246, 90.0, 588.0512104489673)
+2013-08-24 16:58:45 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 16:58:45 [INFO] Connection reset
+2013-08-24 16:58:45 [INFO] §emystt left the game.
+2013-08-24 17:00:26 [INFO] Connection reset
+2013-08-24 17:00:26 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 17:00:26 [INFO] §eGaranduil left the game.
+2013-08-24 17:00:29 [INFO] [0;35;1m[Server] ArrÃªt du serveur dans 10 secondes![m
+2013-08-24 17:00:29 [INFO] CONSOLE: Forcing save..[m
+2013-08-24 17:00:29 [INFO] CONSOLE: Save complete.[m
+2013-08-24 17:00:29 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 17:00:35 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 17:00:36 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 17:00:37 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 17:00:38 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 17:00:39 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 17:00:39 [INFO] CONSOLE: Stopping the server..[m
+2013-08-24 17:00:39 [INFO] Stopping server
+2013-08-24 17:00:39 [INFO] [WorldEdit] Disabling WorldEdit v5.5.7
+2013-08-24 17:00:39 [INFO] Saving players
+2013-08-24 17:00:39 [WARNING] DSCT: Socket closed
+2013-08-24 17:00:39 [INFO] Saving worlds
+2013-08-24 17:00:39 [INFO] Closing listening thread
+2013-08-24 17:00:39 [INFO] Saving chunks for level 'Mystt World'/Overworld
+2013-08-24 17:00:39 [INFO] Saving chunks for level 'Mystt World_nether'/Nether
+2013-08-24 17:00:39 [INFO] Saving chunks for level 'Mystt World_the_end'/The End
+2013-08-24 17:00:39 [INFO] Stopping server
+2013-08-24 17:00:47 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 17:00:47 [INFO] Loading properties
+2013-08-24 17:00:47 [INFO] Default game type: SURVIVAL
+2013-08-24 17:00:47 [INFO] Generating keypair
+2013-08-24 17:00:47 [INFO] Starting Minecraft server on *:25565
+2013-08-24 17:00:47 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R0.1-13-g6cfd4a4-b2858jnks (MC: 1.6.2) (Implementing API version 1.6.2-R0.2-SNAPSHOT)
+2013-08-24 17:00:47 [INFO] [WorldEdit] Loading WorldEdit v5.5.7
+2013-08-24 17:00:47 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 17:00:47 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 17:00:47 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 17:00:47 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 17:00:47 [INFO] Preparing level "Mystt World"
+2013-08-24 17:00:47 [INFO] Preparing start region for level 0 (Seed: -483670165038089527)
+2013-08-24 17:00:47 [INFO] ----- Bukkit Auto Updater -----
+2013-08-24 17:00:47 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-08-24 17:00:47 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-08-24 17:00:47 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-08-24 17:00:47 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-08-24 17:00:47 [INFO] ----- ------------------- -----
+2013-08-24 17:00:48 [INFO] Preparing start region for level 1 (Seed: -483670165038089527)
+2013-08-24 17:00:48 [INFO] Preparing start region for level 2 (Seed: -483670165038089527)
+2013-08-24 17:00:48 [INFO] [WorldEdit] Enabling WorldEdit v5.5.7
+2013-08-24 17:00:48 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-08-24 17:00:49 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-08-24 17:00:49 [INFO] Done (1,429s)! For help, type "help" or "?"
+2013-08-24 17:00:49 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 17:00:51 [INFO] Garanduil[/67.11.34.202:52495] logged in with entity id 291 at ([Mystt World] -103.30364167057371, 72.0, 570.3000000119209)
+2013-08-24 17:00:55 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-08-24 17:01:19 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 17:01:22 [INFO] mystt[/92.155.193.181:52580] logged in with entity id 571 at ([Mystt World] 271.796895476526, 101.0, -475.4042352187469)
+2013-08-24 17:02:28 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 17:02:32 [INFO] Galterro[/92.155.193.181:50057] logged in with entity id 2539 at ([Mystt World] 246.69999998807904, 82.0, -458.0871525059348)
+2013-08-24 17:05:57 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 17:05:59 [INFO] cebola[/5.48.162.108:64471] logged in with entity id 5853 at ([Mystt World] -12.977998148412139, 64.0, 178.22938978812942)
+2013-08-24 17:08:30 [INFO] cebola lost connection: disconnect.quitting
+2013-08-24 17:08:30 [INFO] Connection reset
+2013-08-24 17:08:30 [INFO] §ecebola left the game.
+2013-08-24 17:08:45 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 17:09:10 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 17:09:52 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 17:10:07 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 17:15:01 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 17:53:04 [SEVERE] Reached end of stream for /5.48.162.108
+2013-08-24 17:53:07 [INFO] cebola[/5.48.162.108:64804] logged in with entity id 58595 at ([Mystt World] -11.810246015821761, 64.0, 176.78662257125168)
+2013-08-24 17:53:34 [INFO] Connection reset
+2013-08-24 17:53:34 [INFO] cebola lost connection: disconnect.quitting
+2013-08-24 17:53:34 [INFO] §ecebola left the game.
+2013-08-24 18:04:14 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 18:04:22 [INFO] Ushushe[/67.11.34.202:50841] logged in with entity id 76158 at ([Mystt World] -357.5, 63.0, 585.5)
+2013-08-24 18:06:52 [INFO] Garanduil was slain by Zombie
+2013-08-24 18:07:12 [INFO] mystt issued server command: /tp ushushe cebola
+2013-08-24 18:07:20 [INFO] mystt issued server command: /tp Ushushe mystt
+2013-08-24 18:07:20 [INFO] mystt: Teleported Ushushe to mystt[m
+2013-08-24 18:10:35 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 18:10:35 [INFO] Connection reset
+2013-08-24 18:10:35 [INFO] §emystt left the game.
+2013-08-24 18:13:13 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 18:13:17 [INFO] mystt[/92.155.193.181:53007] logged in with entity id 87681 at ([Mystt World] 275.46657418320933, 101.0, -431.9347837503303)
+2013-08-24 18:17:37 [INFO] Connection reset
+2013-08-24 18:17:37 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 18:17:37 [INFO] §emystt left the game.
+2013-08-24 18:46:50 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 18:46:50 [INFO] Connection reset
+2013-08-24 18:46:50 [INFO] §eGaranduil left the game.
+2013-08-24 18:50:57 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 18:51:54 [INFO] Garanduil[/67.11.34.202:55048] logged in with entity id 133511 at ([Mystt World] -111.27025859785331, 86.0, 599.217131067636)
+2013-08-24 19:07:38 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 19:07:40 [INFO] mystt[/92.155.193.181:53469] logged in with entity id 156660 at ([Mystt World] 271.73377977516236, 101.0, -472.90193400845357)
+2013-08-24 19:07:56 [INFO] Connection reset
+2013-08-24 19:07:56 [INFO] mystt lost connection: disconnect.endOfStream
+2013-08-24 19:07:56 [INFO] §emystt left the game.
+2013-08-24 19:08:13 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 19:08:17 [INFO] mystt[/92.155.193.181:53492] logged in with entity id 157360 at ([Mystt World] 271.73377977516236, 101.0, -472.90193400845357)
+2013-08-24 19:08:38 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 19:08:38 [INFO] Connection reset
+2013-08-24 19:08:38 [INFO] §emystt left the game.
+2013-08-24 19:09:50 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 19:09:51 [INFO] MasterMyx[/83.202.123.12:7957] logged in with entity id 159262 at ([Mystt World] -110.30000001192093, 90.0, 586.8064671305725)
+2013-08-24 19:10:22 [INFO] MasterMyx was slain by Spider
+2013-08-24 19:12:01 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 19:12:08 [INFO] mystt[/92.155.193.181:53606] logged in with entity id 162499 at ([Mystt World] 271.73377977516236, 101.0, -472.90193400845357)
+2013-08-24 19:12:59 [INFO] <MasterMyx> change de chan boloss[m
+2013-08-24 19:14:41 [INFO] Connection reset
+2013-08-24 19:14:41 [INFO] Galterro lost connection: disconnect.endOfStream
+2013-08-24 19:14:41 [INFO] §eGalterro left the game.
+2013-08-24 19:14:45 [INFO] Connection reset
+2013-08-24 19:14:45 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 19:14:45 [INFO] §emystt left the game.
+2013-08-24 19:14:46 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 19:14:47 [INFO] mystt[/92.155.193.181:53609] logged in with entity id 166177 at ([Mystt World] 269.8782962637192, 101.0, -449.4512604688103)
+2013-08-24 19:14:51 [INFO] Connection reset
+2013-08-24 19:14:51 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 19:14:51 [INFO] §emystt left the game.
+2013-08-24 19:15:20 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 19:15:22 [INFO] mystt[/92.155.193.181:53636] logged in with entity id 166923 at ([Mystt World] 271.0855321695699, 101.0, -450.56850931246356)
+2013-08-24 19:15:29 [INFO] Galterro[/92.155.193.181:50930] logged in with entity id 167116 at ([Mystt World] 233.42072839621216, 15.0, -475.3672397644099)
+2013-08-24 19:19:57 [INFO] Connection reset
+2013-08-24 19:19:57 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 19:19:57 [INFO] §emystt left the game.
+2013-08-24 19:20:26 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 19:20:27 [INFO] mystt[/92.155.193.181:53764] logged in with entity id 173059 at ([Mystt World] 258.40627401818347, 101.0, -452.35536356038824)
+2013-08-24 19:25:31 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 19:25:31 [INFO] Connection reset
+2013-08-24 19:25:31 [INFO] §emystt left the game.
+2013-08-24 19:25:34 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 19:25:35 [INFO] mystt[/92.155.193.181:53786] logged in with entity id 177844 at ([Mystt World] 256.2872992114599, 101.0, -449.79700725935976)
+2013-08-24 19:26:09 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-24 19:26:09 [INFO] Connection reset
+2013-08-24 19:26:09 [INFO] §eUshushe left the game.
+2013-08-24 19:26:20 [INFO] Connection reset
+2013-08-24 19:26:20 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 19:26:20 [INFO] §emystt left the game.
+2013-08-24 19:26:30 [INFO] Connection reset
+2013-08-24 19:26:30 [INFO] Galterro lost connection: disconnect.endOfStream
+2013-08-24 19:26:30 [INFO] §eGalterro left the game.
+2013-08-24 19:26:54 [SEVERE] Reached end of stream for /92.155.193.181
+2013-08-24 19:26:57 [INFO] mystt[/92.155.193.181:53897] logged in with entity id 178487 at ([Mystt World] 253.82926663028792, 101.0, -450.9341317463438)
+2013-08-24 19:27:06 [INFO] <MasterMyx> ca sent le cheat!!!![m
+2013-08-24 19:27:14 [INFO] <mystt> Nan le skin[m
+2013-08-24 19:27:46 [INFO] Read timed out
+2013-08-24 19:27:46 [INFO] mystt lost connection: disconnect.endOfStream
+2013-08-24 19:27:46 [INFO] §emystt left the game.
+2013-08-24 19:29:34 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 19:29:35 [INFO] Ushushe[/67.11.34.202:52041] logged in with entity id 179684 at ([Mystt World] 268.8797967204134, 101.0, -466.9694192434448)
+2013-08-24 19:29:48 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-24 19:29:48 [INFO] Connection reset
+2013-08-24 19:29:48 [INFO] §eUshushe left the game.
+2013-08-24 19:32:59 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 19:33:00 [INFO] Ushushe[/67.11.34.202:52229] logged in with entity id 181215 at ([Mystt World] 268.8797967204134, 101.0, -466.9694192434448)
+2013-08-24 19:33:30 [INFO] <Ushushe> on a trouve les skins des tortues ninja en HD[m
+2013-08-24 19:34:38 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-24 19:34:39 [INFO] mystt[/92.155.198.4:49509] logged in with entity id 183826 at ([Mystt World] 253.82926663028792, 101.0, -450.9341317463438)
+2013-08-24 19:36:47 [INFO] Connection reset
+2013-08-24 19:36:47 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 19:36:47 [INFO] §emystt left the game.
+2013-08-24 19:37:11 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-24 19:37:13 [INFO] mystt[/92.155.198.4:49689] logged in with entity id 187620 at ([Mystt World] 258.01495414088765, 101.125, -450.9793247921505)
+2013-08-24 19:40:56 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-24 19:40:59 [INFO] Galterro[/92.155.198.4:50046] logged in with entity id 192394 at ([Mystt World] 233.42072839621216, 15.0, -475.3672397644099)
+2013-08-24 19:44:12 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:44:16 [INFO] <mystt> <3[m
+2013-08-24 19:44:43 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:44:48 [INFO] <mystt> <3<3<3<3<3<3[m
+2013-08-24 19:45:13 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:45:41 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:45:56 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:46:05 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:46:14 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:46:29 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:47:03 [INFO] Garanduil was shot by Skeleton
+2013-08-24 19:47:51 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:48:38 [INFO] Garanduil was slain by Zombie
+2013-08-24 19:56:58 [INFO] <mystt> On a trouvé un village[m
+2013-08-24 19:57:04 [INFO] <MasterMyx> ??[m
+2013-08-24 20:03:46 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-24 20:03:46 [INFO] Connection reset
+2013-08-24 20:03:46 [INFO] §eUshushe left the game.
+2013-08-24 20:04:04 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 20:04:06 [INFO] Ushushe[/67.11.34.202:52544] logged in with entity id 229195 at ([Mystt World] -38.29801688137543, 64.0, -841.6397593092163)
+2013-08-24 20:06:50 [INFO] Ushushe was slain by Zombie
+2013-08-24 20:09:16 [INFO] Galterro was slain by Zombie
+2013-08-24 20:10:05 [INFO] mystt issued server command: /gamemode survival mystt
+2013-08-24 20:10:05 [INFO] mystt: Set own game mode to SURVIVAL mode[m
+2013-08-24 20:12:12 [INFO] mystt issued server command: /tp Galterro mystt
+2013-08-24 20:12:12 [INFO] mystt: Teleported Galterro to mystt[m
+2013-08-24 20:20:33 [INFO] mystt issued server command: /gamemode adventure mystt
+2013-08-24 20:20:33 [INFO] mystt: Set own game mode to ADVENTURE mode[m
+2013-08-24 20:20:47 [INFO] mystt issued server command: /gamemode creative mystt
+2013-08-24 20:20:47 [INFO] mystt: Set own game mode to CREATIVE mode[m
+2013-08-24 20:31:16 [INFO] Connection reset
+2013-08-24 20:31:16 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-24 20:31:16 [INFO] §eUshushe left the game.
+2013-08-24 20:34:31 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 20:34:33 [INFO] Ushushe[/67.11.34.202:52976] logged in with entity id 279969 at ([Mystt World] 6.751544535396416, 77.0, -775.4166574351266)
+2013-08-24 20:34:58 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-24 20:34:58 [INFO] Connection reset
+2013-08-24 20:34:58 [INFO] §eUshushe left the game.
+2013-08-24 20:35:06 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 20:35:07 [INFO] Ushushe[/67.11.34.202:52984] logged in with entity id 281362 at ([Mystt World] 9.003342977328735, 67.0, -774.2813312857155)
+2013-08-24 20:35:15 [INFO] Connection reset
+2013-08-24 20:35:15 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-24 20:35:15 [INFO] §eUshushe left the game.
+2013-08-24 20:35:36 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 20:35:41 [INFO] Ushushe[/67.11.34.202:52988] logged in with entity id 282559 at ([Mystt World] 3.7826418465234743, 65.0, -774.4367957914607)
+2013-08-24 20:36:03 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 20:36:03 [INFO] Connection reset
+2013-08-24 20:36:03 [INFO] §emystt left the game.
+2013-08-24 20:36:18 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-24 20:36:20 [INFO] mystt[/92.155.198.4:49952] logged in with entity id 283679 at ([Mystt World] 265.52084265725546, 101.0, -466.56776087171687)
+2013-08-24 20:49:44 [INFO] <Galterro> fqeggsr[m
+2013-08-24 20:49:52 [INFO] <Ushushe> stop cette pluie de merde[m
+2013-08-24 21:05:21 [INFO] Garanduil was blown up by Creeper
+2013-08-24 21:10:04 [INFO] MasterMyx was slain by Spider
+2013-08-24 21:12:01 [INFO] MasterMyx was blown up by Creeper
+2013-08-24 21:12:48 [INFO] Garanduil was slain by Enderman
+2013-08-24 21:13:41 [INFO] MasterMyx was slain by Enderman
+2013-08-24 21:18:13 [INFO] Garanduil was slain by Zombie
+2013-08-24 21:26:12 [INFO] Connection reset
+2013-08-24 21:26:12 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 21:26:12 [INFO] §eGaranduil left the game.
+2013-08-24 21:32:29 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 21:32:32 [INFO] Garanduil[/67.11.34.202:53428] logged in with entity id 389430 at ([Mystt World] -144.3275237762343, 13.0, 609.0912379116546)
+2013-08-24 21:34:24 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 21:34:24 [INFO] Connection reset
+2013-08-24 21:34:24 [INFO] §eGaranduil left the game.
+2013-08-24 21:49:12 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-24 21:49:12 [INFO] Connection reset
+2013-08-24 21:49:12 [INFO] §eMasterMyx left the game.
+2013-08-24 21:53:59 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 21:54:09 [INFO] Garanduil[/67.11.34.202:59178] logged in with entity id 414721 at ([Mystt World] -144.66369384802078, 13.0, 611.6446023049709)
+2013-08-24 21:59:25 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 21:59:27 [INFO] MasterMyx[/83.202.123.12:8412] logged in with entity id 424146 at ([Mystt World] -143.90299763732793, 13.0, 609.3383978464962)
+2013-08-24 22:03:50 [INFO] MasterMyx was blown up by Creeper
+2013-08-24 22:04:48 [INFO] mystt issued server command: /spawnmob
+2013-08-24 22:11:01 [INFO] Ushushe was shot by Skeleton
+2013-08-24 22:18:26 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-24 22:18:26 [INFO] Connection reset
+2013-08-24 22:18:26 [INFO] §eMasterMyx left the game.
+2013-08-24 22:19:26 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 22:19:29 [INFO] MasterMyx[/83.202.123.12:9089] logged in with entity id 466844 at ([Mystt World] -145.4650443914851, 13.0, 608.265649793641)
+2013-08-24 22:19:52 [INFO] <MasterMyx> adieu[m
+2013-08-24 22:19:54 [INFO] MasterMyx lost connection: disconnect.quitting
+2013-08-24 22:19:54 [INFO] Connection reset
+2013-08-24 22:19:54 [INFO] §eMasterMyx left the game.
+2013-08-24 22:21:36 [INFO] Ushushe starved to death
+2013-08-24 22:26:03 [INFO] mystt issued server command: /gamemode survival mystt
+2013-08-24 22:26:03 [INFO] mystt: Set own game mode to SURVIVAL mode[m
+2013-08-24 22:28:02 [INFO] mystt lost connection: disconnect.quitting
+2013-08-24 22:28:02 [INFO] Connection reset
+2013-08-24 22:28:02 [INFO] §emystt left the game.
+2013-08-24 22:28:29 [INFO] Garanduil was shot by Skeleton
+2013-08-24 22:35:09 [INFO] [0;35;1m[Server] ArrÃªt du serveur dans 10 secondes![m
+2013-08-24 22:35:09 [INFO] CONSOLE: Forcing save..[m
+2013-08-24 22:35:09 [INFO] CONSOLE: Save complete.[m
+2013-08-24 22:35:16 [INFO] Connection reset
+2013-08-24 22:35:16 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 22:35:16 [INFO] §eGaranduil left the game.
+2013-08-24 22:35:19 [INFO] CONSOLE: Stopping the server..[m
+2013-08-24 22:35:19 [INFO] Stopping server
+2013-08-24 22:35:19 [INFO] [WorldEdit] Disabling WorldEdit v5.5.7
+2013-08-24 22:35:19 [INFO] Saving players
+2013-08-24 22:35:19 [WARNING] DSCT: Socket closed
+2013-08-24 22:35:19 [INFO] Closing listening thread
+2013-08-24 22:35:19 [INFO] §eGalterro left the game.
+2013-08-24 22:35:19 [INFO] §eUshushe left the game.
+2013-08-24 22:35:19 [INFO] Saving worlds
+2013-08-24 22:35:19 [INFO] Saving chunks for level 'Mystt World'/Overworld
+2013-08-24 22:35:19 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-24 22:35:19 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 22:35:20 [INFO] Saving chunks for level 'Mystt World_nether'/Nether
+2013-08-24 22:35:20 [INFO] Saving chunks for level 'Mystt World_the_end'/The End
+2013-08-24 22:35:20 [INFO] Stopping server
+2013-08-24 22:35:26 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 22:35:26 [INFO] Loading properties
+2013-08-24 22:35:26 [INFO] Default game type: SURVIVAL
+2013-08-24 22:35:26 [INFO] Generating keypair
+2013-08-24 22:35:27 [INFO] Starting Minecraft server on *:25565
+2013-08-24 22:35:27 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R0.1-13-g6cfd4a4-b2858jnks (MC: 1.6.2) (Implementing API version 1.6.2-R0.2-SNAPSHOT)
+2013-08-24 22:35:27 [INFO] [WorldEdit] Loading WorldEdit v5.5.7
+2013-08-24 22:35:27 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 22:35:27 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 22:35:27 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 22:35:27 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 22:35:27 [INFO] Preparing level "Mystt World"
+2013-08-24 22:35:27 [INFO] Preparing start region for level 0 (Seed: -483670165038089527)
+2013-08-24 22:35:27 [INFO] ----- Bukkit Auto Updater -----
+2013-08-24 22:35:27 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-08-24 22:35:27 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-08-24 22:35:27 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-08-24 22:35:27 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-08-24 22:35:27 [INFO] ----- ------------------- -----
+2013-08-24 22:35:28 [INFO] Preparing start region for level 1 (Seed: -483670165038089527)
+2013-08-24 22:35:28 [INFO] Preparing start region for level 2 (Seed: -483670165038089527)
+2013-08-24 22:35:28 [INFO] [WorldEdit] Enabling WorldEdit v5.5.7
+2013-08-24 22:35:28 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-08-24 22:35:28 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-08-24 22:35:28 [INFO] Done (1,390s)! For help, type "help" or "?"
+2013-08-24 22:35:30 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 22:35:31 [INFO] Ushushe[/67.11.34.202:53589] logged in with entity id 175 at ([Mystt World] 165.92186335231222, 9.0, -389.7136096570611)
+2013-08-24 22:35:37 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-08-24 22:36:11 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 22:36:13 [INFO] Garanduil[/67.11.34.202:55788] logged in with entity id 827 at ([Mystt World] -101.3000000119209, 17.0, 666.6999999880791)
+2013-08-24 22:36:31 [INFO] Galterro[/92.155.198.4:50284] logged in with entity id 1074 at ([Mystt World] 1054.4250096468725, 43.0, 501.640965462175)
+2013-08-24 22:37:01 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-24 22:37:02 [INFO] mystt[/92.155.198.4:49577] logged in with entity id 1799 at ([Mystt World] 286.03030045813057, 101.0, -480.6023163793958)
+2013-08-24 22:38:48 [INFO] mystt issued server command: /gamemode creative mystt
+2013-08-24 22:38:48 [INFO] mystt: Set own game mode to CREATIVE mode[m
+2013-08-24 22:43:35 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 22:43:35 [INFO] Connection reset
+2013-08-24 22:43:35 [INFO] §eGaranduil left the game.
+2013-08-24 22:45:02 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 22:45:04 [INFO] Garanduil[/67.11.34.202:58234] logged in with entity id 18830 at ([Mystt World] -145.39797210847763, 13.0, 608.4803958483834)
+2013-08-24 22:47:25 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 22:47:27 [INFO] Disconnecting MasterMyxx [/83.202.123.12:9793]: You are not white-listed on this server!
+2013-08-24 22:47:27 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 22:48:32 [INFO] [0;35;1m[Server] ArrÃªt du serveur dans 10 secondes![m
+2013-08-24 22:48:32 [INFO] CONSOLE: Forcing save..[m
+2013-08-24 22:48:32 [INFO] CONSOLE: Save complete.[m
+2013-08-24 22:48:42 [INFO] CONSOLE: Stopping the server..[m
+2013-08-24 22:48:42 [INFO] Stopping server
+2013-08-24 22:48:42 [INFO] [WorldEdit] Disabling WorldEdit v5.5.7
+2013-08-24 22:48:42 [INFO] Saving players
+2013-08-24 22:48:42 [WARNING] DSCT: Socket closed
+2013-08-24 22:48:42 [INFO] Closing listening thread
+2013-08-24 22:48:42 [INFO] §eUshushe left the game.
+2013-08-24 22:48:42 [INFO] §eGalterro left the game.
+2013-08-24 22:48:42 [INFO] §emystt left the game.
+2013-08-24 22:48:42 [INFO] §eGaranduil left the game.
+2013-08-24 22:48:42 [INFO] Saving worlds
+2013-08-24 22:48:42 [INFO] Saving chunks for level 'Mystt World'/Overworld
+2013-08-24 22:48:42 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-24 22:48:42 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-24 22:48:42 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 22:48:43 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 22:48:43 [INFO] Saving chunks for level 'Mystt World_nether'/Nether
+2013-08-24 22:48:43 [INFO] Saving chunks for level 'Mystt World_the_end'/The End
+2013-08-24 22:48:43 [INFO] Stopping server
+2013-08-24 22:48:50 [INFO] Starting minecraft server version 1.6.2
+2013-08-24 22:48:50 [INFO] Loading properties
+2013-08-24 22:48:50 [INFO] Default game type: SURVIVAL
+2013-08-24 22:48:50 [INFO] Generating keypair
+2013-08-24 22:48:50 [INFO] Starting Minecraft server on *:25565
+2013-08-24 22:48:50 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R0.1-13-g6cfd4a4-b2858jnks (MC: 1.6.2) (Implementing API version 1.6.2-R0.2-SNAPSHOT)
+2013-08-24 22:48:50 [INFO] [WorldEdit] Loading WorldEdit v5.5.7
+2013-08-24 22:48:50 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-08-24 22:48:50 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-08-24 22:48:50 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-08-24 22:48:50 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-08-24 22:48:50 [INFO] Preparing level "Mystt World"
+2013-08-24 22:48:50 [INFO] ----- Bukkit Auto Updater -----
+2013-08-24 22:48:50 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-08-24 22:48:50 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-08-24 22:48:50 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-08-24 22:48:50 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-08-24 22:48:50 [INFO] ----- ------------------- -----
+2013-08-24 22:48:50 [INFO] Preparing start region for level 0 (Seed: -483670165038089527)
+2013-08-24 22:48:51 [INFO] Preparing start region for level 1 (Seed: -483670165038089527)
+2013-08-24 22:48:52 [INFO] Preparing start region for level 2 (Seed: -483670165038089527)
+2013-08-24 22:48:52 [INFO] [WorldEdit] Enabling WorldEdit v5.5.7
+2013-08-24 22:48:52 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-08-24 22:48:52 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-08-24 22:48:52 [INFO] Done (1,416s)! For help, type "help" or "?"
+2013-08-24 22:48:52 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 22:48:53 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 22:48:54 [INFO] MasterMyxx[/83.202.123.12:9862] logged in with entity id 176 at ([Mystt World] 48.5, 68.0, 248.5)
+2013-08-24 22:48:57 [INFO] Ushushe[/67.11.34.202:53659] logged in with entity id 539 at ([Mystt World] 166.20878449918155, 9.0, -388.50902040988683)
+2013-08-24 22:48:57 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-08-24 22:48:59 [INFO] mystt[/92.155.198.4:49943] logged in with entity id 786 at ([Mystt World] 271.65300777196785, 101.0, -440.4972163866107)
+2013-08-24 22:49:01 [INFO] Garanduil[/67.11.34.202:59477] logged in with entity id 941 at ([Mystt World] -101.30000001192094, 18.0, 668.1287792565678)
+2013-08-24 22:50:59 [INFO] MasterMyxx was slain by Zombie
+2013-08-24 22:51:16 [INFO] mystt issued server command: /tp MasterMyxx Garanduil
+2013-08-24 22:51:16 [INFO] mystt: Teleported MasterMyxx to Garanduil[m
+2013-08-24 22:52:54 [INFO] Connection reset
+2013-08-24 22:52:54 [INFO] MasterMyxx lost connection: disconnect.endOfStream
+2013-08-24 22:52:54 [INFO] §eMasterMyxx left the game.
+2013-08-24 22:54:57 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-24 22:55:00 [INFO] Galterro[/92.155.198.4:50291] logged in with entity id 17504 at ([Mystt World] 1063.7228337814756, 28.0, 547.5221112063144)
+2013-08-24 22:55:30 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 22:55:32 [INFO] MasterMyxx[/83.202.123.12:10326] logged in with entity id 18557 at ([Mystt World] 48.69999998807907, 67.0, 256.69999998807907)
+2013-08-24 22:56:52 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-24 22:56:52 [INFO] Connection reset
+2013-08-24 22:56:52 [INFO] §eMasterMyxx left the game.
+2013-08-24 22:58:21 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 22:58:21 [INFO] Connection reset
+2013-08-24 22:58:21 [INFO] §eGaranduil left the game.
+2013-08-24 22:58:23 [INFO] mystt issued server command: /tp Galterro mystt
+2013-08-24 22:58:23 [INFO] mystt: Teleported Galterro to mystt[m
+2013-08-24 22:58:57 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 22:58:59 [INFO] Garanduil[/67.11.34.202:62446] logged in with entity id 27379 at ([Mystt World] -144.25867280526575, 13.0, 615.0098356141503)
+2013-08-24 22:59:06 [INFO] mystt issued server command: /tp Galterro mystt
+2013-08-24 22:59:06 [INFO] mystt: Teleported Galterro to mystt[m
+2013-08-24 22:59:07 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 22:59:09 [INFO] MasterMyxx[/83.202.123.12:10553] logged in with entity id 27730 at ([Mystt World] 56.97593727359183, 67.0, 275.2206760767474)
+2013-08-24 23:01:50 [INFO] Connection reset
+2013-08-24 23:01:50 [INFO] MasterMyxx lost connection: disconnect.endOfStream
+2013-08-24 23:01:50 [INFO] §eMasterMyxx left the game.
+2013-08-24 23:01:58 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 23:02:00 [INFO] MasterMyxx[/83.202.123.12:10730] logged in with entity id 37578 at ([Mystt World] 55.59812560235815, 68.0, 276.28645353798146)
+2013-08-24 23:02:06 [INFO] Connection reset
+2013-08-24 23:02:06 [INFO] MasterMyxx lost connection: disconnect.endOfStream
+2013-08-24 23:02:06 [INFO] §eMasterMyxx left the game.
+2013-08-24 23:11:11 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 23:11:12 [INFO] MasterMyxx[/83.202.123.12:11003] logged in with entity id 49701 at ([Mystt World] 55.59812560235815, 68.0, 276.28645353798146)
+2013-08-24 23:11:30 [INFO] Ushushe burned to death
+2013-08-24 23:13:20 [INFO] MasterMyxx was burnt to a crisp whilst fighting Zombie
+2013-08-24 23:16:26 [INFO] Connection reset
+2013-08-24 23:16:26 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-24 23:16:26 [INFO] §eMasterMyxx left the game.
+2013-08-24 23:19:39 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 23:19:40 [INFO] MasterMyxx[/83.202.123.12:11489] logged in with entity id 74852 at ([Mystt World] -110.63843542347296, 90.0, 586.4923379512433)
+2013-08-24 23:19:56 [INFO] Galterro was burnt to a crisp whilst fighting Skeleton
+2013-08-24 23:21:05 [INFO] Connection reset
+2013-08-24 23:21:05 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-24 23:21:05 [INFO] §eMasterMyxx left the game.
+2013-08-24 23:22:59 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 23:23:00 [INFO] MasterMyxx[/83.202.123.12:11697] logged in with entity id 81269 at ([Mystt World] -144.68718898262867, 13.0, 620.7273828729867)
+2013-08-24 23:24:21 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-24 23:24:21 [INFO] Connection reset
+2013-08-24 23:24:21 [INFO] §eGaranduil left the game.
+2013-08-24 23:24:23 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-24 23:24:24 [INFO] Garanduil[/67.11.34.202:54378] logged in with entity id 83197 at ([Mystt World] -144.40647620366332, 13.0, 615.5948381829223)
+2013-08-24 23:25:24 [INFO] mystt issued server command: /tp mystt MasterMyxx
+2013-08-24 23:25:24 [INFO] mystt: Teleported mystt to MasterMyxx[m
+2013-08-24 23:26:31 [INFO] mystt issued server command: /gamemode survival mystt
+2013-08-24 23:26:31 [INFO] mystt: Set own game mode to SURVIVAL mode[m
+2013-08-24 23:27:16 [INFO] mystt issued server command: /tp mystt Galterro
+2013-08-24 23:27:16 [INFO] mystt: Teleported mystt to Galterro[m
+2013-08-24 23:31:17 [INFO] mystt issued server command: /gamemode creative mystt
+2013-08-24 23:31:17 [INFO] mystt: Set own game mode to CREATIVE mode[m
+2013-08-24 23:32:05 [INFO] Connection reset
+2013-08-24 23:32:05 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-24 23:32:05 [INFO] §eMasterMyxx left the game.
+2013-08-24 23:32:06 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 23:32:08 [INFO] MasterMyxx[/83.202.123.12:11722] logged in with entity id 94235 at ([Mystt World] -137.03844305659692, 13.0, 570.6633914376393)
+2013-08-24 23:32:10 [INFO] Connection reset
+2013-08-24 23:32:10 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-24 23:32:10 [INFO] §eMasterMyxx left the game.
+2013-08-24 23:32:13 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 23:32:14 [INFO] MasterMyxx[/83.202.123.12:11724] logged in with entity id 94497 at ([Mystt World] -137.03844305659692, 13.0, 570.6633914376393)
+2013-08-24 23:32:20 [INFO] Connection reset
+2013-08-24 23:32:20 [INFO] MasterMyxx lost connection: disconnect.endOfStream
+2013-08-24 23:32:20 [INFO] §eMasterMyxx left the game.
+2013-08-24 23:32:37 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-24 23:32:38 [INFO] MasterMyxx[/83.202.123.12:11744] logged in with entity id 95304 at ([Mystt World] -139.0269259445377, 12.0, 574.3728253120354)
+2013-08-24 23:34:26 [INFO] Galterro lost connection: disconnect.quitting
+2013-08-24 23:34:26 [INFO] Connection reset
+2013-08-24 23:34:26 [INFO] §eGalterro left the game.
+2013-08-24 23:44:19 [INFO] mystt issued server command: /weather set clear
+2013-08-24 23:50:56 [INFO] mystt issued server command: /tp mystt Ushushe
+2013-08-24 23:50:56 [INFO] mystt: Teleported mystt to Ushushe[m
+2013-08-24 23:59:03 [INFO] mystt issued server command: /give mystt 52 64
+2013-08-24 23:59:03 [INFO] mystt: Gave mystt some 52 (MOB_SPAWNER)[m
+2013-08-24 23:59:23 [INFO] mystt issued server command: /give mystt 52 64
+2013-08-24 23:59:23 [INFO] mystt: Gave mystt some 52 (MOB_SPAWNER)[m
+2013-08-25 00:08:59 [INFO] mystt issued server command: /tp mystt Ushushe
+2013-08-25 00:08:59 [INFO] mystt: Teleported mystt to Ushushe[m
+2013-08-25 00:10:21 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 00:10:23 [INFO] Galterro[/92.155.198.4:50344] logged in with entity id 229409 at ([Mystt World] 139.76157759267696, 27.0, -275.76493596856886)
+2013-08-25 00:17:53 [INFO] Connection reset
+2013-08-25 00:17:53 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-25 00:17:53 [INFO] §eMasterMyxx left the game.
+2013-08-25 00:18:12 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-25 00:18:13 [INFO] MasterMyxx[/83.202.123.12:11864] logged in with entity id 243692 at ([Mystt World] -70.13778240513517, 41.0, 27.63684545561635)
+2013-08-25 00:26:22 [INFO] mystt issued server command: /give mystt 52:2 64
+2013-08-25 00:26:28 [INFO] Connection reset
+2013-08-25 00:26:28 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-25 00:26:28 [INFO] §eGaranduil left the game.
+2013-08-25 00:26:28 [INFO] Connection reset
+2013-08-25 00:26:28 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-25 00:26:28 [INFO] §eMasterMyxx left the game.
+2013-08-25 00:26:30 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-25 00:26:31 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-25 00:26:32 [INFO] MasterMyxx[/83.202.123.12:11907] logged in with entity id 374033 at ([Mystt World] -70.70608202922205, 41.0, -174.92684321770847)
+2013-08-25 00:26:36 [INFO] Garanduil[/67.11.34.202:57373] logged in with entity id 374805 at ([Mystt World] -70.30000001192096, 41.0, -182.75824941484782)
+2013-08-25 00:26:45 [INFO] mystt issued server command: /give mystt 52:3 64
+2013-08-25 00:26:57 [INFO] mystt issued server command: /give mystt 52 64
+2013-08-25 00:26:57 [INFO] mystt: Gave mystt some 52 (MOB_SPAWNER)[m
+2013-08-25 00:45:50 [INFO] mystt issued server command: /tp Ushushe mystt
+2013-08-25 00:45:50 [INFO] mystt: Teleported Ushushe to mystt[m
+2013-08-25 00:49:25 [INFO] Connection reset
+2013-08-25 00:49:25 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-25 00:49:25 [INFO] §eUshushe left the game.
+2013-08-25 00:55:37 [INFO] Galterro tried to swim in lava
+2013-08-25 00:59:09 [INFO] mystt issued server command: /give Galterro diamond 10
+2013-08-25 00:59:09 [INFO] mystt: Gave Galterro some 264 (DIAMOND)[m
+2013-08-25 01:02:44 [INFO] mystt issued server command: /give Galterro diamond 4
+2013-08-25 01:02:44 [INFO] mystt: Gave Galterro some 264 (DIAMOND)[m
+2013-08-25 01:11:43 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-25 01:11:44 [INFO] Ushushe[/67.11.34.202:54491] logged in with entity id 476290 at ([Mystt World] 268.3671105311503, 101.0, -465.45077420622533)
+2013-08-25 01:14:25 [WARNING] MasterMyxx moved wrongly!
+2013-08-25 01:14:28 [INFO] MasterMyxx tried to swim in lava to escape mystt
+2013-08-25 01:14:56 [INFO] mystt issued server command: /tp MasterMyxx Garanduil
+2013-08-25 01:14:56 [INFO] mystt: Teleported MasterMyxx to Garanduil[m
+2013-08-25 01:17:56 [INFO] Connection reset
+2013-08-25 01:17:56 [INFO] MasterMyxx lost connection: disconnect.endOfStream
+2013-08-25 01:17:56 [INFO] §eMasterMyxx left the game.
+2013-08-25 01:18:13 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-25 01:18:14 [INFO] MasterMyxx[/83.202.123.12:12252] logged in with entity id 497548 at ([Mystt World] 261.2788817437048, 96.0, -458.32735924335896)
+2013-08-25 01:18:40 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-25 01:18:40 [INFO] Connection reset
+2013-08-25 01:18:40 [INFO] §eMasterMyxx left the game.
+2013-08-25 01:18:58 [INFO] Connection reset
+2013-08-25 01:18:58 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-25 01:18:58 [INFO] §eUshushe left the game.
+2013-08-25 01:19:19 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-25 01:19:20 [INFO] Ushushe[/67.11.34.202:54593] logged in with entity id 500941 at ([Mystt World] 269.8999485451696, 101.0, -452.99588417132077)
+2013-08-25 01:19:32 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-25 01:19:34 [INFO] MasterMyxx[/83.202.123.12:12395] logged in with entity id 502131 at ([Mystt World] 259.3103161858907, 94.0, -458.32512572214034)
+2013-08-25 01:19:36 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-25 01:19:36 [INFO] Connection reset
+2013-08-25 01:19:37 [INFO] §eMasterMyxx left the game.
+2013-08-25 01:19:55 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-25 01:19:57 [INFO] MasterMyxx[/83.202.123.12:12415] logged in with entity id 503120 at ([Mystt World] 259.3103161858907, 94.0, -458.32512572214034)
+2013-08-25 01:23:07 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-25 01:23:07 [INFO] Connection reset
+2013-08-25 01:23:07 [INFO] §eMasterMyxx left the game.
+2013-08-25 01:23:24 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-25 01:23:42 [INFO] MasterMyxx[/83.202.123.12:12447] logged in with entity id 515286 at ([Mystt World] 273.93045229087966, 101.0, -433.85426678766123)
+2013-08-25 01:23:55 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-25 01:23:55 [INFO] Connection reset
+2013-08-25 01:23:55 [INFO] §eUshushe left the game.
+2013-08-25 01:23:56 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-25 01:23:58 [INFO] Ushushe[/67.11.34.202:54623] logged in with entity id 515662 at ([Mystt World] 269.5300645596518, 101.0, -457.82159324929046)
+2013-08-25 01:24:00 [INFO] mystt issued server command: /give Garanduil 265 64
+2013-08-25 01:24:00 [INFO] mystt: Gave Garanduil some 265 (IRON_INGOT)[m
+2013-08-25 01:24:05 [INFO] mystt issued server command: /give Garanduil 265 64
+2013-08-25 01:24:05 [INFO] mystt: Gave Garanduil some 265 (IRON_INGOT)[m
+2013-08-25 01:24:46 [INFO] mystt issued server command: /give MasterMyxx 265 64
+2013-08-25 01:24:46 [INFO] mystt: Gave MasterMyxx some 265 (IRON_INGOT)[m
+2013-08-25 01:25:57 [INFO] Connection reset
+2013-08-25 01:25:57 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-25 01:25:58 [INFO] §eUshushe left the game.
+2013-08-25 01:27:20 [INFO] mystt issued server command: /give MasterMyxx 274 20
+2013-08-25 01:27:20 [INFO] mystt: Gave MasterMyxx some 274 (STONE_PICKAXE)[m
+2013-08-25 01:27:44 [INFO] mystt issued server command: /give MasterMyxx 261 2
+2013-08-25 01:27:44 [INFO] mystt: Gave MasterMyxx some 261 (BOW)[m
+2013-08-25 01:27:51 [INFO] mystt issued server command: /give MasterMyxx 262 64
+2013-08-25 01:27:51 [INFO] mystt: Gave MasterMyxx some 262 (ARROW)[m
+2013-08-25 01:28:01 [INFO] mystt issued server command: /give MasterMyxx 50 64
+2013-08-25 01:28:01 [INFO] mystt: Gave MasterMyxx some 50 (TORCH)[m
+2013-08-25 01:28:03 [INFO] mystt issued server command: /give MasterMyxx 50 64
+2013-08-25 01:28:03 [INFO] mystt: Gave MasterMyxx some 50 (TORCH)[m
+2013-08-25 01:28:04 [INFO] mystt issued server command: /give MasterMyxx 50 64
+2013-08-25 01:28:04 [INFO] mystt: Gave MasterMyxx some 50 (TORCH)[m
+2013-08-25 01:28:06 [INFO] mystt issued server command: /give MasterMyxx 50 64
+2013-08-25 01:28:06 [INFO] mystt: Gave MasterMyxx some 50 (TORCH)[m
+2013-08-25 01:28:07 [INFO] mystt issued server command: /give MasterMyxx 50 64
+2013-08-25 01:28:07 [INFO] mystt: Gave MasterMyxx some 50 (TORCH)[m
+2013-08-25 01:28:07 [INFO] mystt issued server command: /give MasterMyxx 50 64
+2013-08-25 01:28:07 [INFO] mystt: Gave MasterMyxx some 50 (TORCH)[m
+2013-08-25 01:28:08 [INFO] mystt issued server command: /give MasterMyxx 50 64
+2013-08-25 01:28:08 [INFO] mystt: Gave MasterMyxx some 50 (TORCH)[m
+2013-08-25 01:28:12 [INFO] MasterMyxx was slain by Garanduil
+2013-08-25 01:28:21 [INFO] mystt issued server command: /tp Garanduil MasterMyxx
+2013-08-25 01:28:21 [INFO] mystt: Teleported Garanduil to MasterMyxx[m
+2013-08-25 01:28:58 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:28:58 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:29:05 [INFO] mystt issued server command: /tp MasterMyxx Galterro
+2013-08-25 01:29:05 [INFO] mystt: Teleported MasterMyxx to Galterro[m
+2013-08-25 01:29:11 [INFO] mystt issued server command: /tp MasterMyxx Garanduil
+2013-08-25 01:29:11 [INFO] mystt: Teleported MasterMyxx to Garanduil[m
+2013-08-25 01:29:21 [INFO] mystt issued server command: /tp MasterMyxx Galterro
+2013-08-25 01:29:21 [INFO] mystt: Teleported MasterMyxx to Galterro[m
+2013-08-25 01:29:27 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:29:27 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:31:44 [INFO] mystt issued server command: /give MasterMyxx 306 1
+2013-08-25 01:31:44 [INFO] mystt: Gave MasterMyxx some 306 (IRON_HELMET)[m
+2013-08-25 01:31:49 [INFO] mystt issued server command: /give MasterMyxx 307 1
+2013-08-25 01:31:49 [INFO] mystt: Gave MasterMyxx some 307 (IRON_CHESTPLATE)[m
+2013-08-25 01:31:53 [INFO] mystt issued server command: /give MasterMyxx 308 1
+2013-08-25 01:31:53 [INFO] mystt: Gave MasterMyxx some 308 (IRON_LEGGINGS)[m
+2013-08-25 01:31:58 [INFO] mystt issued server command: /give MasterMyxx 309 1
+2013-08-25 01:31:58 [INFO] mystt: Gave MasterMyxx some 309 (IRON_BOOTS)[m
+2013-08-25 01:32:34 [INFO] mystt issued server command: /give MasterMyxx 325 2
+2013-08-25 01:32:34 [INFO] mystt: Gave MasterMyxx some 325 (BUCKET)[m
+2013-08-25 01:32:56 [INFO] mystt issued server command: /tp MasterMyxx Garanduil
+2013-08-25 01:32:56 [INFO] mystt: Teleported MasterMyxx to Garanduil[m
+2013-08-25 01:34:57 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:34:57 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:35:03 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:35:03 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:37:32 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:37:32 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:37:39 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:37:39 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:39:08 [INFO] mystt lost connection: disconnect.quitting
+2013-08-25 01:39:08 [INFO] Connection reset
+2013-08-25 01:39:08 [INFO] §emystt left the game.
+2013-08-25 01:39:10 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 01:39:11 [INFO] mystt[/92.155.198.4:50499] logged in with entity id 553974 at ([Mystt World] -457.9456056113007, 70.5, 710.8653466000407)
+2013-08-25 01:39:30 [INFO] Connection reset
+2013-08-25 01:39:30 [INFO] mystt lost connection: disconnect.genericReason
+2013-08-25 01:39:30 [INFO] §emystt left the game.
+2013-08-25 01:39:55 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 01:39:56 [INFO] mystt[/92.155.198.4:50528] logged in with entity id 555078 at ([Mystt World] -458.16385499294285, 71.0, 708.6943310308078)
+2013-08-25 01:40:33 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-25 01:40:35 [INFO] Ushushe[/67.11.34.202:54698] logged in with entity id 556602 at ([Mystt World] 261.2466998917785, 101.0, -466.25021275893187)
+2013-08-25 01:43:39 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:43:39 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:43:59 [INFO] mystt issued server command: /tp Garanduil Ushushe
+2013-08-25 01:43:59 [INFO] mystt: Teleported Garanduil to Ushushe[m
+2013-08-25 01:44:28 [INFO] mystt issued server command: /tp Garanduil Galterro
+2013-08-25 01:44:28 [INFO] mystt: Teleported Garanduil to Galterro[m
+2013-08-25 01:44:51 [INFO] mystt issued server command: /tp Garanduil MasterMyxx
+2013-08-25 01:44:51 [INFO] mystt: Teleported Garanduil to MasterMyxx[m
+2013-08-25 01:45:23 [INFO] mystt issued server command: /time set 0
+2013-08-25 01:45:23 [INFO] mystt: Set time to 0[m
+2013-08-25 01:46:18 [INFO] mystt issued server command: /tp MasterMyxx mys
+2013-08-25 01:46:21 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:46:21 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:47:42 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:47:42 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:47:55 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:47:55 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:47:58 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:47:58 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:00 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:00 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:01 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:01 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:02 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:02 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:03 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:03 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:04 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:04 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:05 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:05 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:05 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:05 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:06 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:06 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:06 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:06 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:06 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:06 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:07 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:07 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:07 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:07 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:08 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:08 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:08 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:08 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:08 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:08 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:09 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 01:48:09 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 01:48:19 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:19 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:48:22 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:22 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:48:23 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:23 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:48:24 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:24 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:48:24 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:24 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:48:25 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:25 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:48:25 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:25 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:48:27 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:27 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:48:28 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:28 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:48:29 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 01:48:29 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 01:52:40 [INFO] MasterMyxx was slain by Garanduil
+2013-08-25 01:52:52 [INFO] mystt issued server command: /tp MasterMyxx Garanduil
+2013-08-25 01:52:52 [INFO] mystt: Teleported MasterMyxx to Garanduil[m
+2013-08-25 01:54:04 [INFO] mystt issued server command: /tp Galterro Ushushe
+2013-08-25 01:54:04 [INFO] mystt: Teleported Galterro to Ushushe[m
+2013-08-25 01:58:28 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:28 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:29 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:29 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:30 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:30 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:30 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:30 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:31 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:31 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:31 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:31 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:32 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:32 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:32 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:32 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:32 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:32 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:33 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:33 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:33 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:33 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:33 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:33 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:34 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:34 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:34 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:34 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:34 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:34 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:35 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:35 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:35 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:35 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:35 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:35 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:35 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:35 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:36 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:36 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:36 [INFO] mystt issued server command: /give Garanduil 27 64
+2013-08-25 01:58:36 [INFO] mystt: Gave Garanduil some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:43 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:43 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:44 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:44 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:44 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:44 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:44 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:44 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:45 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:45 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:45 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:45 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:45 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:45 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:46 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:46 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:46 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:46 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:46 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:46 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:46 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:46 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:47 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:47 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:47 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:47 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:47 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:47 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:48 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:48 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:48 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:48 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:48 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:48 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:49 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:49 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:49 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:49 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:49 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:49 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:49 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:49 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:50 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:50 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:50 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:50 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:50 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:50 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:51 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:51 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 01:58:51 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 01:58:51 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:00:02 [INFO] mystt issued server command: /give MasterMyxx 66 64
+2013-08-25 02:00:02 [INFO] mystt: Gave MasterMyxx some 66 (RAILS)[m
+2013-08-25 02:00:22 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:22 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:22 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:22 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:22 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:22 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:23 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:23 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:23 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:23 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:24 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:24 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:24 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:24 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:24 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:24 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:25 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:25 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:25 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:25 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:25 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:25 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:26 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:26 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:26 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:26 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:26 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:26 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:26 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:26 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:27 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:27 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:27 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:27 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:27 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:27 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:28 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:28 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:28 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:28 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:28 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:28 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:28 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:28 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:00:29 [INFO] mystt issued server command: /give Garanduil 66 64
+2013-08-25 02:00:29 [INFO] mystt: Gave Garanduil some 66 (RAILS)[m
+2013-08-25 02:01:00 [INFO] mystt issued server command: /give Garanduil 329 2
+2013-08-25 02:01:00 [INFO] mystt: Gave Garanduil some 329 (SADDLE)[m
+2013-08-25 02:01:59 [INFO] mystt issued server command: /tp mystt Ushushe
+2013-08-25 02:01:59 [INFO] mystt: Teleported mystt to Ushushe[m
+2013-08-25 02:03:28 [INFO] mystt issued server command: /tp Galterro mystt
+2013-08-25 02:03:28 [INFO] mystt: Teleported Galterro to mystt[m
+2013-08-25 02:04:54 [INFO] mystt lost connection: disconnect.quitting
+2013-08-25 02:04:54 [INFO] Connection reset
+2013-08-25 02:04:54 [INFO] §emystt left the game.
+2013-08-25 02:04:55 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 02:04:56 [INFO] mystt[/92.155.198.4:50564] logged in with entity id 615414 at ([Mystt World] 281.07499998807907, 101.0, -479.749520876661)
+2013-08-25 02:06:26 [INFO] mystt lost connection: disconnect.quitting
+2013-08-25 02:06:26 [INFO] Connection reset
+2013-08-25 02:06:26 [INFO] §emystt left the game.
+2013-08-25 02:06:50 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 02:06:52 [INFO] mystt[/92.155.198.4:50591] logged in with entity id 619218 at ([Mystt World] 279.4344636458406, 101.0, -481.0519865664947)
+2013-08-25 02:09:04 [INFO] Connection reset
+2013-08-25 02:09:04 [INFO] Galterro lost connection: disconnect.quitting
+2013-08-25 02:09:04 [INFO] §eGalterro left the game.
+2013-08-25 02:09:32 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:32 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:33 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:33 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:33 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:33 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:34 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:34 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:34 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:34 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:34 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:34 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:34 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:34 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:35 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:35 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:35 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:35 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:35 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:35 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:36 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:36 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:36 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:36 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:36 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:36 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:36 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:36 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:37 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:37 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:37 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:37 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:37 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:37 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:37 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:37 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:38 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:38 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:38 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:38 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:38 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:38 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:38 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:38 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:39 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:39 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:39 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:39 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:39 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:39 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:39 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:39 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:40 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:40 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:40 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:40 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:40 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:40 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:40 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:40 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:41 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:41 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:41 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:41 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:41 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:41 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:41 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:41 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:42 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:42 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:42 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:42 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:42 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:42 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:09:43 [INFO] mystt issued server command: /give MasterMyxx 27 64
+2013-08-25 02:09:43 [INFO] mystt: Gave MasterMyxx some 27 (POWERED_RAIL)[m
+2013-08-25 02:18:35 [INFO] mystt issued server command: /tp Ushushe mystt
+2013-08-25 02:18:35 [INFO] mystt: Teleported Ushushe to mystt[m
+2013-08-25 02:18:54 [INFO] mystt issued server command: /tp mystt MasterMyxx
+2013-08-25 02:18:54 [INFO] mystt: Teleported mystt to MasterMyxx[m
+2013-08-25 02:19:28 [INFO] Ushushe lost connection: disconnect.quitting
+2013-08-25 02:19:28 [INFO] Connection reset
+2013-08-25 02:19:28 [INFO] §eUshushe left the game.
+2013-08-25 02:29:11 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:11 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:12 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:12 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:13 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:13 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:13 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:13 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:14 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:14 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:14 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:14 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:14 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:14 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:15 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:15 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:15 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:15 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:15 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:15 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:15 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:15 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:16 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:16 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:16 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:16 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:16 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:16 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:16 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:16 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:17 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:17 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:17 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:17 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:17 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:17 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:17 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:17 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:18 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:18 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:18 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:18 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:29:18 [INFO] mystt issued server command: /give Garanduil 76 64
+2013-08-25 02:29:18 [INFO] mystt: Gave Garanduil some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:31:13 [INFO] mystt issued server command: /give MasterMyxx 76 64
+2013-08-25 02:31:13 [INFO] mystt: Gave MasterMyxx some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:31:14 [INFO] mystt issued server command: /give MasterMyxx 76 64
+2013-08-25 02:31:14 [INFO] mystt: Gave MasterMyxx some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:31:15 [INFO] mystt issued server command: /give MasterMyxx 76 64
+2013-08-25 02:31:15 [INFO] mystt: Gave MasterMyxx some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:31:15 [INFO] mystt issued server command: /give MasterMyxx 76 64
+2013-08-25 02:31:15 [INFO] mystt: Gave MasterMyxx some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:31:16 [INFO] mystt issued server command: /give MasterMyxx 76 64
+2013-08-25 02:31:16 [INFO] mystt: Gave MasterMyxx some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:31:16 [INFO] mystt issued server command: /give MasterMyxx 76 64
+2013-08-25 02:31:16 [INFO] mystt: Gave MasterMyxx some 76 (REDSTONE_TORCH_ON)[m
+2013-08-25 02:33:42 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 02:33:42 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 02:35:44 [INFO] MasterMyxx fell from a high place
+2013-08-25 02:38:01 [INFO] MasterMyxx was slain by Spider
+2013-08-25 02:38:09 [INFO] <MasterMyxx> tp moi sur toi stp[m
+2013-08-25 02:38:37 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 02:38:37 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 02:39:42 [INFO] MasterMyxx was slain by mystt
+2013-08-25 02:39:49 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 02:39:49 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 02:59:10 [INFO] MasterMyxx was slain by Zombie
+2013-08-25 02:59:20 [INFO] mystt issued server command: /time set 0
+2013-08-25 02:59:20 [INFO] mystt: Set time to 0[m
+2013-08-25 02:59:25 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 02:59:25 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 03:01:07 [INFO] mystt issued server command: /tp MasterMyxx Garanduil
+2013-08-25 03:01:07 [INFO] mystt: Teleported MasterMyxx to Garanduil[m
+2013-08-25 03:03:21 [INFO] MasterMyxx lost connection: disconnect.quitting
+2013-08-25 03:03:21 [INFO] Connection reset
+2013-08-25 03:03:21 [INFO] §eMasterMyxx left the game.
+2013-08-25 03:17:33 [WARNING] Garanduil moved wrongly!
+2013-08-25 03:18:58 [SEVERE] Reached end of stream for /83.202.123.12
+2013-08-25 03:19:00 [INFO] MasterMyxx[/83.202.123.12:15209] logged in with entity id 756135 at ([Mystt World] -150.57646475513954, 35.0, 598.7394819797568)
+2013-08-25 03:19:06 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 03:19:06 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 03:20:32 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 03:20:32 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 03:20:44 [INFO] <mystt> coucou[m
+2013-08-25 03:20:44 [INFO] <MasterMyxx> ........................[m
+2013-08-25 03:21:00 [INFO] <mystt> Va t'en hackeur de comptes minecraft[m
+2013-08-25 03:21:13 [INFO] <MasterMyxx> je test un skin avant de dodo[m
+2013-08-25 03:21:18 [INFO] <MasterMyxx> tu me vois?[m
+2013-08-25 03:21:22 [INFO] <mystt> nan[m
+2013-08-25 03:21:28 [INFO] <mystt> Je suis dans le train[m
+2013-08-25 03:21:41 [INFO] <mystt> coucou[m
+2013-08-25 03:21:52 [INFO] mystt issued server command: /tp mystt Garanduil
+2013-08-25 03:21:52 [INFO] mystt: Teleported mystt to Garanduil[m
+2013-08-25 03:23:03 [INFO] <MasterMyxx> ...............[m
+2013-08-25 03:23:05 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:05 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:05 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:05 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:06 [INFO] <MasterMyxx> .t[m
+2013-08-25 03:23:06 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:06 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:06 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:07 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:07 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:08 [INFO] <MasterMyxx> t.[m
+2013-08-25 03:23:08 [INFO] <MasterMyxx> .[m
+2013-08-25 03:23:09 [INFO] mystt issued server command: /tp MasterMyxx mystt
+2013-08-25 03:23:09 [INFO] mystt: Teleported MasterMyxx to mystt[m
+2013-08-25 03:24:17 [INFO] <MasterMyxx> ++[m
+2013-08-25 03:24:20 [INFO] Connection reset
+2013-08-25 03:24:20 [INFO] MasterMyxx lost connection: disconnect.endOfStream
+2013-08-25 03:24:20 [INFO] §eMasterMyxx left the game.
+2013-08-25 03:24:21 [INFO] <mystt> bisous[m
+2013-08-25 03:29:37 [INFO] mystt issued server command: /time set 0
+2013-08-25 03:29:37 [INFO] mystt: Set time to 0[m
+2013-08-25 03:33:30 [INFO] Garanduil fell from a high place
+2013-08-25 03:39:50 [INFO] mystt issued server command: /time set 0
+2013-08-25 03:39:50 [INFO] mystt: Set time to 0[m
+2013-08-25 03:46:11 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 03:46:11 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 03:50:37 [INFO] mystt issued server command: /time set 0
+2013-08-25 03:50:37 [INFO] mystt: Set time to 0[m
+2013-08-25 03:55:06 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 03:55:06 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 03:56:55 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 03:56:55 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 03:57:11 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 03:57:11 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 03:57:34 [INFO] mystt issued server command: /weather clear
+2013-08-25 03:57:34 [INFO] mystt: Changed weather to clear for 318 seconds.[m
+2013-08-25 03:57:38 [INFO] mystt issued server command: /time set 0
+2013-08-25 03:57:38 [INFO] mystt: Set time to 0[m
+2013-08-25 04:04:52 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 04:04:52 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 04:07:42 [INFO] mystt issued server command: /time set 0
+2013-08-25 04:07:42 [INFO] mystt: Set time to 0[m
+2013-08-25 04:08:10 [INFO] Garanduil drowned whilst trying to escape mystt
+2013-08-25 04:08:20 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 04:08:20 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 04:08:30 [INFO] mystt issued server command: /xp 10000 Garanduil
+2013-08-25 04:08:30 [INFO] mystt: Given 10000 experience to Garanduil[m
+2013-08-25 04:08:51 [INFO] mystt issued server command: /gamemode creative Garanduil
+2013-08-25 04:08:51 [INFO] mystt: Set Garanduil's game mode to CREATIVE mode[m
+2013-08-25 04:13:34 [INFO] mystt lost connection: disconnect.quitting
+2013-08-25 04:13:34 [INFO] Connection reset
+2013-08-25 04:13:34 [INFO] §emystt left the game.
+2013-08-25 04:13:36 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 04:13:39 [INFO] mystt[/92.155.198.4:50778] logged in with entity id 819260 at ([Mystt World] -562.6940012533321, 85.67128330854445, 544.444742054109)
+2013-08-25 04:15:58 [INFO] Connection reset
+2013-08-25 04:15:58 [INFO] mystt lost connection: disconnect.endOfStream
+2013-08-25 04:15:58 [INFO] §emystt left the game.
+2013-08-25 04:16:22 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 04:16:32 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 04:16:33 [INFO] mystt[/92.155.198.4:50809] logged in with entity id 821862 at ([Mystt World] -562.6940012533321, 85.67128330854445, 544.444742054109)
+2013-08-25 04:16:43 [INFO] mystt issued server command: /weather clear
+2013-08-25 04:16:43 [INFO] mystt: Changed weather to clear for 576 seconds.[m
+2013-08-25 04:16:57 [INFO] mystt issued server command: /gamemode survival Garanduil
+2013-08-25 04:16:57 [INFO] mystt: Set Garanduil's game mode to SURVIVAL mode[m
+2013-08-25 04:17:03 [INFO] mystt issued server command: /tp mystt Garanduil
+2013-08-25 04:17:03 [INFO] mystt: Teleported mystt to Garanduil[m
+2013-08-25 04:18:12 [INFO] mystt issued server command: /time set 0
+2013-08-25 04:18:12 [INFO] mystt: Set time to 0[m
+2013-08-25 04:20:47 [INFO] mystt issued server command: /tp Garanduil mystt
+2013-08-25 04:20:47 [INFO] mystt: Teleported Garanduil to mystt[m
+2013-08-25 04:22:40 [INFO] mystt issued server command: /tp mystt Garanduil
+2013-08-25 04:22:40 [INFO] mystt: Teleported mystt to Garanduil[m
+2013-08-25 04:28:49 [INFO] Connection reset
+2013-08-25 04:28:49 [INFO] mystt lost connection: disconnect.quitting
+2013-08-25 04:28:49 [INFO] §emystt left the game.
+2013-08-25 04:30:53 [INFO] Connection reset
+2013-08-25 04:30:53 [INFO] Garanduil lost connection: disconnect.quitting
+2013-08-25 04:30:53 [INFO] §eGaranduil left the game.
+2013-08-25 13:46:16 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 13:46:20 [INFO] mystt[/92.155.198.4:49817] logged in with entity id 854998 at ([Mystt World] 282.5244167138322, 101.5, -454.1941160626081)
+2013-08-25 13:49:01 [INFO] mystt issued server command: /time set 0
+2013-08-25 13:49:01 [INFO] mystt: Set time to 0[m
+2013-08-25 13:59:08 [INFO] mystt issued server command: /set time 0
+2013-08-25 13:59:16 [INFO] mystt issued server command: /time set 0
+2013-08-25 13:59:16 [INFO] mystt: Set time to 0[m
+2013-08-25 14:03:23 [INFO] Connection reset
+2013-08-25 14:03:23 [INFO] mystt lost connection: disconnect.quitting
+2013-08-25 14:03:23 [INFO] §emystt left the game.
+2013-08-25 14:03:34 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 14:04:24 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 14:04:25 [INFO] mystt[/92.155.198.4:50306] logged in with entity id 908953 at ([Mystt World] -1312.1532741315625, 62.0, 613.8061200583219)
+2013-08-25 14:09:34 [INFO] mystt issued server command: /time set 0
+2013-08-25 14:09:34 [INFO] mystt: Set time to 0[m
+2013-08-25 15:14:22 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 15:14:26 [INFO] Galterro[/92.155.198.4:52645] logged in with entity id 998667 at ([Mystt World] 270.3954511584831, 101.0, -483.40542896536687)
+2013-08-25 15:16:12 [INFO] mystt issued server command: /gamemode adventure Galterro
+2013-08-25 15:16:12 [INFO] mystt: Set Galterro's game mode to ADVENTURE mode[m
+2013-08-25 15:22:36 [INFO] mystt issued server command: /gamemode survival Galterro
+2013-08-25 15:22:36 [INFO] mystt: Set Galterro's game mode to SURVIVAL mode[m
+2013-08-25 15:29:29 [SEVERE] Reached end of stream for /67.11.34.202
+2013-08-25 15:29:36 [INFO] Garanduil[/67.11.34.202:49428] logged in with entity id 1021274 at ([Mystt World] -120.46404476931679, 62.0, -405.05007870717355)
+2013-08-25 15:33:00 [SEVERE] Reached end of stream for /83.202.116.117
+2013-08-25 15:33:01 [INFO] MasterMyxx[/83.202.116.117:2175] logged in with entity id 1029139 at ([Mystt World] -152.77301318437645, 35.0, 591.6126414853924)
+2013-08-25 15:45:47 [INFO] mystt lost connection: disconnect.quitting
+2013-08-25 15:45:47 [INFO] Connection reset
+2013-08-25 15:45:47 [INFO] §emystt left the game.
+2013-08-25 15:45:55 [INFO] Connection reset
+2013-08-25 15:45:55 [INFO] MasterMyxx lost connection: disconnect.endOfStream
+2013-08-25 15:45:55 [INFO] §eMasterMyxx left the game.
+2013-08-25 15:46:26 [SEVERE] Reached end of stream for /83.202.116.117
+2013-08-25 15:46:28 [INFO] MasterMyxx[/83.202.116.117:2208] logged in with entity id 1057685 at ([Mystt World] -108.42500001192089, 97.23413610041985, 589.5996752958745)
+2013-08-25 16:13:57 [INFO] MasterMyxx fell from a high place
+2013-08-25 16:20:12 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 16:20:14 [INFO] mystt[/92.155.198.4:51327] logged in with entity id 1158876 at ([Mystt World] -70.30000001192094, 41.0, -228.75843878064032)
+2013-08-25 16:21:37 [INFO] mystt issued server command: /tp mystt MasterMyxx
+2013-08-25 16:21:37 [INFO] mystt: Teleported mystt to MasterMyxx[m
+2013-08-25 16:28:12 [INFO] mystt lost connection: disconnect.genericReason
+2013-08-25 16:28:12 [INFO] §emystt left the game.
+2013-08-25 16:28:14 [SEVERE] Reached end of stream for /92.155.198.4
+2013-08-25 16:28:17 [INFO] mystt[/92.155.198.4:51340] logged in with entity id 1171605 at ([Mystt World] -105.60123979836366, 73.0, 582.977571186901)
+2013-08-25 16:28:32 [INFO] mystt lost connection: disconnect.genericReason
+2013-08-25 16:28:32 [INFO] §emystt left the game.
+2013-08-25 16:28:35 [SEVERE] Reached end of stream for /92.155.198.4
