@@ -1,0 +1,10 @@
+#Mod Configuration
+#Sun Aug 25 18:23:43 CEST 2013
+enable=true
+blockLimit=2000
+IdPyxis=209
+craftBodySize=-1
+blockTarget=
+blockIgnore=2, 3, 8, 9, 10, 11, 12, 13, 31, 32, 37, 38, 78, 87, 121
+moveKeepTime=60
+blockAppend=

@@ -1,0 +1,127 @@
+2013-08-25 18:03:26 [INFO] [ForgeModLoader] Forge Mod Loader version 6.2.52.836 for Minecraft 1.6.2 loading
+2013-08-25 18:03:26 [INFO] [ForgeModLoader] Java is OpenJDK 64-Bit Server VM, version 1.7.0_25, running on Linux:amd64:3.10.9-xxxx-grs-ipv6-64, installed at /usr/lib/jvm/java-7-openjdk-amd64/jre
+2013-08-25 18:03:26 [FINE] [ForgeModLoader] Java classpath at launch is mcpc.jar
+2013-08-25 18:03:26 [FINE] [ForgeModLoader] Java library path at launch is /usr/java/packages/lib/amd64:/usr/lib/jni:/lib:/usr/lib
+2013-08-25 18:03:26 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2013-08-25 18:03:26 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2013-08-25 18:03:26 [FINE] [ForgeModLoader] Loaded coremod FMLCorePlugin
+2013-08-25 18:03:26 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2013-08-25 18:03:26 [FINE] [ForgeModLoader] Loaded coremod FMLForgePlugin
+2013-08-25 18:03:26 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2013-08-25 18:03:26 [FINE] [ForgeModLoader] Discovering coremods
+2013-08-25 18:03:26 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2013-08-25 18:03:26 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2013-08-25 18:03:26 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
+2013-08-25 18:03:27 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
+2013-08-25 18:03:27 [FINE] [ForgeModLoader] Running coremod plugins
+2013-08-25 18:03:27 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2013-08-25 18:03:27 [FINE] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2013-08-25 18:03:27 [FINE] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2013-08-25 18:03:27 [FINE] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2013-08-25 18:03:27 [FINE] [ForgeModLoader] Validating minecraft
+2013-08-25 18:03:27 [FINE] [ForgeModLoader] Minecraft validated, launching...
+2013-08-25 18:03:28 [INFO] [ForgeModLoader] Launching wrapped minecraft
+2013-08-25 18:03:30 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2013-08-25 18:03:30 [INFO] [ForgeModLoader] MinecraftForge v9.10.0.836 Initialized
+2013-08-25 18:03:30 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2013-08-25 18:03:30 [FINE] [ForgeModLoader] No config directory found, creating one: /root/ProjectOr/serv_minecraft/config
+2013-08-25 18:03:30 [INFO] [ForgeModLoader] Config directory created successfully
+2013-08-25 18:03:30 [INFO] [ForgeModLoader] Reading custom logging properties from /root/ProjectOr/serv_minecraft/config/logging.properties
+2013-08-25 18:03:30 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2013-08-25 18:03:30 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2013-08-25 18:03:30 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2013-08-25 18:03:30 [FINE] [ForgeModLoader] Minecraft is a file at /root/ProjectOr/serv_minecraft/mcpc.jar, loading
+2013-08-25 18:03:30 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2013-08-25 18:03:30 [INFO] [ForgeModLoader] Searching /root/ProjectOr/serv_minecraft/mods for mods
+2013-08-25 18:03:30 [FINE] [ForgeModLoader] Examining file mcpc.jar for potential mods
+2013-08-25 18:03:30 [FINE] [ForgeModLoader] The mod container mcpc.jar appears to be missing an mcmod.info file
+2013-08-25 18:03:32 [INFO] [ForgeModLoader] Forge Mod Loader has identified 3 mods to load
+2013-08-25 18:03:32 [FINER] [ForgeModLoader] Received a system property request ''
+2013-08-25 18:03:32 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2013-08-25 18:03:32 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2013-08-25 18:03:32 [FINE] [ForgeModLoader] Reloading logging properties from /root/ProjectOr/serv_minecraft/config/logging.properties
+2013-08-25 18:03:32 [FINE] [ForgeModLoader] Reloaded logging properties
+2013-08-25 18:03:32 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2013-08-25 18:03:32 [INFO] [mcp] Activating mod mcp
+2013-08-25 18:03:32 [FINE] [FML] Mod Logging channel FML configured at default level.
+2013-08-25 18:03:32 [INFO] [FML] Activating mod FML
+2013-08-25 18:03:32 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2013-08-25 18:03:32 [INFO] [Forge] Activating mod Forge
+2013-08-25 18:03:32 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2013-08-25 18:03:32 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2013-08-25 18:03:32 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2013-08-25 18:03:32 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2013-08-25 18:03:32 [FINE] [ForgeModLoader] Mod sorting data
+2013-08-25 18:03:32 [FINE] [ForgeModLoader] No user mods found to sort
+2013-08-25 18:03:32 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2013-08-25 18:03:32 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2013-08-25 18:03:32 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2013-08-25 18:03:32 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2013-08-25 18:03:32 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2013-08-25 18:03:32 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2013-08-25 18:03:32 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2013-08-25 18:03:32 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (9.10.0.836)
+2013-08-25 18:03:32 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2013-08-25 18:03:32 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2013-08-25 18:03:32 [FINE] [ForgeModLoader] Mod signature data
+2013-08-25 18:03:32 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:8.04): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-08-25 18:03:32 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:6.2.52.836): coremods (NO VALID CERTIFICATE FOUND)
+2013-08-25 18:03:32 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:9.10.0.836): coremods (NO VALID CERTIFICATE FOUND)
+2013-08-25 18:03:32 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2013-08-25 18:03:32 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2013-08-25 18:03:32 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2013-08-25 18:03:32 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2013-08-25 18:03:32 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2013-08-25 18:03:32 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2013-08-25 18:03:32 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2013-08-25 18:03:33 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2013-08-25 18:03:33 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2013-08-25 18:03:33 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2013-08-25 18:03:33 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2013-08-25 18:03:33 [FINEST] [FML] Sending event IMCEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [FML] Sent event IMCEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2013-08-25 18:03:33 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2013-08-25 18:03:33 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2013-08-25 18:03:33 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2013-08-25 18:03:33 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2013-08-25 18:03:33 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2013-08-25 18:03:33 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2013-08-25 18:03:33 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 3 mods
+2013-08-25 18:03:33 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2013-08-25 18:03:33 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2013-08-25 18:03:33 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2013-08-25 18:03:33 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2013-08-25 18:03:34 [INFO] [ForgeModLoader] Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@567814d1)
+2013-08-25 18:03:34 [INFO] [ForgeModLoader] Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@567814d1)
+2013-08-25 18:03:34 [INFO] [ForgeModLoader] Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@567814d1)
+2013-08-25 18:03:47 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2013-08-25 18:03:47 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2013-08-25 18:03:47 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2013-08-25 18:03:47 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2013-08-25 18:03:47 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2013-08-25 18:03:47 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2013-08-25 18:03:47 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2013-08-25 18:03:47 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2013-08-25 18:03:47 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2013-08-25 18:03:47 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2013-08-25 18:03:47 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2013-08-25 18:03:47 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2013-08-25 18:03:49 [INFO] [ForgeModLoader] Unloading dimension 1
+2013-08-25 18:04:46 [FINEST] [ForgeModLoader] Received valid FML login packet from /92.155.198.4:52328

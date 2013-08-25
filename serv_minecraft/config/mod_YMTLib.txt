@@ -1,0 +1,5 @@
+#Mod Configuration
+#Sun Aug 25 18:23:43 CEST 2013
+logConfig=/mod/ymt/cmn/logging.properties
+debug=false
+stdoutIntercept=false
