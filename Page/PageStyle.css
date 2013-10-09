@@ -1,0 +1,71 @@
+@Font-face
+{
+	font-family: 'chunk'
+	src: url('ChunkFive/Chunkfive.otf')
+}
+
+.firstTitle, .fin
+{
+	color: blue;
+}
+
+h1
+{
+	font-size: 2em;
+}
+
+p
+{
+	font-family: Georgia, "Arial Black", serif;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family: chunk, "Comic Sans Ms", "Arial Black", serif
+}
+
+/* attribut class de la balise*/
+.bienvenue
+{
+	font-size: 16px;
+	color: red;
+}
+
+/* Selectionne toutes les balises em dans les p */
+p em
+{
+font-size: small;
+	color: yellow;
+}
+
+/* Selectionne la première em dans p */
+p + em
+{
+	color: brown;
+}
+
+/* selectionne le logo (avec l'attribut id)*/
+#logo
+{
+}
+
+
+/* selecteur universel*/
+* 
+{
+}
+
+/* selectionne tous les liens a qui possèdent un attribut title */
+a[title]
+{
+}
+
+/* selectionne tous les liens a qui possèdent un attribut title="cliquez ici" */
+a[title="cliquez ici"]
+{
+}
+
+/* selectionne tous les liens <a> qui possèdent un attribut title avec au moins le mot "ici" pour valeur*/
+a[title*="ici"]
+{
+}
