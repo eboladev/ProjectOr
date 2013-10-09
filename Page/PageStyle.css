@@ -1,27 +1,77 @@
-@Font-face
+@font-face
 {
-	font-family: 'chunk'
-	src: url('ChunkFive/Chunkfive.otf')
+	font-family: 'chunk';
+	src: url('ChunkFive/Chunkfive.otf');
+
+	font-family: 'goodDog';
+	src: 	url('GoodDog/GoodDog-webfont.eot') format('eot'),
+			url('GoodDog/GoodDog-webfont.woff') format('woff'),
+			url('GoodDog/GoodDog-webfont.ttf') format('truetype'),
+			url('GoodDog/GoodDog-webfont.svg') format('svg');
+}
+
+body
+{
+	background-color: black;
+	background-image: url("IronMan.jpeg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: white;
 }
 
 .firstTitle, .fin
 {
-	color: blue;
+	color: rgb(112,112,112);
 }
 
 h1
 {
+	color: rgb(112,112,112);
+	font-size: 3.5em;
+	text-decoration: underline;
+}
+
+h2
+{
+	color: rgb(112,112,112);
+	font-size: 2.5em;
+	text-decoration: line-through;
+}
+
+h3
+{
+	color: rgb(112,112,112);
 	font-size: 2em;
 }
 
 p
 {
 	font-family: Georgia, "Arial Black", serif;
+	text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6
 {
-	font-family: chunk, "Comic Sans Ms", "Arial Black", serif
+	font-family: 'goodDog', "Comic Sans Ms", "Arial Black", serif;
+	font-weight: normal;
+}
+
+mark
+{
+	font-style: italic;
+}
+
+.defBigData
+{
+	border-radius: 20px / 10px;
+	background-color: white;
+	color: black;
+	box-shadow: 6px 6px 6px black inset;
+}
+
+.bFlotant
+{
+	float: left;
 }
 
 /* attribut class de la balise*/
@@ -38,6 +88,27 @@ font-size: small;
 	color: yellow;
 }
 
+a:hover
+{
+	color: red;
+}
+
+a:active
+{
+	font-style: italic
+}
+
+a
+{
+	color: rgb(41,153,156);
+}
+
+.tnImage
+{
+	border-radius: 8px;
+	border: groove;
+}
+
 /* Selectionne la première em dans p */
 p + em
 {
@@ -47,6 +118,7 @@ p + em
 /* selectionne le logo (avec l'attribut id)*/
 #logo
 {
+	border-radius: 10px;
 }
 
 
