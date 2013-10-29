@@ -1,0 +1,123 @@
+@font-face
+{
+	font-family: 'chunk';
+	src: url('ChunkFive/Chunkfive.otf');
+
+	font-family: 'goodDog';
+	src: 	url('GoodDog/GoodDog-webfont.eot') format('eot'),
+			url('GoodDog/GoodDog-webfont.woff') format('woff'),
+			url('GoodDog/GoodDog-webfont.ttf') format('truetype'),
+			url('GoodDog/GoodDog-webfont.svg') format('svg');
+}
+
+body
+{
+	background-color: rgb(149,149,149);
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+footer
+{
+	border-top: 1px;
+	border-color: rgb(149,149,149);
+	border-top-style: solid;
+	margin-bottom: 0px;
+}
+
+.core
+{
+	background-color: rgb(52,52,52);
+	border-radius: 6px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgb(52,52,52);
+}
+
+p
+{
+	color: rgb(255,255,255);
+	max-width: 1600px;
+	background-color: rgb(52,52,52);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	background-color: rgb(52,52,52);
+	font-family: "Comic Sans Ms", "Arial Black", serif;
+	color: white;
+}
+
+header
+{
+	text-align:center;
+}
+
+header, footer, aside, p, h1, h2, h3, h4, h5, h6, nav, .core
+{
+	background-color: rgb(52,52,52);
+	max-width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav
+{
+	background-color: rgb(35, 35, 35);
+	max-width: 1600px;
+	margin: auto;
+	padding: 1px;
+}
+
+#logo
+{
+}
+
+a
+{
+	color: orange;
+}
+
+a:hover
+{
+	color: red;
+}
+
+.sectionGauche
+{
+	display: inline-block;
+	border: 1px solid black;
+	vertical-align: top;
+	padding: 20px;
+	width: 425px;
+}
+
+.sectionMilieu
+{
+	display: inline-block;
+	border: 1px solid black;
+	vertical-align: top;
+	padding: 20px;
+	width: 425px
+}
+
+.sectionDroite
+{
+	display: inline-block;
+	border: 1px solid black;
+	vertical-align: top;
+	padding: 20px;
+	width: 425px
+}
+
+footer
+{
+	margin-top: 20px;
+}
+
+.copyright
+{
+	text-align: center;
+}

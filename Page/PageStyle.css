@@ -10,12 +10,13 @@
 			url('GoodDog/GoodDog-webfont.svg') format('svg');
 }
 
-body
+header
 {
 	background-color: black;
-	background-image: url("IronMan.jpeg");
+	background-image: url("wallpaper_IM.jpeg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
+	background-position: -150px 0px;
 	color: white;
 }
 
