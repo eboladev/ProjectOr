@@ -25,6 +25,7 @@ footer
 	border-color: rgb(149,149,149);
 	border-top-style: solid;
 	margin-bottom: 0px;
+	padding: 10px;
 }
 
 .core
@@ -33,21 +34,26 @@ footer
 	border-radius: 6px;
 	border-style: solid;
 	border-width: 1px;
-	border-color: rgb(52,52,52);
+}
+
+.pageCentrale
+{
+	position: relative;
+	background-color: rgb(225,225,225);
+	max-width: 900px;
+	margin: auto;
+	padding: 20px;
 }
 
 p
 {
-	color: rgb(255,255,255);
-	max-width: 1600px;
-	background-color: rgb(52,52,52);
+	color: rgb(32,32,32);
 }
 
 h1, h2, h3, h4, h5, h6
 {
-	background-color: rgb(52,52,52);
 	font-family: "Comic Sans Ms", "Arial Black", serif;
-	color: white;
+	color: rgb(32,32,32);
 }
 
 header
@@ -55,20 +61,98 @@ header
 	text-align:center;
 }
 
-header, footer, aside, p, h1, h2, h3, h4, h5, h6, nav, .core
+header, footer, p, h1, h2, h3, h4, h5, h6, nav, .core
 {
-	background-color: rgb(52,52,52);
-	max-width: 1600px;
+	max-width: 900px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
+/* Navigation */
+
 nav
 {
 	background-color: rgb(35, 35, 35);
-	max-width: 1600px;
-	margin: auto;
 	padding: 1px;
+}
+
+nav ul
+{
+	list-style-type: none;
+}
+
+nav li
+{
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a
+{
+	font-size: 1em;
+	text-decoration: none;
+	color: orange;
+}
+
+nav a:hover
+{
+	color: rgb(192,192,192);
+	border-bottom: 1px solid rgb(192,192,192);
+}
+
+nav a:active
+{
+	color: red;
+	border-bottom: 1px solid red;
+}
+
+/* Bannière */
+
+.bannerImg
+{
+	margin-top: 15px;
+    height: 200px;
+    border-radius: 5px;
+    background: url('banners.png') repeat;
+    position: relative;
+    box-shadow: 0px 4px 4px #1c1a19;
+    margin-bottom: 25px;
+}
+
+.banniere_description
+{
+	position: absolute;
+	bottom: 0;
+	border-radius: 0px 0px 5px 5px;
+	width: 99.5%;
+	height: 33px;
+	padding-top: 15px;
+	padding-left: 5px;
+	background-color: rgba(24,24,24,0.8);
+	color: white;
+	font-size: 0.8em;
+}
+
+.bouton_rouge
+{
+    display: inline-block;
+    height: 25px;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    border: 1px solid #760001;
+    border-radius: 5px;
+    font-size: 1.1em;
+    text-align: center;
+    padding: 3px 8px 0px 8px;
+    color: white;
+    text-decoration: none;
+	background: url('fond_degraderouge.png') repeat-x;
+}
+
+.banniere_description a:hover
+{
+	color: black;
 }
 
 #logo
@@ -85,10 +169,23 @@ a:hover
 	color: red;
 }
 
+/* Core de la page */
+
+aside
+{
+	position: absolute;
+	border-radius: 12px;
+	border: solid 1px grey;
+	background-color: grey;
+	right: 20px;
+	display: inline-block;
+	box-shadow: 0px 4px 4px #1c1a19;
+}
+  
 .sectionGauche
 {
 	display: inline-block;
-	border: 1px solid black;
+	border: 0px solid black;
 	vertical-align: top;
 	padding: 20px;
 	width: 425px;
@@ -97,7 +194,7 @@ a:hover
 .sectionMilieu
 {
 	display: inline-block;
-	border: 1px solid black;
+	border: 0px solid black;
 	vertical-align: top;
 	padding: 20px;
 	width: 425px
@@ -106,7 +203,7 @@ a:hover
 .sectionDroite
 {
 	display: inline-block;
-	border: 1px solid black;
+	border: 0px solid black;
 	vertical-align: top;
 	padding: 20px;
 	width: 425px
@@ -114,7 +211,8 @@ a:hover
 
 footer
 {
-	margin-top: 20px;
+	color: white;
+	margin-top: 0px;
 }
 
 .copyright
